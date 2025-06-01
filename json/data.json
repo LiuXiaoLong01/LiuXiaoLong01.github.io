@@ -1,0 +1,5312 @@
+[
+    {
+        "id": 1,
+        "name": "中国国家图书馆",
+        "url": "http:\/\/www.nlc.cn\/",
+        "logo": "https:\/\/www.nlc.cn\/template_resource\/20186\/img\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "中国国家图书馆 · 中国国家数字图书馆 · 国家典籍博物馆",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 2,
+        "name": "E书联盟",
+        "url": "https:\/\/www.book118.com\/",
+        "logo": "https:\/\/www.book118.com\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "E书联盟提供了文档网现有的技术、业务成果，提供了一系列在线文档工具,包含有在线PDF转换成Word转换器,内容非法检测,色情检测,宗教检测,政府公文检测,垃圾检测,文档原创度检测,文档重复检测, 标题重复检测,收录分析,排名分析,竞品分析,唯一性分析,长尾关键词推荐,文档需求挖掘,文档价格预测,智能定价,原创检测,侵权检测\/通知删除,版权登记,区块链存证,论文查重,论文降重,批量去水印,洗文工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 3,
+        "name": "Jiumo Search 鸠摩搜索",
+        "url": "https:\/\/www.jiumodiary.com\/",
+        "logo": "https:\/\/www.jiumodiary.com\/images\/apple\/apple-144.png",
+        "catelog": "图书阅读",
+        "desc": "鸠摩搜索引擎",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 4,
+        "name": "SoBooks",
+        "url": "https:\/\/sobooks.cc\/",
+        "logo": "https:\/\/sobooks.cc\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "一起分享阅读的乐趣",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 5,
+        "name": "向日葵远程",
+        "url": "https:\/\/sunlogin.oray.com\/",
+        "logo": "https:\/\/sunlogin.oray.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "向日葵远程控制软件是一款拥有多年远控技术经验的远程控制软件，可远程控制手机，远程桌面连接，远程开机，远程管理等，并深入各行各业提供企业远程办公、企业IT运维、技术支持等企业远程解决方案。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 6,
+        "name": "书格",
+        "url": "https:\/\/www.shuge.org\/",
+        "logo": "https:\/\/www.shuge.org\/wp-content\/uploads\/2018\/06\/shugeorg-icon.png",
+        "catelog": "图书阅读",
+        "desc": "書格（Shuge.org）是一个自由开放的数字图书馆。致力于开放式分享、介绍、推荐有价值的古籍善本，并鼓励将文化艺术作品数字化归档。分享内容限定为公共版权领域的书籍（参照标准 伯尔尼公约 [2]）；我们最大限度地还原书籍品貌、内容；借此计划让大家自由、免费地欣赏到那些难以现世的书籍。让大家能从中感受到人类文明进程。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 7,
+        "name": "世界数字图书馆",
+        "url": "https:\/\/www.loc.gov\/",
+        "logo": "https:\/\/www.loc.gov\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "The world&#x27;s largest library. View historic photos, maps, books and more. Contact experts for help with research. Plan a visit. Home of U.S. Copyright Office.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 8,
+        "name": "读书网 - dushu.com",
+        "url": "https:\/\/www.dushu.com\/",
+        "logo": "https:\/\/www.dushu.com\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "读书网-全民阅读门户，专业中文图书搜索引擎,在线读书,提供各类免费电子书及图书导购服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 9,
+        "name": "爱悦读网",
+        "url": "https:\/\/www.iyd.wang\/",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/爱悦读网.png",
+        "catelog": "图书阅读",
+        "desc": "爱悦读网，提供epub、mobi、azw3、pdf、txt等格式电子书、多看电子书、kindle电子书等多种格式电子书免费下载。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 10,
+        "name": "搬书匠",
+        "url": "http:\/\/banshujiang.cn\/",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/搬书匠.png",
+        "catelog": "图书阅读",
+        "desc": "搬书匠是一个提供各种编程语言电子书下载的网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 11,
+        "name": "过期杂志阅读平台_参考网",
+        "url": "https:\/\/www.fx361.cc\/",
+        "logo": "https:\/\/www.fx361.cc\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "中文杂志在线阅读网站，收录3000余种刊物，过期杂志阅读首选平台",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 12,
+        "name": "360",
+        "url": "https:\/\/www.360.cn\/",
+        "logo": "https:\/\/www.360.cn\/favicon.ico",
+        "catelog": "电脑管理与安全",
+        "desc": "360集团是全球领先的网络安全与数字化服务提供商",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 13,
+        "name": "火绒安全",
+        "url": "https:\/\/www.huorong.cn\/",
+        "logo": "https:\/\/www.huorong.cn\/favicon.png",
+        "catelog": "电脑管理与安全",
+        "desc": "火绒安全致力于在终端安全领域，为用户提供专业的产品和专注的服务，并持续对外赋能反病毒引擎等自主研发技术，拥有免费个人产品“火绒安全软件”，及企业产品“火绒终端安全管理系统",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 14,
+        "name": "电脑管家-微软电脑管家官方网站",
+        "url": "https:\/\/pcmanager.microsoft.com\/zh-cn?channel=10000",
+        "logo": "https:\/\/pcmanager.microsoft.com\/assets\/favicon.ico",
+        "catelog": "电脑管理与安全",
+        "desc": "微软电脑管家官方网站，微软官方出品，全面体检，深度清理，工具箱。清理系统碎片，释放占用资源，让你的Windows飞速如新",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 15,
+        "name": "腾讯电脑管家官网",
+        "url": "https:\/\/guanjia.qq.com\/",
+        "logo": "https:\/\/guanjia.qq.com\/.\/assets\/images\/v15\/favicon.ico?_t=20230209",
+        "catelog": "电脑管理与安全",
+        "desc": "腾讯电脑管家官网网站，提供正版电脑管家软件下载，最大的安全云库，全新的杀毒引擎，深度清理电脑垃圾，为电脑重回巅峰状态，远程控制电脑，保护电脑安全",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 16,
+        "name": "Avast",
+        "url": "https:\/\/www.avast.com\/zh-cn\/index#pc",
+        "logo": "https:\/\/static3.avast.com\/10004286\/web\/i\/v3\/components\/icons\/seo\/apple-touch-avast-192x192.png",
+        "catelog": "电脑管理与安全",
+        "desc": "和上亿用户一起，获取适用于 PC、Mac 和 Android 的免费防病毒软件。使用我们的 VPN 安全冲浪。下载 Avast！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 17,
+        "name": "傲梅分区助手",
+        "url": "https:\/\/www.disktool.cn\/",
+        "logo": "https:\/\/www.disktool.cn\/favicon.ico",
+        "catelog": "磁盘管理",
+        "desc": "傲梅致力于数据安全领域，为用户提供安全可靠的傲梅分区助手、轻松备份、数据恢复软件恢复之星以及远程控制软件Anyviewer等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 18,
+        "name": "DiskGenius",
+        "url": "https:\/\/www.diskgenius.cn\/",
+        "logo": "https:\/\/www.diskgenius.cn\/favicon.ico",
+        "catelog": "磁盘管理",
+        "desc": "DiskGenius是专家级数据恢复软件，集数据恢复、硬盘分区、系统备份还原等多种功能于一身的超级工具软件",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 19,
+        "name": "SpaceSniffer",
+        "url": "https:\/\/sourceforge.net\/projects\/spacesniffer\/",
+        "logo": "https:\/\/sourceforge.net\/favicon.ico",
+        "catelog": "磁盘管理",
+        "desc": "SpaceSniffer 是一款免费软件（欢迎捐款）和便携式工具应用程序，可让您了解文件夹和文件在磁盘上的结构。通过使用 Treemap 可视化布局，您可以立即了解大文件夹和文件在设备上的放置位置。树状图概念是由 Ben Shneiderman 教授发明的，他允许将他的概念用于此工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 20,
+        "name": "奇客软件中文官网",
+        "url": "https:\/\/www.geekersoft.cn\/",
+        "logo": "https:\/\/www.geekersoft.cn\/favicon.ico",
+        "catelog": "磁盘管理",
+        "desc": "奇客软件致力于开发功能免费强大且易用的免费PDF工具、录屏、数据恢复、手机解锁、图片压缩、OCR识别、分区工具、手机解锁和设备管理等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 21,
+        "name": "HBuilderX-高效极客技巧",
+        "url": "https:\/\/www.dcloud.io\/hbuilderx.html",
+        "logo": "https:\/\/ask.dcloud.net.cn\/static\/css\/classblack\/img\/favicon.png?v=20141207",
+        "catelog": "开发相关",
+        "desc": "HBuilderX是当前最快的HTML开发工具，强大的代码助手帮你快速完成开发，最全的语法库和浏览器兼容性数据让浏览器碎片化不再头痛",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 22,
+        "name": "Notepad++",
+        "url": "https:\/\/notepad-plus.it.softonic.com\/",
+        "logo": "https:\/\/notepad.ruanmao.net\/files\/favicon.ico",
+        "catelog": "开发相关",
+        "desc": "Notepad++ 是目前最好的文本编辑器之一：它直观、易于使用，并包含多个附件功能，这是写字板和经典 Windows 记事本所不知道的。此外，程序员还可以使用它来编辑源代码。它提供与 BlueGriffon 等程序类似的功能，并且还提供便携式版本。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 23,
+        "name": "JDK",
+        "url": "https:\/\/www.oracle.com\/cn\/java\/technologies\/downloads\/",
+        "logo": "https:\/\/www.oracle.com\/asset\/web\/favicons\/favicon-180.png",
+        "catelog": "开发相关",
+        "desc": "Download the Java including the latest version 17 LTS on the Java SE Platform. These downloads can be used for any purpose, at no cost, under the Java SE binary code license.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 24,
+        "name": "IntelliJ IDEA",
+        "url": "https:\/\/www.jetbrains.com\/idea\/",
+        "logo": "https:\/\/www.jetbrains.com\/favicon.ico?r=1234",
+        "catelog": "开发相关",
+        "desc": "IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 25,
+        "name": "SQLyog",
+        "url": "https:\/\/sqlyog.en.softonic.com\/",
+        "logo": "https:\/\/images.sftcdn.net\/images\/t_favicon-v2\/p\/81ea8158-96d6-11e6-a5d9-00163ec9f5fa\/2266146321\/sqlyog-sqlyog.png",
+        "catelog": "开发相关",
+        "desc": "MySQL 可能是世界上最受欢迎的开源数据库引擎，但使用其基于文本的工具和配置文件可能很难进行管理。SQLyog 提供完整的图形界面，即使对于初学者来说，也可以使用 MySQL 的强大功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 26,
+        "name": "Maven仓库",
+        "url": "https:\/\/mvnrepository.com\/",
+        "logo": "https:\/\/mvnrepository.com\/assets\/images\/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico",
+        "catelog": "开发相关",
+        "desc": "MvnRepository",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 27,
+        "name": "Oracle 共享账号 用于JDK下载",
+        "url": "https:\/\/www.aizws.net\/course\/jdk\/jdk-oracle-account",
+        "logo": "https:\/\/www.aizws.net\/static\/images\/logo_aizgs.png",
+        "catelog": "开发相关",
+        "desc": "我们在下载Oracle JDK的时候，必须同意 Oracle 许可协议，然后再使用Oracle账号登录后方可下载，过程非常繁琐。为了省却注册过程，我们提供了共享 Oracle 账号，您可以登录使用，所有账号都已经通过验证，并实时更新。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 28,
+        "name": "Python",
+        "url": "https:\/\/www.python.org\/",
+        "logo": "https:\/\/www.python.org\/static\/apple-touch-icon-precomposed.png",
+        "catelog": "开发相关",
+        "desc": "Python is a programming language that lets you work quickly and integrate systems more effectively",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 29,
+        "name": "Rust",
+        "url": "https:\/\/www.rust-lang.org\/",
+        "logo": "https:\/\/www.rust-lang.org\/static\/images\/safari-pinned-tab.svg?v=ngJW8jGAmR",
+        "catelog": "开发相关",
+        "desc": "A language empowering everyone to build reliable and efficient software.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 30,
+        "name": "Visual Studio Code",
+        "url": "https:\/\/code.visualstudio.com\/download",
+        "logo": "https:\/\/code.visualstudio.com\/assets\/favicon.ico",
+        "catelog": "开发相关",
+        "desc": "免费且基于开源构建。集成 Git、调试和扩展。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 31,
+        "name": "Git",
+        "url": "https:\/\/git-scm.com\/",
+        "logo": "https:\/\/git-scm.com\/favicon.ico",
+        "catelog": "开发相关",
+        "desc": "Git 是一个免费的开源分布式版本控制系统，旨在处理从小型到 快速高效的超大型项目。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 32,
+        "name": "PHP",
+        "url": "https:\/\/www.php.net\/",
+        "logo": "https:\/\/www.php.net\/favicon-32x32.png?v=2",
+        "catelog": "开发相关",
+        "desc": "一种流行的通用脚本语言，特别适合 Web 开发。 PHP 快速、灵活、实用，为您的博客和世界上最受欢迎的网站等各种功能提供支持。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 33,
+        "name": "Node.js",
+        "url": "https:\/\/nodejs.org\/zh-cn",
+        "logo": "https:\/\/nodejs.org\/static\/images\/favicons\/favicon.png",
+        "catelog": "开发相关",
+        "desc": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境, 它让开发人员能够创建服务器 Web 应用、命令行工具和脚本。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 34,
+        "name": "nginx ",
+        "url": "https:\/\/nginx.org\/en\/",
+        "logo": "https:\/\/nginx.org\/favicon.ico",
+        "catelog": "开发相关",
+        "desc": "nginx（“引擎 X”）是一个 HTTP Web 服务器、反向代理、 内容缓存、负载均衡器、 TCP\/UDP 代理服务器、 和邮件代理服务器。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 35,
+        "name": "Apache",
+        "url": "https:\/\/apache.org\/",
+        "logo": "https:\/\/apache.org\/favicons\/favicon.ico",
+        "catelog": "开发相关",
+        "desc": "Apache软件基金会",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 36,
+        "name": "Android 移动应用开发者工具 – Android 开发者 Android Developers",
+        "url": "https:\/\/developer.android.google.cn\/?hl=zh-cn",
+        "logo": "https:\/\/www.gstatic.cn\/devrel-devsite\/prod\/v8d1d0686aef3ca9671e026a6ce14af5c61b805aabef7c385b0e34494acbfc654\/android\/images\/touchicon-180.png",
+        "catelog": "开发相关",
+        "desc": "探索面向所有 Android 设备开发者的最新应用开发工具、平台更新、培训和文档",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 37,
+        "name": "图片转 BASE64 编码 | 菜鸟工具",
+        "url": "https:\/\/c.runoob.com\/front-end\/59\/",
+        "logo": "https:\/\/static.jyshare.com\/images\/c-runoob-logo.ico",
+        "catelog": "图片base64编码互转",
+        "desc": "Base64 是一种基于 64 个可打印字符来表示二进制数据的表示方法。 Base64 常用于在通常处理文本数据的场合，表示、传输、存储一些二进制数据，包括 MIME 的电子邮件及 XML 的一些复杂数据。 图片的 BASE64 编码就是可以将一幅图片数据编码成一串字符串，使用该字符串代替图片地址，从而不需要使用图片的 URL 地址。 图片转 BASE64 编码工具提供了 PNG 转换 Base64，GIF 转换 Base64，JPEG..",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 38,
+        "name": "base64图片在线转换工具 - 站长工具",
+        "url": "https:\/\/tool.chinaz.com\/tools\/imgtobase\/",
+        "logo": "https:\/\/csstools.chinaz.com\/favicon.ico",
+        "catelog": "图片base64编码互转",
+        "desc": "base64图片转换工具，是一款可以在线任意图片格式转Base64 DataUrl编码工具,可以让你很方便地在没有上传文件的条件下将图片插入其它的网页、编辑器中",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 39,
+        "name": "图片在线转换Base64 | 图片编码base64",
+        "url": "https:\/\/www.sojson.com\/image2base64.html",
+        "logo": "https:\/\/scdn.sojson.com\/sojson\/favicon16.png",
+        "catelog": "图片base64编码互转",
+        "desc": "在线工具,提供一款将图片转换为Base64编码的工具，可以让你很方便地在没有上传文件的条件下将图片插入其它的网页、编辑器中。 这对于一些小的图片是极为方便的，因为你不需要再去寻找一个保存图片的地方",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 41,
+        "name": "Bandizip",
+        "url": "https:\/\/www.bandisoft.com\/bandizip\/",
+        "logo": "https:\/\/www.bandisoft.com\/favicon.ico",
+        "catelog": "解压缩",
+        "desc": "Bandizip 是一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。 这是一个免费的软件，其付费版本更是可以使用更多的实用功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 42,
+        "name": "WinRAR",
+        "url": "https:\/\/www.winrar.com.cn\/download.htm",
+        "logo": "https:\/\/www.winrar.com.cn\/favicon.ico",
+        "catelog": "解压缩",
+        "desc": "解压缩",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 43,
+        "name": "7-Zip",
+        "url": "https:\/\/www.7-zip.org\/",
+        "logo": "https:\/\/www.7-zip.org\/favicon.ico",
+        "catelog": "解压缩",
+        "desc": "7-Zip 是开源的免费软件。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 44,
+        "name": "NanaZip",
+        "url": "https:\/\/sourceforge.net\/projects\/nanazip\/",
+        "logo": "https:\/\/nanazip.cn\/favicon.png",
+        "catelog": "解压缩",
+        "desc": "NanaZip 是一个开源的压缩文档管理器，旨在提供现代化的 Windows 体验，基于著名的开源文件存档器 7-Zip 开发。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 45,
+        "name": "GeForce® 驱动程序",
+        "url": "https:\/\/www.nvidia.cn\/geforce\/drivers\/",
+        "logo": "https:\/\/www.nvidia.cn\/favicon.ico",
+        "catelog": "AMD | Inter | NVIDIA驱动下载",
+        "desc": "NVIDIA GeForce 驱动程序官方提供下载最新版的 Geforce 驱动程序，可提升 PC 游戏体验和应用程序速度。更多关于更新显卡驱动程序以及显卡驱动程序下载的信息，请访问 NVIDIA 官网",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 46,
+        "name": "官方 NVIDIA 驱动",
+        "url": "https:\/\/www.nvidia.cn\/drivers\/lookup\/",
+        "logo": "https:\/\/www.nvidia.cn\/favicon.ico",
+        "catelog": "AMD | Inter | NVIDIA驱动下载",
+        "desc": "下载最新官方 NVIDIA 驱动，增强 PC 游戏体验并更快地运行应用",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 47,
+        "name": "英特尔® 驱动程序和支持助理",
+        "url": "https:\/\/www.intel.cn\/content\/www\/cn\/zh\/support\/detect.html",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/intel.png",
+        "catelog": "AMD | Inter | NVIDIA驱动下载",
+        "desc": "通过对您的英特尔硬件提供定制支持和无忧更新，英特尔® 驱动程序和支持助理能将您的系统保持最新。 ",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 48,
+        "name": "下载驱动程序和软件",
+        "url": "https:\/\/www.intel.cn\/content\/www\/cn\/zh\/download-center\/home.html",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/intel.png",
+        "catelog": "AMD | Inter | NVIDIA驱动下载",
+        "desc": "下载新的或先前发布的驱动程序，包括英特尔® 产品的支持软件、BIOS、实用程序、固件、补丁和工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 49,
+        "name": "AMD 处理器和显卡驱动程序及支持",
+        "url": "https:\/\/www.amd.com\/zh-cn\/support\/download\/drivers.html",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/amd.png",
+        "catelog": "AMD | Inter | NVIDIA驱动下载",
+        "desc": "处理器和显卡驱动程序及支持",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 50,
+        "name": "AMD ׀ 同超越，共成就 _ 人工智能",
+        "url": "https:\/\/www.amd.com\/zh-cn.html",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/amd.png",
+        "catelog": "AMD | Inter | NVIDIA驱动下载",
+        "desc": "AMD 处理器、显卡、FPGA、自适应 SoC 和软件助力在 AI、数据中心、企业计算解决方案和游戏领域占尽先机",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 51,
+        "name": "终身教育平台",
+        "url": "https:\/\/le.ouchn.cn\/home",
+        "logo": "https:\/\/le.ouchn.cn\/assets\/logo.8894ec3b.ico",
+        "catelog": "学习网站",
+        "desc": "终身教育平台",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 52,
+        "name": "中国大学MOOC_优质在线课程学习平台",
+        "url": "https:\/\/www.icourse163.org\/",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/中国大学慕课.png",
+        "catelog": "学习网站",
+        "desc": "中国大学MOOC(慕课) 是爱课程网携手网易云课堂打造的在线学习平台，每一个有提升愿望的人，都可以在这里学习中国优质的大学课程，学完还能获得认证证书。中国大学MOOC是国内优质的中文MOOC学习平台，拥有众多985高校的大学课程，与名师零距离。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 53,
+        "name": "我要自学网",
+        "url": "https:\/\/www.51zxw.net\/",
+        "logo": "https:\/\/www.51zxw.net\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "我要自学网-免费视频教程,提供全方位软件学习，有3D教程，平面教程，多媒体制作教程，办公信息化教程，机械设计教程，网站制作教程,电脑培训",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 54,
+        "name": "大学资源网-自我提升的学习平台",
+        "url": "https:\/\/www.dxzy163.com\/",
+        "logo": "https:\/\/www.dxzy163.com\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "大学资源网致力于为每个希望提升自己能力的人提供学习平台，通过这个平台每个人都有平等提高自己能力的机会，主要学习资源有：大学课程、中学课程、小学课程、管理课程培训等视频教程！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 55,
+        "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+        "url": "https:\/\/www.bilibili.com\/",
+        "logo": "https:\/\/i0.hdslb.com\/bfs\/static\/jinkela\/long\/images\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 56,
+        "name": "考试酷",
+        "url": "https:\/\/www.examcoo.com\/index\/ku",
+        "logo": "https:\/\/www.examcoo.com\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "考试酷的公共题库中心页面,提供海量试题库资源.考试酷网站是由广州创讯软件有限公司开发和运营的一个永久免费的在线考试系统,网络考试系统,提供在线考试,电子作业,自测练习和模拟考试,智能组卷,试卷分享,试题库等考试系统和考试相关服务.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 57,
+        "name": "每日英语听力",
+        "url": "https:\/\/dict.eudic.net\/ting",
+        "logo": "https:\/\/dict.eudic.net\/Images\/en\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "「每日英语听力」是专为英语学习者定制的英语听力训练软件。收录了英语新闻、英语四级、英语六级、英语小说等众多听力内容。软件中的每篇都配有原文对照，配合「欧路词典」使用，会使您的英语学习进步更快",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 58,
+        "name": "网易公开课",
+        "url": "https:\/\/open.163.com\/",
+        "logo": "https:\/\/c.open.163.com\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "网易公开课汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程，覆盖科学、经济、人文、哲学等22个领域，在这里你可以开拓视野看世界，获取有深度的好知识",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 59,
+        "name": "沪江英语-沪江旗下英语学习资讯网站_免费英语学习网站",
+        "url": "https:\/\/www.hjenglish.com\/",
+        "logo": "https:\/\/www.hjenglish.com\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "沪江英语是沪江旗下英语学习资讯网站，是国内最具有亲和力的英语学习网站之一，专注于打造人气的英语学习交流互动网站，为全国数千万英语学习者提供专业服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 60,
+        "name": "学堂在线 - 精品在线课程学习平台",
+        "url": "https:\/\/www.xuetangx.com\/",
+        "logo": "https:\/\/proxt-cdn.xuetangx.com\/fe-proxtassets\/xuetangX\/0329\/logo.ico",
+        "catelog": "学习网站",
+        "desc": "学堂在线是清华大学于2013年10月发起建立的慕课平台，是教育部在线教育研究中心的研究交流和成果应用平台，是国家2016年首批双创示范基地项目，是中国高等教育学会产教融合研究分会副秘书长单位，也是联合国教科文组织（UNESCO）国际工程教育中心（ICEE）的在线教育平台。目前，学堂在线运行了来自清华大学、北京大学、复旦大学、中国科技大学，以及麻省理工学院、斯坦福大学、加州大学伯克利分校等国内外高校的超过2300门优质课程，覆盖13大学科门类",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 61,
+        "name": "中国知网",
+        "url": "https:\/\/www.cnki.net\/",
+        "logo": "https:\/\/www.cnki.net\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等各类资源统一检索、统一导航、在线阅读和下载服务。涵盖基础科学、文史哲、工程科技、社会科学、农业、经济与管理科学、医药卫生、信息科技等十大领域。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 62,
+        "name": "全部课程_IT培训精品课程-慕课网",
+        "url": "https:\/\/www.imooc.com\/course\/list",
+        "logo": "https:\/\/www.imooc.com\/static\/img\/common\/touch-icon-ipad.png",
+        "catelog": "学习网站",
+        "desc": "慕课网自2013年成立至今，始终专注IT在线教育，以培养互联网企业实用型人才为 己任，邀请一线大厂技术达人打造前沿的IT技术精品课程，赋能全球范围内每一位有梦想、有志向的开发者实现职业梦想。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 63,
+        "name": "大学生自学网_在线学习视频教程",
+        "url": "http:\/\/v.dxsbb.com\/",
+        "logo": "http:\/\/v.dxsbb.com\/favicon.ico",
+        "catelog": "学习网站",
+        "desc": "大学生自学网，为大学生提供经管营销、电气电子、计算机、机械土木、数理化生、医药健康、农林地理、英语、考研等在线学习视频教程",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 64,
+        "name": "首页 - 好知网-重拾学习乐趣",
+        "url": "https:\/\/www.howzhi.com\/",
+        "logo": "http:\/\/f1.howzhi.com\/system\/2016\/03-31\/113613d6a857327741.ico",
+        "catelog": "学习网站",
+        "desc": "http:\/\/f1.howzhi.com\/system\/2016\/03-31\/113613d6a857327741.ico",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 65,
+        "name": "U启大师U盘启动工具",
+        "url": "https:\/\/www.uqidashi.com\/",
+        "logo": "https:\/\/www.uqidashi.com\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "老品牌专业装机经验，为您重装系统保驾护航",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 66,
+        "name": "老毛桃winpe",
+        "url": "https:\/\/www.laomaotao.net\/",
+        "logo": "https:\/\/www.laomaotao.net\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "支持UEFI启动 苹果电脑安装",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 67,
+        "name": "电脑店官网",
+        "url": "https:\/\/u.diannaodian.com\/",
+        "logo": "https:\/\/u.diannaodian.com\/images\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "电脑店官网 - 电脑店u盘启动盘,u盘装系统更简单,u盘启动盘制作工具一键制作u盘pe系统,pe工具功能丰富,除重装系统外,还能修复各种常见电脑问题",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 68,
+        "name": "小兵U盘启动",
+        "url": "https:\/\/www.xiaobingxitong.com\/",
+        "logo": "https:\/\/www.xiaobingxitong.com\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "下一代U盘启动盘制作工具，一键制作启动U盘装机无优！ 支持一键傻瓜式制作U盘启动，自由更换系统方便快捷！ 支持UEFI\/Legacy双启动，自动注入usb3.x和nvme驱动 支持win10、win11一键注入intel rst和intel vmd驱动! 支持云端匹配，高速下载，无需技术，傻瓜式一键重装",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 69,
+        "name": "USM_功能最强大的PE工具_ U盘魔术师_【官网】",
+        "url": "https:\/\/www.sysceo.com\/usm.html",
+        "logo": "https:\/\/www.sysceo.com\/Public\/images\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "USM，由系统总裁网站(www.sysceo.com)开发研制，是一款面对移动设备，光盘设备，本机系统的PE系统的制作工具，界面友好、简单易用、功能全面、自定义强，是装机人员必备工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 70,
+        "name": "装机吧在线系统重装工具",
+        "url": "https:\/\/www.zhuangjiba.com\/",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/装机吧.png",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "装机吧电脑装机大师是一款集U盘重装系统，一键重装系统，一键还原系统的电脑系统装机工具，支持一键重装win7，U盘安装win10系统、win11系统重装，零技术、零基础都可以实现电脑一键重装系统，让小白装机无忧，每天更新最前瞻的电脑装机知识",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 71,
+        "name": "微PE工具箱 - 超好用的装机维护工具",
+        "url": "https:\/\/www.wepe.com.cn\/",
+        "logo": "https:\/\/www.wepe.com.cn\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "跨时代的PE工具箱，装机维护得力的助手，最后的救命稻草。化繁为简，小材大用，一键安装，极速启动",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 72,
+        "name": "Rufus首页、文档和下载 - U盘系统工具 - OSCHINA - 中文开源技术交流社区",
+        "url": "https:\/\/www.oschina.net\/p\/rufus?hmsr=aladdin1e1",
+        "logo": "https:\/\/rufus.ie\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "Rufus 是一个开源免费的快速制作 U 盘系统启动盘和格式化 USB 的实用小工具，它可以快速把 ISO 格式的系统镜像文件快速制作成可引导的 USB 启动安装盘，支持 Windows 或 Linux 启动。Rufus 小巧玲珑，软件体积仅 7 百多 KB，然而麻雀虽小，它却五脏俱全……",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 73,
+        "name": "Rufus",
+        "url": "https:\/\/rufus.ie\/",
+        "logo": "https:\/\/rufus.ie\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "Rufus 是一款格式化和创建 USB 启动盘的辅助工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 74,
+        "name": "U启宝U盘启动制作工具",
+        "url": "https:\/\/www.uqb.cn\/",
+        "logo": "https:\/\/www.uqb.cn\/release\/images\/deep.png",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "智能多分区支持EFI和MBR双启动",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 75,
+        "name": "Ventoy",
+        "url": "https:\/\/www.ventoy.net\/",
+        "logo": "https:\/\/www.ventoy.net\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "Ventoy是一个制作可启动U盘的开源工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 76,
+        "name": "U盘启动快捷键查询列表",
+        "url": "https:\/\/www.laomaotao.net\/quickquery\/",
+        "logo": "https:\/\/www.laomaotao.net\/favicon.ico",
+        "catelog": "系统启动U盘制作工具",
+        "desc": "开机出现主板画面时，按下快捷键后将会进入优先启动设置界面，里面会有出现个选项，咱们通过键盘方向键的“上下”，选择自己的U盘设备，即可设置U盘启动优先。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 77,
+        "name": "驱动下载-雷神官网-官方网站",
+        "url": "https:\/\/www.thunderobot.com\/service\/download",
+        "logo": "https:\/\/www.thunderobot.com\/public\/static\/images\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "高性能计算机新国货品牌，北交所首家上市电竞装备公司。提供搭载14代英特尔酷睿处理器及英伟达40系显卡的电竞游戏本、台式机、显示器及外设等一站式购买及专业售前售后服务。寻找线下体验店，欢迎访问雷神官网了解更多信息",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 78,
+        "name": "驱动下载-售后服务-未来人类 TerransForce官方网站-超性能笔记本电脑|高算力设备制造商",
+        "url": "https:\/\/www.terransforce.com\/?service.html",
+        "logo": "https:\/\/www.terransforce.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "驱动下载-售后服务-未来人类 TerransForce官方网站-超性能笔记本电脑|高算力设备制造商",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 79,
+        "name": "联想服务",
+        "url": "https:\/\/newsupport.lenovo.com.cn\/",
+        "logo": "https:\/\/www.lenovo.com.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "获取支持，如下载驱动，手册和常见问题等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 80,
+        "name": "HP 软件和驱动程序",
+        "url": "https:\/\/support.hp.com\/cn-zh\/drivers",
+        "logo": "https:\/\/support.hp.com\/wcc-assets\/images\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "HP 软件和驱动程序",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 81,
+        "name": "华为服务",
+        "url": "https:\/\/consumer.huawei.com\/cn\/support\/",
+        "logo": "https:\/\/consumer.huawei.com\/content\/dam\/huawei-cbg-site\/common\/huawei-logo.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "华为针对不同设备提供上门、寄修、预约维修服务支持，同时支持服务店信息、保修期及权益、维修备件价格等信息查询。为您推荐一口价换电池、屏幕外层玻璃维修、内存升级等新鲜活动资讯",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 82,
+        "name": "官方支持 | ROG 中国",
+        "url": "https:\/\/rog.asus.com.cn\/support\/",
+        "logo": "https:\/\/rog.asus.com\/cn\/support\/#",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "官方支持 | ROG 中国",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 83,
+        "name": "驱动程序和下载 | Dell 中国",
+        "url": "https:\/\/www.dell.com\/support\/home\/zh-cn?app=drivers",
+        "logo": "https:\/\/www.dell.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "驱动程序和下载 | Dell 中国",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 84,
+        "name": "ThinkPad服务网站首页_ThinkPad服务网站-联想服务",
+        "url": "https:\/\/newthink.lenovo.com.cn\/",
+        "logo": "https:\/\/js1cdn.clubstatic.lenovo.com.cn\/thinkpc\/images\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "联想ThinkPad服务官网为X1carbon、X240、T450、T450s、T440、E431、S1 Yoga、X260等系列产品提供专业的技术支持和售后服务，具体有：驱动下载、电脑配置、保修查询、保修政策、用户手册、联想知识库、维修站点查询、服务电话查询、网上报修、邮件支持及技术论坛支持、Win10驱动、常见问题帮助、网上报修、网上预约、WIN8支持、WIN10支持",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 85,
+        "name": "官方 Apple 支持",
+        "url": "https:\/\/support.apple.com\/zh-cn",
+        "logo": "https:\/\/support.apple.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "进一步了解热门的功能和主题，并查找可协助你了解所有 Apple 产品的资源",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 86,
+        "name": "攀升电脑",
+        "url": "https:\/\/www.ipason.com\/portal\/download_center.html",
+        "logo": "https:\/\/www.ipason.com\/portal\/download_center.html\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "攀升电脑主营高性能定制电脑、一体式电脑、笔记本电脑及相关周边设备，拥有两个子品牌：攀升IPASON和武极Vgame。以天猫、京东、拼多多、苏宁、阿里国际、速卖通、LAZADA、亚马逊等大型电商平台为主要销售渠道，产品远销50多个国家和地区。目前在定制电脑领域全国第一、世界第一",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 87,
+        "name": "宏碁电脑",
+        "url": "https:\/\/www.acer.com.cn\/",
+        "logo": "https:\/\/www.acer.com.cn\/web\/images\/acer.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "宏碁电脑",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 88,
+        "name": "服务支持-荣耀售后服务-荣耀官网|荣耀中国",
+        "url": "https:\/\/www.honor.com\/cn\/support\/",
+        "logo": "https:\/\/www.honor.com\/etc\/designs\/honor-site\/assets\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "服务支持-荣耀售后服务-荣耀官网|荣耀中国",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 89,
+        "name": "神舟服务",
+        "url": "http:\/\/www.hasee.com\/after\/index",
+        "logo": "http:\/\/www.hasee.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "获取支持，如下载驱动，手册和常见问题等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 90,
+        "name": "小米帮助中心-小米商城",
+        "url": "https:\/\/www.mi.com\/service\/notebook\/drivers",
+        "logo": "https:\/\/s01.mifile.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "小米商城包含小米手机系列,红米手机系列,小米电视,小米盒子等产品在线购买及产品配置详细介绍",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 91,
+        "name": "机械革命",
+        "url": "https:\/\/www.mechrevo.com\/",
+        "logo": "https:\/\/www.mechrevo.com\/images\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "机械革命",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 92,
+        "name": "清华同方电脑(TongfangPC",
+        "url": "https:\/\/official.tongfangpc.com\/",
+        "logo": "https:\/\/official.tongfangpc.com\/images\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "清华同方电脑(TongfangPC)-计算机，笔记本电脑，超极本，一体电脑，台式电脑，工作站，服务器，信息安全，行业应用",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 93,
+        "name": "微星",
+        "url": "https:\/\/www.msi.cn\/index.php",
+        "logo": "https:\/\/www.msi.cn\/favicon-16x16.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "微星科技全球拥有超过一万五千多名菁英团队、产品营销遍及全球120余国，主板与显卡名列全球前三大、笔记本电脑跻身世界前十大，每年获得全球知名产品设计大奖与国际知名媒体超过1000个奖项的肯定",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 94,
+        "name": "盈嘉讯",
+        "url": "http:\/\/www.yeston.net\/",
+        "logo": "http:\/\/www.yeston.net\/file\/upload\/spae598\/2024-01\/02\/202401021703472412.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "盈嘉讯",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 95,
+        "name": "技嘉",
+        "url": "https:\/\/www.gigabyte.cn\/",
+        "logo": "https:\/\/www.gigabyte.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "技嘉致力于创新科技，提供消费者个人电脑的更佳体验，也专为企业应用推出全方位的服务器产品，提供优化的商业解决方案，持续推动产业革新",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 96,
+        "name": "影驰",
+        "url": "https:\/\/www.szgalaxy.com\/",
+        "logo": "https:\/\/file.szgalaxy.com\/Files\/GalaxySiteIco.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "影驰",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 97,
+        "name": "工具&amp;软件下载 | 三星半导体官网",
+        "url": "https:\/\/semiconductor.samsung.cn\/consumer-storage\/support\/tools\/",
+        "logo": "https:\/\/semiconductor.samsung.cn\/etc.clientlibs\/semiconductor\/designs\/global\/common\/resources\/img\/icon\/Favicon.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "工具&amp;软件下载 | 三星半导体官网",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 98,
+        "name": "磐镭",
+        "url": "https:\/\/cn.pradeon.com\/",
+        "logo": "https:\/\/cn.pradeon.com\/u_file\/2302\/photo\/25b6c4f1b5.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "磐镭",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 99,
+        "name": "铭瑄",
+        "url": "https:\/\/www.maxsun.com.cn\/",
+        "logo": "https:\/\/www.maxsun.com.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "铭瑄",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 100,
+        "name": "索泰",
+        "url": "https:\/\/tempwww.zotac.com\/cn",
+        "logo": "https:\/\/tempwww.zotac.com\/download\/files\/footercircle.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "索泰",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 101,
+        "name": "耕升",
+        "url": "https:\/\/www.szgainward.cn\/",
+        "logo": "https:\/\/file.szgalaxy.com\/Files\/GainwardSiteIco.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "耕升",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 102,
+        "name": "蓝戟",
+        "url": "https:\/\/www.gunnir.cn\/",
+        "logo": "https:\/\/www.gunnir.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "蓝戟",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 103,
+        "name": "华擎",
+        "url": "https:\/\/www.asrock.com\/",
+        "logo": "https:\/\/www.asrock.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "华擎",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 104,
+        "name": "昂达",
+        "url": "http:\/\/www.onda.cn\/",
+        "logo": "http:\/\/www.onda.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "昂达",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 105,
+        "name": "映泰",
+        "url": "http:\/\/www.biostar.com.cn\/",
+        "logo": "http:\/\/www.biostar.com.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "映泰",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 106,
+        "name": "NZXT",
+        "url": "https:\/\/nzxt.com\/",
+        "logo": "https:\/\/nzxt.com\/favicon.svg",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "NZXT",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 107,
+        "name": "摩尔线程",
+        "url": "https:\/\/www.mthreads.com\/",
+        "logo": "https:\/\/www.mthreads.com\/favicon\/favicon-16x16.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "摩尔线程",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 108,
+        "name": "金士顿",
+        "url": "https:\/\/www.kingston.com.cn\/",
+        "logo": "https:\/\/www.kingston.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "金士顿",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 109,
+        "name": "长江存储",
+        "url": "https:\/\/www.ymtc.com\/cn\/",
+        "logo": "https:\/\/www.ymtc.com\/cn\/1ca\/image\/20210803\/37115f58e32f8104bf2d213e305ccf01.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "长江存储",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 110,
+        "name": "铠侠",
+        "url": "https:\/\/www.kioxia.com.cn\/zh-cn\/top.html",
+        "logo": "https:\/\/www.kioxia.com.cn\/etc.clientlibs\/kioxia-libs\/clientlibs\/kioxia\/resources\/favicons\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "铠侠",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 111,
+        "name": "威刚",
+        "url": "https:\/\/www.adata.com.cn\/",
+        "logo": "https:\/\/www.adata.com.cn\/images\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "威刚",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 112,
+        "name": "英睿达",
+        "url": "https:\/\/www.crucial.cn\/",
+        "logo": "https:\/\/www.crucial.cn\/content\/dam\/crucial\/favicon\/favicon-32x32.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "英睿达",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 113,
+        "name": "芝奇",
+        "url": "https:\/\/www.gskill.com\/cn\/",
+        "logo": "https:\/\/www.gskill.com\/styles\/images\/common\/apple-touch-icon.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "芝奇",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 114,
+        "name": "金百达",
+        "url": "https:\/\/www.kingbank.com\/cn\/",
+        "logo": "https:\/\/25244609.s21i.faiusr.com\/5\/ABUIABAFGAAg26f8_gUo1v7owgYwEDgQ.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "金百达",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 115,
+        "name": "美商海盗船",
+        "url": "https:\/\/www.corsair.com\/",
+        "logo": "https:\/\/www.corsair.com\/ww\/en\/meta-icons\/corsair-favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "美商海盗船",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 116,
+        "name": "金泰克",
+        "url": "https:\/\/www.kimtigo.com.cn\/",
+        "logo": "https:\/\/www.kimtigo.com.cn\/u_file\/fileUpload\/2021-06\/17\/2021061744744.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "金泰克",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 117,
+        "name": "西部数据产品软件下载",
+        "url": "https:\/\/support-cn.wd.com\/app\/products\/downloads\/softwaredownloads",
+        "logo": "https:\/\/support-cn.wd.com\/euf\/assets\/themes\/standard\/web\/image\/shop-fav-icon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "西部数据产品软件下载",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 118,
+        "name": "十铨科技",
+        "url": "https:\/\/www.teamgroupinc.com\/cn\/",
+        "logo": "https:\/\/www.teamgroupinc.com\/public\/images\/touch-icon\/apple-icon-152x152.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "十铨科技",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 119,
+        "name": "翔升科技",
+        "url": "https:\/\/www.pcasl.com\/",
+        "logo": "https:\/\/www.pcasl.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "翔升科技",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 120,
+        "name": "讯景中国",
+        "url": "http:\/\/www.xfx.com.cn\/",
+        "logo": "http:\/\/www.xfx.com.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "讯景中国",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 121,
+        "name": "树莓派",
+        "url": "https:\/\/www.raspberrypi.com\/",
+        "logo": "https:\/\/www.raspberrypi.com\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "树莓派",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 122,
+        "name": "猫头鹰",
+        "url": "https:\/\/noctua.at\/",
+        "logo": "https:\/\/noctua.at\/pub\/media\/favicon\/default\/fevicon.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "猫头鹰",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 123,
+        "name": "火影电脑",
+        "url": "https:\/\/www.firebat.com.cn\/",
+        "logo": "https:\/\/www.firebat.com.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "火影电脑",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 124,
+        "name": "佰维",
+        "url": "https:\/\/www.biwin.com.cn\/",
+        "logo": "https:\/\/www.biwin.com.cn\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "佰维",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 125,
+        "name": "全何",
+        "url": "https:\/\/v-color.net\/",
+        "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0564\/4976\/1447\/files\/V-logo_c1b378a6-6d6d-47b8-b6cd-090093114cc6.jpg",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "全何",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 126,
+        "name": "撼讯",
+        "url": "https:\/\/www.powercolor.com\/cn\/",
+        "logo": "https:\/\/www.powercolor.com\/favicon.ico?1746231798",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "撼讯",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 127,
+        "name": "PNY",
+        "url": "https:\/\/www.pny.com\/",
+        "logo": "https:\/\/www.pny.com\/Image%20Library\/content-images\/favicon.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "PNY",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 128,
+        "name": "瀚铠",
+        "url": "https:\/\/www.vastarmor.com\/",
+        "logo": "https:\/\/www.vastarmor.com\/favicon.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "瀚铠",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 129,
+        "name": "机械师",
+        "url": "https:\/\/www.machenike.com\/",
+        "logo": "https:\/\/www.machenike.com\/template\/web\/mache\/public\/img\/favicon.ico",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "机械师",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 130,
+        "name": "LIAN LI",
+        "url": "https:\/\/lian-li.com\/",
+        "logo": "https:\/\/lian-li.com\/wp-content\/uploads\/2020\/08\/cropped-icon_bgB-2-180x180.png",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "PC 组装机和游戏玩家的电脑机箱。 水冷、RGB 风扇、PC 台式机箱、游戏机箱、PC 组装",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 131,
+        "name": "撼与科技",
+        "url": "https:\/\/sparklecomputer.com\/",
+        "logo": "https:\/\/sparklecomputer.com\/wp-content\/uploads\/2023\/10\/cropped-webicon-1-180x180.webp",
+        "catelog": "电脑（含组件）服务支持",
+        "desc": "撼与科技",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 132,
+        "name": "iKuai",
+        "url": "https:\/\/www.ikuai8.com\/",
+        "logo": "https:\/\/www.ikuai8.com\/templates\/ikuaitemplate\/images\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "iKuai",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 133,
+        "name": "HiPDF",
+        "url": "https:\/\/www.hipdf.com\/cn\/",
+        "logo": "https:\/\/www.hipdf.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "HiPDF让PDF变得简单高效！所有工具都可以免费使用，只需几秒即可完成PDF的转换、合并、压缩和拆分。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 134,
+        "name": "便民查询网",
+        "url": "https:\/\/www.bmcx.com\/",
+        "logo": "https:\/\/f.bmcx.com\/img\/index_ico\/i_c_o_57x57.png",
+        "catelog": "在线便捷工具",
+        "desc": "便民查询网",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 135,
+        "name": "改图鸭",
+        "url": "https:\/\/www.gaituya.com\/",
+        "logo": "https:\/\/www.gaituya.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "改图鸭",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 136,
+        "name": "迅捷PDF转换器",
+        "url": "https:\/\/app.xunjiepdf.com\/",
+        "logo": "https:\/\/app.xunjiepdf.com\/ContentMain\/Images\/apple-touch-icon_114.png",
+        "catelog": "在线便捷工具",
+        "desc": "迅捷PDF转换器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 137,
+        "name": "在线工具 - ToolB",
+        "url": "https:\/\/toolb.cn\/",
+        "logo": "https:\/\/toolb.cn\/static\/img\/tool.svg",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具 - ToolB",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 138,
+        "name": "在线音频处理",
+        "url": "https:\/\/vocalremover.org\/",
+        "logo": "https:\/\/vocalremover.org\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线音频处理",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 139,
+        "name": "PDF派",
+        "url": "https:\/\/www.pdfpai.com\/",
+        "logo": "https:\/\/www.pdfpai.com\/statics\/images\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "几十个强大的PDF在线工具，无限次使用，永久免费，没有注册入口，人人都是VIP！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 140,
+        "name": "爱资料工具",
+        "url": "https:\/\/www.toolnb.com\/",
+        "logo": "https:\/\/www.toolnb.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "好用的在线工具箱",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 141,
+        "name": "文件在线转换",
+        "url": "https:\/\/www.aconvert.com\/cn\/",
+        "logo": "https:\/\/www.aconvert.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 142,
+        "name": "PDF24 Tools",
+        "url": "https:\/\/tools.pdf24.org\/",
+        "logo": "https:\/\/tools.pdf24.org\/static\/img\/pdf24.png",
+        "catelog": "在线便捷工具",
+        "desc": "免费且易于使用的在线PDF工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 143,
+        "name": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+        "url": "https:\/\/www.remove.bg\/",
+        "logo": "https:\/\/www.remove.bg\/favicon.ico?v=fc0bfce6e1310f1539afec9729716721",
+        "catelog": "在线便捷工具",
+        "desc": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 144,
+        "name": "永中PDF在线工具集",
+        "url": "https:\/\/pdf.yozocloud.cn\/",
+        "logo": "https:\/\/pdf.yozocloud.cn\/static\/media\/favicon.9329ab68.ico",
+        "catelog": "在线便捷工具",
+        "desc": "永中PDF工具集免费为用户提供专业的PDF转换及处理在线服务，能够快速批量实现PDF转Word、word转换成pdf、PDF转图片、PDF合并以及PDF加水印等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 145,
+        "name": "在线文件转换器",
+        "url": "https:\/\/cdkm.com\/cn\/",
+        "logo": "https:\/\/cdkm.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "使用多个开源项目搭建的在线文件转换器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 146,
+        "name": "在线工具",
+        "url": "https:\/\/tool.lu\/",
+        "logo": "https:\/\/tool.lu\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 147,
+        "name": "UU在线工具",
+        "url": "https:\/\/uutool.cn\/",
+        "logo": "https:\/\/uutool.cn\/assets\/images\/favicon.png",
+        "catelog": "在线便捷工具",
+        "desc": "UU在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 148,
+        "name": "第一在线工具",
+        "url": "https:\/\/d1tools.com\/",
+        "logo": "https:\/\/d1tools.com\/favicon.svg",
+        "catelog": "在线便捷工具",
+        "desc": "第一在线工具是一个免费的在线工具网站，我们将持续开发各种实用的在线工具，以及分享优质软件、优秀网站等内容。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 149,
+        "name": "在线工具软件",
+        "url": "https:\/\/www.lddgo.net\/",
+        "logo": "https:\/\/www.lddgo.net\/img\/icon.png",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具软件",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 150,
+        "name": "工具狗",
+        "url": "https:\/\/www.toolg.cn\/",
+        "logo": "https:\/\/www.toolg.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "工具狗（toolg.cn）集合了几百款免费在线工具，让大家无需下载和安装即可通过网页或App直接使用的工具。它们通常提供一系列的功能和服务，为用户提供便利和帮助。在线工具的出现改变了人们使用工具的方式和习惯，使得工作和生活更加便捷和高效",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 151,
+        "name": "蜻蜓工具 - 好用免费的在线工具站 | 个人技术的分享",
+        "url": "https:\/\/33tool.com\/",
+        "logo": "https:\/\/33tool.com\/_nuxt\/icons\/icon_512x512.4510fe.png",
+        "catelog": "在线便捷工具",
+        "desc": "蜻蜓工具 - 好用免费的在线工具站 | 个人技术的分享",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 152,
+        "name": "极客坊工具库",
+        "url": "https:\/\/tool.geekfa.com\/",
+        "logo": "https:\/\/tool.geekfa.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "极客坊工具库（tool.geekfa.com） 是一个专注于提供免费、高效、实用的全能在线工具网站，涵盖了网址导航、便民查询、文本处理、图片处理、编程开发、计算换算、加密解密等等众多领域。无论您是开发者、设计师，还是日常办公用户，都能在这里找到提升效率的利器！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 153,
+        "name": "Tools.box 在线工具 - 最佳免费在线工具",
+        "url": "https:\/\/tools.box\/zh-cn\/",
+        "logo": "https:\/\/tools.box\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "Tools.box 在线工具 - 最佳免费在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 154,
+        "name": "菜鸟工具 - 不止于工具",
+        "url": "https:\/\/www.jyshare.com\/",
+        "logo": "https:\/\/static.jyshare.com\/images\/c-runoob-logo.ico",
+        "catelog": "在线便捷工具",
+        "desc": "菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 155,
+        "name": "锤子在线工具网",
+        "url": "https:\/\/www.toolhelper.cn\/",
+        "logo": "https:\/\/www.toolhelper.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "此网站是一个在线的工具集合，提供开发工程师、测试工程师和逆向工程师常用的功能，旨在帮助其提高工作效率和解决技术难题",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 156,
+        "name": "LZL在线工具——LZL TOOL",
+        "url": "https:\/\/www.lzltool.cn\/",
+        "logo": "https:\/\/www.lzltool.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "LZLTOOL.com在线工具,LZLTOOL为开发设计人员提供在线工具，CSS、JS 调试,c# API文档,在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具,在线谷歌动态密码",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 157,
+        "name": "在线工具 - 强大的多功能在线工具库",
+        "url": "http:\/\/tools.bugscaner.com\/",
+        "logo": "http:\/\/tools.bugscaner.com\/static\/images\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具 - 强大的多功能在线工具库",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 158,
+        "name": "ToolOnline.net",
+        "url": "https:\/\/toolonline.net\/",
+        "logo": "https:\/\/toolonline.net\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "ToolOnline.net 是一个在线工具集合网站，为用户提供便捷的在线工具和软件。我们提供健康查询、生活查询、娱乐工具、办公助手、图像工具、视频音频工具、生成工具、代码工具、学习工具、量表测试等几百个在线工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 159,
+        "name": "在线工具 - 最实用的工具网! - TooL55.Com",
+        "url": "https:\/\/www.tool55.com\/",
+        "logo": "https:\/\/www.tool55.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具 - 最实用的工具网! - TooL55.Com",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 160,
+        "name": "在线工具 —— OSCHINA.NET社区",
+        "url": "https:\/\/tool.oschina.net\/",
+        "logo": "https:\/\/tool.oschina.net\/img\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具 —— OSCHINA.NET社区",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 161,
+        "name": "脚本之家在线工具",
+        "url": "https:\/\/tools.jb51.net\/",
+        "logo": "https:\/\/tools.jb51.net\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "工具之家是脚本之家旗下网站，目的是为广大程序员、前端工程师、服务器管理员、网站站长等朋友提供在线工具，如代码格式化、代码混淆、代码加密、编码转换、站长查询、颜色对照表、颜色值转换等常用工具，更多好用、易用的工具还在不断添加中，欢迎访问！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 162,
+        "name": "七七工具",
+        "url": "https:\/\/www.tool77.com\/",
+        "logo": "https:\/\/www.tool77.com\/media\/image\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "77工具，在线工具，我的工具箱，提供基于网页的在线工具，包括：office文档相互转换、单位换算、图片处理、AI工具、文本工具等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 163,
+        "name": "菜鸟在线工具箱 - 好用且高效！",
+        "url": "https:\/\/tool.cainiaoplus.com\/",
+        "logo": "https:\/\/tool.cainiaoplus.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "菜鸟在线工具箱是一款集成超多实用工具的网站，在这里能够轻松在线使用非常多的便捷功能，json格式化、代码压缩、正则表达式、加解密编码、单位计算换算简、常用命令大全、站长工具等数百款小工具，提高工作效率，访问本站即可完成",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 164,
+        "name": "果汁工具",
+        "url": "http:\/\/guozhivip.com\/tool\/",
+        "logo": "http:\/\/guozhivip.com\/tool\/images\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "果汁工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 165,
+        "name": "BTool - 在线工具软件，为开发者提供方便",
+        "url": "https:\/\/www.btool.cn\/",
+        "logo": "https:\/\/www.btool.cn\/favicon-16x16.png",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具大全,提供在线的编程工具软件,比如在线JSON美化,JSON内容对比,在线文件base64转换,加密解密,在线RSA密钥生成,时间格式化转换,在线JSON格式校验,在线hex字符串转换,在线二维码生成等开发人员常用工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 166,
+        "name": "Cencrack在线工具包",
+        "url": "http:\/\/cencrack.com\/?post=18",
+        "logo": "http:\/\/cencrack.com\/content\/templates\/default\/images\/favicon.png",
+        "catelog": "在线便捷工具",
+        "desc": "Cencrack在线工具包是一款非常实用的电脑工具箱软件，集成了多种常用软件工具，为客户提供了一站式的解决方案。‌",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 167,
+        "name": "Json在线格式化去除转义字符工具—json去除转义",
+        "url": "https:\/\/www.toolscat.com\/",
+        "logo": "https:\/\/www.toolscat.com\/static\/common\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "json去除转义,json在线去除转译工具,Json在线解析格式化工具:提供Json在线解析器,Json格式化,Json序列化,Json解析,Json校验,Json压缩,Json转xml,在线Json格式化,并提供多种Json在线解析格式化工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 168,
+        "name": " Kalvin在线工具",
+        "url": "https:\/\/tools.kalvinbg.cn\/",
+        "logo": "https:\/\/tools.kalvinbg.cn\/static\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": " Kalvin在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 169,
+        "name": "帮小忙，腾讯QQ浏览器在线工具箱平台",
+        "url": "https:\/\/tool.browser.qq.com\/",
+        "logo": "https:\/\/m4.publicimg.browser.qq.com\/publicimg\/nav\/qbtool\/home\/qb_search.png",
+        "catelog": "在线便捷工具",
+        "desc": "帮小忙，腾讯QQ浏览器在线工具箱平台",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 170,
+        "name": "在线JSON校验格式化工具（Be JSON）",
+        "url": "https:\/\/www.bejson.com\/",
+        "logo": "https:\/\/www.bejson.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 171,
+        "name": "在线ps,ps网页版,ps在线图片处理",
+        "url": "https:\/\/ps.gaoding.com\/",
+        "logo": "https:\/\/ps.gaoding.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "稿定设计PS是一款专业精简的在线ps图片处理软件，免下载、免安装，直接在浏览器打开网页版就可随时随地用它修正，调整和美化您的图片",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 172,
+        "name": "zyTool工具箱 - 简单好用在线工具大全",
+        "url": "https:\/\/www.zytool.cn\/",
+        "logo": "https:\/\/www.zytool.cn\/static\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "zyTool在线工具站，为广大用户提供在线工具，提供代码格式化美化工具，AES，DES，GM2，GM3，GM4等加解密工具，图片压缩，图片ocr，证件照换底色，二维码生成，条形码生成等图片工具，中文简繁体转换、bmr、bmi、亲戚计算器查询等日常工具。致力于打造国内优秀在线工具站。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 173,
+        "name": "改图宝",
+        "url": "https:\/\/www.gaitubao.com\/",
+        "logo": "https:\/\/www.gaitubao.com\/apple-touch-icon.png",
+        "catelog": "在线便捷工具",
+        "desc": "可以在线修改图片像素及尺寸、裁剪、压缩文件大小及处理各类考试网上报名照片及证件照 怎么使用 常见问题  我们提供了一寸、二寸、公务员、会计、社保等考试报名照、证件照片尺寸及自定义大小和尺寸在线修改服务 联系我们  图片文件大小如超过10M请使用图片编辑软件(如PS)修图，上传的图片30分钟内会自动删除",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 174,
+        "name": "免费在线翻译",
+        "url": "https:\/\/translate.buyaocha.com\/",
+        "logo": "https:\/\/translate.buyaocha.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "多语种翻译器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 175,
+        "name": "JSON在线解析格式化验证 - JSON.cn",
+        "url": "https:\/\/www.json.cn\/",
+        "logo": "https:\/\/static.json.cn\/r\/img\/favicon\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "Json中文网致力于在中国推广Json,并提供相关的Json解析、验证、格式化、压缩、编辑器以及Json与XML相互转换等服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 176,
+        "name": "在线PS网页版 - Photoshop在线免费使用",
+        "url": "https:\/\/zaixianps.net\/",
+        "logo": "https:\/\/zaixianps.net\/images\/favicon.png",
+        "catelog": "在线便捷工具",
+        "desc": "在线PS网页版是使用HTML5的免费在线图片编辑器。编辑、调整照片，实现在线p图在线抠图、图像处理、在线绘图、在线画图等功能",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 177,
+        "name": "IMYUN在线工具箱 - 简单实用的免费在线工具",
+        "url": "https:\/\/tool.imyun.com.cn\/",
+        "logo": "https:\/\/tool.imyun.com.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具箱拥有uuid生成工具，密码生成工具，js代码加密，html代码格式化等在线处理工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 178,
+        "name": "PhotoKit 图片编辑器",
+        "url": "https:\/\/photokit.com\/?lang=zh",
+        "logo": "https:\/\/photokit.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "PhotoKit是一款免费的在线图片编辑器，方便易用。一键轻松抠图、改图、修图和美图应用。包含图片裁剪、调整大小、旋转等基本编辑。开始免费编辑您的图片",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 179,
+        "name": "记灵在线工具 - 更专注于发现工具的实用性",
+        "url": "https:\/\/remeins.com\/",
+        "logo": "https:\/\/remeins.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "记灵在线工具，更加专注于生活中常用的，好用的实用性工具。目前已经推出了PDF工具、音频工具、视频工具、图片工具、文档工具、文字工具等日常高频率使用的在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 180,
+        "name": "WebToolkit",
+        "url": "https:\/\/webtoolkit.work\/",
+        "logo": "https:\/\/webtoolkit.work\/favicon-16x16.png",
+        "catelog": "在线便捷工具",
+        "desc": "从超过 180 种快速且易于使用的 Web 工具中进行选择",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 181,
+        "name": "Cron - 在线Cron表达式生成器",
+        "url": "https:\/\/cron.ciding.cc\/",
+        "logo": "https:\/\/cron.ciding.cc\/images\/logo.png",
+        "catelog": "在线便捷工具",
+        "desc": "通过这个生成器,您可以在线生成任务调度比如Quartz的Cron表达式,对Quartz Cron 表达式的可视化双向解析和生成",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 182,
+        "name": "百川云常用工具 - Chaitin",
+        "url": "https:\/\/rivers.chaitin.cn\/",
+        "logo": "https:\/\/rivers.chaitin.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "百川云常用工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 183,
+        "name": "免费在线PDF工具",
+        "url": "https:\/\/2pdf.com\/",
+        "logo": "https:\/\/2pdf.com\/default\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "免费转换、合并、拆分、压缩您的PDF文件",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 184,
+        "name": "爱问在线工具",
+        "url": "https:\/\/tl.beer\/",
+        "logo": "https:\/\/tl.beer\/static\/faE700Green.ico",
+        "catelog": "在线便捷工具",
+        "desc": "批量之家是以批量处理为主的在线工具网站！网站包含大量简单好用的应用，适用于程序开发，文字处理，图像处理、生活工具等需要批量处理的场景，希望为大家提供便捷好用的在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 185,
+        "name": "CTF在线工具-CTF工具|CTF编码|CTF密码学|CTF加解密|程序员工具|在线编解码",
+        "url": "http:\/\/www.hiencode.com\/",
+        "logo": "http:\/\/www.hiencode.com\/static\/images\/logo\/ctf_favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "CTFcode为CTF比赛人员、程序员提供20多种常用编码，如base家族编码、莫尔斯电码，20多种古典密码学，如仿射密码、栅栏密码、培根密码等，以及10多种杂项工具，如XXencode、UUencode等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 186,
+        "name": "偷懒工具 - 做更好用的在线工具 | 偷懒工具",
+        "url": "https:\/\/toolight.cn\/",
+        "logo": "https:\/\/cdn.1htr.cn\/images\/toolighticon.png",
+        "catelog": "在线便捷工具",
+        "desc": "偷懒工具是一个在线工具集合，包含了各种实用的在线工具，帮助你更好地完成工作",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 187,
+        "name": "在线图像工具箱",
+        "url": "https:\/\/phototool.cn\/",
+        "logo": "https:\/\/phototool.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线图像工具箱，提供免费的常用图片工具，无需专业技能即可快速完成图片处理，高效便捷",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 188,
+        "name": "在线工具 - 实用方便的网页工具箱",
+        "url": "https:\/\/www.wqtool.com\/",
+        "logo": "https:\/\/www.wqtool.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "wqtool网页工具网站在线提供了各种常用的网络在线软件,包括了开发类、查询类、站长类、代码处理、图片生成与处理、生活查询、数学计算等方面的在线网络工具.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 189,
+        "name": "爱图工具箱",
+        "url": "https:\/\/www.itutool.com\/",
+        "logo": "https:\/\/www.itutool.com\/wp-content\/uploads\/2024\/12\/1734372666-icon.png",
+        "catelog": "在线便捷工具",
+        "desc": "免费好用的在线工具网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 190,
+        "name": "极客工具-你的在线免费工具库",
+        "url": "https:\/\/www.geekstool.com\/",
+        "logo": "https:\/\/www.geekstool.com\/_nuxt\/icons\/64x64.d6ae9453.png",
+        "catelog": "在线便捷工具",
+        "desc": "致力开发在线工具。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 191,
+        "name": "智慧工具库 - 最懂你的在线小工具",
+        "url": "https:\/\/www.zhihuilib.com\/",
+        "logo": "https:\/\/www.zhihuilib.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "「智慧工具库」—— 免费在线工具一键搞定！ 图片\/GIF\/PDF压缩、PDF转图片、OCR文字识别、奖状与证书合成、图表制作、发票统计等，极简操作，无需安装，3秒解决您的需求！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 192,
+        "name": "22在线工具箱",
+        "url": "https:\/\/www.22tool.com\/",
+        "logo": "https:\/\/www.22tool.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "22在线工具箱，提供各种查询、加密解密、测试、图像处理、文本处理、文档转换和文件格式转换等工具。无论您是站长还是开发人员，都可以在22tool找到适用的工具来解决各种问题。简单易用的界面让您可以轻松快速地完成任务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 193,
+        "name": "我的工具-程序员编程开发必备",
+        "url": "https:\/\/tooltt.com\/",
+        "logo": "https:\/\/tooltt.com\/static\/tool.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具箱:免安装,在线使用,程序员编程开发必备工具箱",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 194,
+        "name": "在线工具 - 纽普生物 - NovoPro",
+        "url": "https:\/\/www.novopro.cn\/tools\/",
+        "logo": "https:\/\/www.novopro.cn\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在线工具 - 纽普生物 - NovoPro<",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 195,
+        "name": "在线图片编辑器 - 免费照片修改工具",
+        "url": "https:\/\/www.pic.net\/",
+        "logo": "",
+        "catelog": "在线便捷工具",
+        "desc": "在线图片工具是一个免费的照片编辑处理神器，提供证件照制作、AI抠图、格式转换、海报编辑器、在线PS、模糊照片变清晰、PDF编辑、二维码生成、老照片修复、图片转字符码、图片加密、照片水印等百余种功能，方便快捷，轻松处理图像。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 196,
+        "name": "JSON在线丨 JSON解析格式化一SOJSON在线工具",
+        "url": "https:\/\/www.sojson.com\/",
+        "logo": "https:\/\/scdn.sojson.com\/sojson\/favicon16.png",
+        "catelog": "在线便捷工具",
+        "desc": "SOJSON在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 197,
+        "name": "消除或者替换图像背景，无需上传图像 - BgSub",
+        "url": "https:\/\/bgsub.cn\/",
+        "logo": "https:\/\/bgsub.com\/favicon.ico",
+        "catelog": "在线便捷工具",
+        "desc": "在5秒内消除或者替换图像背景，智能调整颜色，所有操作都在浏览器完成，无需上传图像 - BgSub",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 199,
+        "name": "龙喵网 - 有态度的网址导航",
+        "url": "https:\/\/ailongmiao.com\/",
+        "logo": "https:\/\/media.ailongmiao.com\/uploads\/2021\/09\/favicon.png",
+        "catelog": "资源导航",
+        "desc": "龙喵网址导航搜集互联网各种优秀的网站网址,打造全网最实用的，简洁，绿色网址导航，同时支持自定义网址，网址导航，选龙喵导航!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 200,
+        "name": "极光导航-简约资源网址导航",
+        "url": "https:\/\/www.jigdh.com\/",
+        "logo": "https:\/\/www.jigdh.com\/favicon.ico",
+        "catelog": "资源导航",
+        "desc": "极光导航，简约纯净资源网址导航。页面简洁，功能简练纯粹，支持自定义壁纸、网站、搜索引擎，收录了超多资源网站。我们的愿景是：想用户所想，做网址导航中的清流，做好一个简约、好用、安全、便捷的网址导航网站。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 201,
+        "name": "懒盘搜索",
+        "url": "https:\/\/www.lzpanx.com\/",
+        "logo": "https:\/\/www.lzpanx.com\/static\/logo.svg",
+        "catelog": "资源导航",
+        "desc": "致力于免费提供夸克网盘、阿里云盘、迅雷网盘的资源搜索服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 202,
+        "name": "导航蟹 - 超横的导航网站",
+        "url": "https:\/\/daohangxie.com\/",
+        "logo": "https:\/\/daohangxie.com\/wp-content\/uploads\/2024\/06\/cropped-New-Project-180x180.png",
+        "catelog": "资源导航",
+        "desc": "欢迎来到导航蟹，您的全方位资源导航平台！我们为您精选AI资源、摸鱼工具、书籍推荐、电子书下载、二次元神器、设计教程、影视导航和在线学习平台。无论您是寻找最新的AI技术、轻松摸鱼的工具、热门书籍、动漫工具、设计课程、影视资源还是学习资料，导航蟹都能满足您的需求。探索我们丰富的免费资源，提升您的兴趣爱好和专业技能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 203,
+        "name": "某柠檬_柠檬味的导航",
+        "url": "https:\/\/www.moulem.com\/",
+        "logo": "https:\/\/www.moulem.com\/img\/favicon.ico",
+        "catelog": "资源导航",
+        "desc": "某柠檬导航是一个轻导航网站，提供一个清爽干净的上网入口。某柠檬，柠檬味的导航，清爽界面，简约导航，希望通过某柠檬导航大家能有一个好的上网浏览心情，以及便捷的网址导航体验",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 204,
+        "name": "虫部落快搜 - 搜索快人一步",
+        "url": "https:\/\/search.chongbuluo.com\/",
+        "logo": "https:\/\/search.chongbuluo.com\/favicon.ico",
+        "catelog": "资源导航",
+        "desc": "快搜！虫部落全网独家首发出品！为你聚合Google,百度,必应等国内外综合搜索和学术,资源,专业领域知识等垂直搜索和 AI搜索。精准搜索,便捷交互！是你的网络搜索第一站！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 205,
+        "name": "果汁导航 - 上网从这里开始！",
+        "url": "http:\/\/guozhivip.com\/",
+        "logo": "http:\/\/guozhivip.com\/images\/ic.ico",
+        "catelog": "资源导航",
+        "desc": "【果汁导航】是果汁简约网络科技旗下的优质资源导航平台，涵盖了日常生活、娱乐、科技、知识、实用工具、考研、找工作等各个领域的优质站点。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 206,
+        "name": "爱达杂货铺 | 收集那些有用的东西|爱达导航",
+        "url": "https:\/\/adzhp.cc\/",
+        "logo": "https:\/\/adzhp.cc\/wp-content\/uploads\/2020\/02\/A-win-1.ico",
+        "catelog": "资源导航",
+        "desc": "爱达杂货铺收集精品网络免费资源、包括网盘搜索、软件、网站和各类资源，欢迎前来探索",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 207,
+        "name": "一糖导航丨实用的上网导航资源网址导航",
+        "url": "https:\/\/iitang.com\/",
+        "logo": "https:\/\/iitang.com\/wp-content\/uploads\/2024\/10\/1729737698-%E8%B5%84%E6%BA%90-2.png",
+        "catelog": "资源导航",
+        "desc": "为广大网民精心筛选、整理国内外各类优秀的网站大全，更多人选择的资源网址导航",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 208,
+        "name": "终极导航",
+        "url": "https:\/\/www.zjnav.com\/",
+        "logo": "https:\/\/www.zjnav.com\/wp-content\/uploads\/2024\/03\/1710569761-favicon.png",
+        "catelog": "资源导航",
+        "desc": "优质网站网址导航大全",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 209,
+        "name": "知行资源 - 一站式资源免费分享公益网站",
+        "url": "https:\/\/zxzy.org\/",
+        "logo": "https:\/\/zxzy.org\/static\/ico\/zx32.ico",
+        "catelog": "资源导航",
+        "desc": "知行资源，资源分享公益网站，我们希望，每一个人都将不会因为资源匮乏而止步不前",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 210,
+        "name": "硬核指南 - 够高清才是真硬核！",
+        "url": "https:\/\/yinghezhinan.com\/",
+        "logo": "https:\/\/yinghezhinan.com\/.\/icon\/512x512.png",
+        "catelog": "资源导航",
+        "desc": "硬核指南，专注收录免费且优质的影音娱乐网站，精选全网高清电影、二次元、音乐、游戏、壁纸、电子书的免费网站和APP，让你的娱乐生活「硬核」起来！硬核指南，够高清才是真硬核！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 211,
+        "name": "必应主地址",
+        "url": "https:\/\/cn.bing.com\/",
+        "logo": "https:\/\/cn.bing.com\/sa\/simg\/favicon-trans-bg-blue-mg-png.png",
+        "catelog": "必应",
+        "desc": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 212,
+        "name": "必应备用地址1",
+        "url": "https:\/\/www4.bing.com\/",
+        "logo": "https:\/\/www4.bing.com\/sa\/simg\/favicon-trans-bg-blue-mg-png.png",
+        "catelog": "必应",
+        "desc": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 213,
+        "name": "必应备用地址2",
+        "url": "https:\/\/s.cn.bing.net\/",
+        "logo": "https:\/\/s.cn.bing.net\/sa\/simg\/favicon-trans-bg-blue-mg-png.png",
+        "catelog": "必应",
+        "desc": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 214,
+        "name": "必应备用地址3",
+        "url": "https:\/\/www2.bing.com\/",
+        "logo": "https:\/\/www2.bing.com\/sa\/simg\/favicon-trans-bg-blue-mg-png.png",
+        "catelog": "必应",
+        "desc": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 215,
+        "name": "必应备用地址4",
+        "url": "https:\/\/2.bing.com\/",
+        "logo": "https:\/\/2.bing.com\/sa\/simg\/favicon-trans-bg-blue-mg-png.png",
+        "catelog": "必应",
+        "desc": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 216,
+        "name": "软媒魔方",
+        "url": "https:\/\/mofang.ruanmei.com\/",
+        "logo": "https:\/\/mofang.ruanmei.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "软媒魔方，Windows系统增强辅助工具，智能+专业双操控模式，系统故障一键式解决方案，真正实现一键优化、一键清理、一键软件升级。软媒时间，日程提醒、农历天气，so easy！软媒时间，系统美化轻松搞定，桌面好炫酷！简单、好用、好玩，装机必备，从软媒魔方开始。更有网速限速、U盘启动、DNS助手、壁纸美化等功能等你发现",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 217,
+        "name": "Complete Internet Repair",
+        "url": "https:\/\/complete-internet-repair.en.softonic.com\/",
+        "logo": "https:\/\/images.sftcdn.net\/images\/t_app-icon-s\/p\/3ab1c9be-96da-11e6-a9b0-00163ec9f5fa\/871698249\/complete-internet-repair-icon.png",
+        "catelog": "工具、软件",
+        "desc": "此实用程序是雇用技术人员诊断和修复互联网故障的替代方案。大多数互联网故障都是基于软件的，使用此实用程序可以修复被计算机标记为故障的系统。但是，此实用程序无法修复硬件或设置问题，并且功能系统可能会因不必要的维修而损坏。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 218,
+        "name": "Office Tool Plus",
+        "url": "https:\/\/otp.landian.vip\/",
+        "logo": "https:\/\/otp.landian.vip\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Office Tool Plus 是一个用于部署、激活 Office、Visio、Project 的强大工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 219,
+        "name": "联想 Quick Fix 工具",
+        "url": "https:\/\/iknow.lenovo.com.cn\/tool",
+        "logo": "https:\/\/iknow.lenovo.com.cn\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "联想 Quick Fix 工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 220,
+        "name": "IT天空 - 新的十年, 新的天空",
+        "url": "https:\/\/www.itsk.com\/",
+        "logo": "https:\/\/www.itsk.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "以系统封装技术与驱动技术为主的综合性IT站点，提供完善的系统批量部署解决方案、易用的离线万能驱动和适合装机技术员的U盘PE。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 221,
+        "name": "Windows常用运行库合集（VC++、DirectX、.NET）",
+        "url": "https:\/\/blog.csdn.net\/qq_43843708\/article\/details\/127138116",
+        "logo": "https:\/\/g.csdnimg.cn\/static\/logo\/favicon32.ico",
+        "catelog": "工具、软件",
+        "desc": "Windows常用运行库合集（VC++、DirectX、.NET）",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 222,
+        "name": "果核剥壳 - 互联网的净土",
+        "url": "https:\/\/www.ghxi.com\/",
+        "logo": "https:\/\/www.ghxi.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "本站更换域名为https:\/\/www.ghxi.com。果核剥壳是一家综合科技站点，看新闻，分享精品、绿色软件，Windows系统。守住互联网最后的一片净土。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 223,
+        "name": "IObit 文件解锁器",
+        "url": "https:\/\/www.iobit.com\/en\/iobit-unlocker.php",
+        "logo": "https:\/\/www.iobit.com\/tpl\/images\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "永远不必担心 PC 上的“无法删除文件”",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 224,
+        "name": "我的工具箱",
+        "url": "https:\/\/toolgg.com\/",
+        "logo": "https:\/\/toolgg.com\/static\/img\/tool.ico",
+        "catelog": "工具、软件",
+        "desc": "开发人员必备的开发工具箱,在线HTML,CSS,JavaScript格式化美化压缩。JSON数据美化转换压缩。在线时间时间戳格式化计算。支持CSV,TSV,HTML,Excel,XML,PDF,SQL,YAML,CSS,图片等数据的相互转换。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 225,
+        "name": "在线工具大全 | JS加解密 | Base64加解密 | JSON格式化-wetools微工具 - 在线工具-wetools.com微工具",
+        "url": "https:\/\/www.wetools.com\/",
+        "logo": "https:\/\/static.wetools.com\/assets\/images\/web\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "在线 HTML 代码格式化工具，可以对一段指定的 HTML 代码进行格式化操作，格式化之后的 HTML 代码更易阅读和分析。本工具提供了若干格式化选项，可根据实际需要对 HTML 代码进行格式化。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 226,
+        "name": "O&O AppBuster软件卸载工具",
+        "url": "https:\/\/www.oo-software.com\/",
+        "logo": "https:\/\/www.oo-software.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "O&O AppBuster 允许您轻松快速地删除不需要的应用程序。或者，如果您不小心卸载了这些应用程序之一，您也可以一键检索它们。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 227,
+        "name": "卡卡网",
+        "url": "http:\/\/www.webkaka.com\/",
+        "logo": "http:\/\/www.webkaka.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "国内最专业最权威的在线网速测试及网站速度检测网站，遍及国内各省和国外的几十个网速测试及网站速度检测点，包括电信、网通、联通、移动、长城宽带、教育网等线路，即时测试本地的网络速度，测试网站在全国各地和海外的打开速度。www.webkaka.com",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 228,
+        "name": "HEU_KMS_Activator",
+        "url": "https:\/\/aichunjing.lanzoui.com\/b710887",
+        "logo": "https:\/\/img.downkuai.com\/logo\/20250103\/89370b799bc1205e9b7d5cf51b2a3428.png",
+        "catelog": "工具、软件",
+        "desc": "HEU KMS Activator是一款非常好用的激活工具，也可以叫做“KMS激活工具”，采用KMS激活技术，不用联网即可一键激话系统，纯粹的傻瓜式操作，为用户提供便捷的激活服务。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 229,
+        "name": "刘明野的工具箱",
+        "url": "https:\/\/tools.liumingye.cn\/",
+        "logo": "https:\/\/ae01.alicdn.com\/kf\/Hb30785661e4842cdbe7e9f33c37ba0a6i.jpg",
+        "catelog": "工具、软件",
+        "desc": "刘明野的工具箱提供好用、易用的工具，还在不断添加中，欢迎访问！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 230,
+        "name": "Everything",
+        "url": "https:\/\/www.voidtools.com\/zh-cn\/",
+        "logo": "https:\/\/www.voidtools.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "基于名称快速定位文件和文件夹。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 231,
+        "name": "Geek Uninstaller",
+        "url": "https:\/\/geekuninstaller.com\/",
+        "logo": "https:\/\/geekuninstaller.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Geek Uninstaller - the best FREE uninstaller",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 232,
+        "name": "桌面右下角水印去除工具 UWD",
+        "url": "https:\/\/winaero.com\/download-universal-watermark-disabler\/",
+        "logo": "https:\/\/img3.downza.cn\/download\/202205\/111948-6275e55474afa.jpg",
+        "catelog": "工具、软件",
+        "desc": "Univniversal Watermark Disabler (简称 UWD) 是一款免费小巧的一键移除 Windows 桌面右下角评估副本版本号水印、激活 Windows 水印的工具。只需按一下按钮，即可以帮你轻松去除 Windows 11 和 Win10、Win8.1\/8 各个版本系统 (包括正式版或 Insider 预览版) 的桌面水印，使用上非常简单方便",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 233,
+        "name": "HWiNFO-硬件检测软件",
+        "url": "https:\/\/www.hwinfo.com\/",
+        "logo": "https:\/\/www.hwinfo.com\/images\/hwi_logo_flat_square_192.png",
+        "catelog": "工具、软件",
+        "desc": "专业的系统信息和诊断",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 234,
+        "name": "ViVeTool",
+        "url": "https:\/\/github.com\/thebookisclosed\/ViVe\/releases",
+        "logo": "https:\/\/github.githubassets.com\/favicons\/favicon.svg",
+        "catelog": "工具、软件",
+        "desc": "ViveTool 是第三方开源 C# 库和控制台应用程序，可在 Windows 计算机上启用未发布的功能。您还可以使用它来恢复或禁用某些功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 235,
+        "name": "ViVeTool工具使用",
+        "url": "https:\/\/sspai.com\/post\/74286",
+        "logo": "https:\/\/cdn-static.sspai.com\/favicon\/sspai.ico",
+        "catelog": "教程",
+        "desc": "ViVeTool工具使用",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 236,
+        "name": "GitHub520",
+        "url": "https:\/\/github.com\/521xueweihan\/GitHub520",
+        "logo": "https:\/\/github.githubassets.com\/favicons\/favicon.svg",
+        "catelog": "工具、软件",
+        "desc": "解决GitHub 访问问题",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 237,
+        "name": "微软Power Toys",
+        "url": "https:\/\/github.com\/microsoft\/PowerToys\/releases",
+        "logo": "https:\/\/github.githubassets.com\/favicons\/favicon.svg",
+        "catelog": "工具、软件",
+        "desc": "Microsoft PowerToys 是一套由微软官方开发的实用工具集，旨在增强 Windows 操作系统的生产力和自定义能力。它为高级用户提供了对系统更精细的控制，以及一些原本需要第三方软件才能实现的功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 238,
+        "name": "Chrome插件(谷歌浏览器插件) - 提供Chrome商店中优秀的Chrome插件推荐与下载服务",
+        "url": "https:\/\/huajiakeji.com\/",
+        "logo": "https:\/\/huajiakeji.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Chrome插件又称为谷歌浏览器插件，是谷歌Chrome浏览器的扩展插件，使用Chrome插件可以为Chrome浏览器带来一些功能性的扩展，进而提高Chrome的使用体验。想要获得Chrome插件的方式有许多，用户可以直接在Chrome商店中下载和安装谷歌浏览器插件，也可以通过huajiakeji.com来获得更加详细的介绍和优秀Chrome插件的推荐与下载服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 239,
+        "name": "Microsoft PowerToys 下载和安装指南",
+        "url": "https:\/\/www.sysgeek.cn\/install-powertoys-windows\/",
+        "logo": "https:\/\/www.sysgeek.cn\/favicon.ico",
+        "catelog": "教程",
+        "desc": "Microsoft PowerToys 下载和安装指南",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 240,
+        "name": "图拉丁吧工具箱",
+        "url": "https:\/\/www.tbtool.cn\/",
+        "logo": "https:\/\/www.tbtool.cn\/resource\/icon.ico",
+        "catelog": "工具、软件",
+        "desc": "DIY爱好者的必备工具合集",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 241,
+        "name": "jsDelivr",
+        "url": "https:\/\/www.jsdelivr.com\/",
+        "logo": "https:\/\/www.jsdelivr.com\/icons\/safari-pinned-tab.svg",
+        "catelog": "工具、软件",
+        "desc": "适用于开源项目的免费 CDN",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 242,
+        "name": "Quicker",
+        "url": "https:\/\/getquicker.net\/",
+        "logo": "https:\/\/getquicker.net\/quicker_round.png",
+        "catelog": "工具、软件",
+        "desc": "您的指尖工具箱",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 243,
+        "name": "Listary",
+        "url": "https:\/\/www.listarypro.com\/",
+        "logo": "https:\/\/www.listarypro.com\/images\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Listary – 一个真正令人惊奇和完善的搜索工具，介于启动程序和文件管理器之间，它与两者都有关系但不属于两者中的任何一个。Listary紧挨着你的主要文件管理应用程序，使管理列表和查找文件变得轻而易举。真的很不错，值得你下载",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 244,
+        "name": "PotPlayer",
+        "url": "http:\/\/www.potplayercn.com\/",
+        "logo": "http:\/\/www.potplayercn.com\/wp-content\/themes\/pot\/images\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "PotPlayer是KMPlayer原作者姜勇囍进入新公司Daum之后推出的，继承了 KMPlayer 所有的优点，拥有异常强大的内置音视频解码器，可以支持几乎全部音乐、视频文件格式的播放。采用 VC++ 进行了全面重构，并且原生支持64位操作系统，使得 PotPlayer 在 Windows 10 等新系统上，无论性能、兼容性和稳定性上的表现均比 KMP 要好不少；硬件加速、流畅优秀的全高清视频播放效果、强大的选项、滤镜、外挂式管理、DXVA等硬件解码；以及非常丰富且强大的设置选项，被誉为Win平台上最优秀的免费影音全能格式播放器。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 245,
+        "name": "ToolFK Online Tools - all in one tool",
+        "url": "https:\/\/www.toolfk.com\/",
+        "logo": "http:\/\/www.toolfk.com\/tools\/images\/icon.png",
+        "catelog": "工具、软件",
+        "desc": "Online Tools offers hundreds and hundreds of utilities for editing images, animations,text,text-to-speech and more online tools .Try for free!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 246,
+        "name": "Zabbix",
+        "url": "https:\/\/www.zabbix.com\/",
+        "logo": "https:\/\/assets.zabbix.com\/img\/apple-touch-icon-180x180-precomposed.png",
+        "catelog": "工具、软件",
+        "desc": "Zabbix is an enterprise-class, open-source monitoring solution that makes network and application monitoring simple.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 247,
+        "name": "Windows 11 Classic Context Menu v1.2",
+        "url": "https:\/\/www.sordum.org\/14479\/windows-11-classic-context-menu-v1-2\/",
+        "logo": "https:\/\/www.sordum.org\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "从 Windows 11 上下文菜单中删除“显示更多选项”条目并在 Windows 11 中恢复经典的右键单击菜单",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 248,
+        "name": "Jsdelivr｜Github加速节点合集",
+        "url": "https:\/\/geekerline.com\/newsflashes\/58872.html",
+        "logo": "https:\/\/geekerline.com\/wp-content\/uploads\/icon.png",
+        "catelog": "教程",
+        "desc": "JSDelivrs 是由 @Cloudflare 提供的免费开源公共 CDN。 默认的提供的节点是：cdn.jsdelivr.net 该节点国内几乎不可用，需要使用可用性高的节点作为替代。 jsdel&hellip",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 249,
+        "name": "Docker\/Huggingface等镜像CDN国内加速节点",
+        "url": "https:\/\/iui.su\/3635\/",
+        "logo": "https:\/\/iui.su\/2025.ico",
+        "catelog": "教程",
+        "desc": "常用镜像Web缓存网https:\/\/www.webcache.cn目前已包含常用前端公共库、Google字体库服务、CDNJS镜像服务、NPM资源文件服务，且已支持对托管在GitHub、GitL...",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 250,
+        "name": "Win10 Xbox Game Bar 开启FPS时提示没有权限的解决方案",
+        "url": "https:\/\/www.zhihu.com\/tardis\/zm\/art\/352360263?source_id=1005",
+        "logo": "https:\/\/static.zhihu.com\/static\/favicon.ico",
+        "catelog": "教程",
+        "desc": "Win10 系统自带的Xbox game bar 自带了性能监控，包括CPU、GPU、内存、显存的实时占用率，以及游戏玩家比较关注的FPS功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 251,
+        "name": "Crystal Dew World [en]",
+        "url": "https:\/\/crystalmark.info\/",
+        "logo": "https:\/\/crystalmark.info\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "CrystalDiskInfo and CrystalDiskMark",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 252,
+        "name": "HD Tune",
+        "url": "https:\/\/www.hdtune.com\/",
+        "logo": "https:\/\/www.hdtune.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "\tHD Tune Pro 是一款具有许多功能的硬盘\/SSD 实用程序。它可用于测量驱动器的性能、扫描错误、检查健康状况 （S.M.A.R.T.）、安全擦除所有数据等等。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 253,
+        "name": "SSD utils",
+        "url": "http:\/\/vlo.name:3000\/ssdtool\/",
+        "logo": "http:\/\/vlo.name:3000\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "SSD utils",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 254,
+        "name": "Flash中心",
+        "url": "https:\/\/www.flash.cn\/",
+        "logo": "https:\/\/soft.flash.cn\/lobby\/assets\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Flash中心-Flash Center-Flash中心 ，持续为您支持正版Flash使用，提供最新版安全稳定运行，一键修复 Flash Player问题，为您的Adobe Flash Player保驾护航",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 255,
+        "name": "英特尔® Extreme Tuning Utility （英特尔® XTU）",
+        "url": "https:\/\/www.intel.cn\/content\/www\/cn\/zh\/download\/17881\/intel-extreme-tuning-utility-intel-xtu.html",
+        "logo": "https:\/\/www.intel.cn\/etc.clientlibs\/settings\/wcm\/designs\/intel\/default\/resources\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "英特尔® Extreme Tuning Utility （英特尔® XTU） 用于对系统进行超频、监视和加压。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 256,
+        "name": "AMD Ryzen Master",
+        "url": "https:\/\/www.amd.com\/zh-cn\/products\/software\/ryzen-master.html",
+        "logo": "",
+        "catelog": "工具、软件",
+        "desc": "AMD Ryzen Master 工具实现超频控制 释放 AMD 锐龙处理器性能的利器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 257,
+        "name": "Microsoft 激活脚本 （MAS）",
+        "url": "https:\/\/massgrave.dev\/",
+        "logo": "https:\/\/massgrave.dev\/img\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "开源 Windows 和 Office 激活器，具有 HWID、Ohook、TSforge、KMS38 和在线 KMS 激活方法，以及高级故障排除。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 258,
+        "name": "Autoruns",
+        "url": "https:\/\/learn.microsoft.com\/zh-cn\/sysinternals\/downloads\/autoruns",
+        "logo": "https:\/\/www.microsoft.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "此实用工具对任何启动监视器的自动启动位置都有最全面的了解，它显示在系统启动或登录期间，以及在启动各种内置 Windows 应用（如 Internet Explorer、Explorer 和媒体播放器）时，配置为运行哪些程序。 这些程序和驱动程序包含在启动文件夹、Run、RunOnce 和其他注册表项中。 Autoruns 报告 Explorer 外壳扩展、工具栏、浏览器帮助程序对象、Winlogon 通知、自动启动服务等等。 Autoruns 远超其他自动启动实用工具。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 259,
+        "name": "NDM",
+        "url": "https:\/\/neatdownload.com\/",
+        "logo": "https:\/\/neatdownload.com\/storage\/2024\/03\/cropped-android-chrome-512x512-1-1-180x180.png",
+        "catelog": "工具、软件",
+        "desc": "Find the right tools to power your business and creativity",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 260,
+        "name": "Geekbench",
+        "url": "https:\/\/www.geekbench.com\/",
+        "logo": "https:\/\/www.geekbench.com\/img\/favicons\/ios\/apple-touch-icon-180.png",
+        "catelog": "工具、软件",
+        "desc": "Geekbench 6 is a cross-platform benchmark that measures your system performance with the press of a button. How will your mobile device or desktop computer perform when push comes to crunch? How will it compare to the newest devices on the market? Find out today with Geekbench 6.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 261,
+        "name": "IDC",
+        "url": "https:\/\/www.idc.com\/",
+        "logo": "https:\/\/www.idc.com\/wp-content\/uploads\/2025\/01\/cropped-favicon.png?w=180",
+        "catelog": "工具、软件",
+        "desc": "IDC examines consumer markets by devices, applications, networks, and services to provide complete solutions for succeeding in these expanding markets.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 262,
+        "name": "FreeCAD",
+        "url": "https:\/\/www.freecad.org\/index.php",
+        "logo": "https:\/\/www.freecad.org\/images\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 263,
+        "name": "OpenWrt",
+        "url": "https:\/\/openwrt.org\/",
+        "logo": "https:\/\/openwrt.org\/lib\/tpl\/bootstrap3\/images\/apple-touch-icon.png",
+        "catelog": "工具、软件",
+        "desc": "The OpenWrt Project is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management. This frees you from the application selection and configuration provided by the vendor and allows you to customize the device through the use of packages to suit any application. For developers, OpenWrt is the framework to build an application without having to build a complete firmware around it; for users this means the ability for full customization, to use the device in ways never envisioned.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 264,
+        "name": "CPUID",
+        "url": "https:\/\/www.cpuid.com\/",
+        "logo": "https:\/\/www.cpuid.com\/medias\/images\/apple-touch-icon-precomposed.png",
+        "catelog": "工具、软件",
+        "desc": "CPUID brings you system & hardware benchmark, monitoring, reporting quality softwares for your Windows & Android devices",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 265,
+        "name": "Geeks3D FurMark",
+        "url": "https:\/\/geeks3d.com\/furmark\/",
+        "logo": "https:\/\/geeks3d.com\/furmark\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "GPU Stress Test OpenGL and Vulkan Graphics Benchmark Windows - Linux",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 266,
+        "name": "AIDA64",
+        "url": "https:\/\/www.aida64.com\/",
+        "logo": "https:\/\/www.aida64.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "AIDA64 中文版是一款专业测试硬件信息的工具，不仅提供诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器性能进行全面评估。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 267,
+        "name": "Microsoft®Update Catalog",
+        "url": "https:\/\/catalog.update.microsoft.com\/Home.aspx",
+        "logo": "https:\/\/catalog.update.microsoft.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Welcome to the Microsoft Update Catalog site. We want your feedback! Visit our newsgroup or send us an email to provide us with your thoughts and suggestions. To get started using the site, enter in your search terms in the Search box above or visit our FAQ for search tips.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 268,
+        "name": "Parallels Desktop for Mac",
+        "url": "https:\/\/www.parallels.cn\/",
+        "logo": "https:\/\/www.parallels.cn\/static\/pl\/typo3conf\/ext\/prls_theme\/Resources\/Public\/theme\/res\/img\/favicon\/apple-touch-icon.png",
+        "catelog": "工具、软件",
+        "desc": "在搭载 Intel 或 Apple M 系列芯片的任何 Mac 上运行 Windows，体验不同操作系统之间无缝集成。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 269,
+        "name": "云展网，国内领先的电子画册制作平台",
+        "url": "https:\/\/www.yunzhan365.com\/",
+        "logo": "https:\/\/www.yunzhan365.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "自带流量的 电子画册制作平台",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 270,
+        "name": "符号大全",
+        "url": "http:\/\/cn.fuhao8.com\/",
+        "logo": "http:\/\/cn.fuhao8.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "符号大全收录最全的符号表情,有笑脸符号,人民币符号,特殊符号,直径符号,欧元符号,箭头符号,数学符号,表情,字符,颜文字,只需收藏本页就足够了,希望您会喜欢",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 271,
+        "name": "Web安全色 | CSS可视化",
+        "url": "https:\/\/css.bqrdh.com\/safety-color",
+        "logo": "https:\/\/css.bqrdh.com\/_resources\/icons\/icon_64x64.b55bda.png",
+        "catelog": "工具、软件",
+        "desc": "Web安全色 | CSS可视化",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 272,
+        "name": "国内 Github 访问优化方案汇总",
+        "url": "https:\/\/anotherdayu.com\/2022\/3413\/",
+        "logo": "https:\/\/anotherdayu.com\/wp-content\/uploads\/2022\/06\/cropped-photo_2022-06-16-10.08.51-32x32.jpeg",
+        "catelog": "工具、软件",
+        "desc": "国内 Github 访问优化方案汇总",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 273,
+        "name": "下载 .NET Framework",
+        "url": "https:\/\/dotnet.microsoft.com\/zh-cn\/download\/dotnet-framework",
+        "logo": "https:\/\/dotnet.microsoft.com\/zh-cn\/download\/dotnet-framework\/apple-touch-icon.png",
+        "catelog": "工具、软件",
+        "desc": ".NET Framework 是仅适用于 Windows 版本的 .NET，用于生成客户端和服务器应用程序。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 274,
+        "name": "PixPin - 强大且免费的截图贴图工具",
+        "url": "https:\/\/pixpin.cn\/",
+        "logo": "https:\/\/pixpin.cn\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "PixPin是一款功能强大的免费截图工具，支持截图、录屏、长截图、OCR文字识别、屏幕贴图等功能。为设计师、开发者、办公人员提供高效的屏幕操作体验",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 275,
+        "name": "HiBit Uninstaller",
+        "url": "https:\/\/www.hibitsoft.ir\/",
+        "logo": "https:\/\/www.hibitsoft.ir\/images\/HiBitSoftware-logo.png",
+        "catelog": "工具、软件",
+        "desc": "HiBit Uninstaller is the perfect solution for uninstalling Windows software, allowing you to uninstall programs quickly and completely using its simple and user friendly interface.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 276,
+        "name": "火绒弹窗拦截独立版",
+        "url": "https:\/\/lxldwp.lanzoum.com\/iv3Wx2uvc1na",
+        "logo": "https:\/\/assets.woozooo.com\/assets\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "实用的桌面弹窗拦截软件，软件可以将一些软件自带的弹窗广告进行拦截，防止正在工作时出现弹窗影响工作效率。软件绿色安全，操作起来也是十分简单",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 277,
+        "name": "资料文件夹转移工具",
+        "url": "https:\/\/lxldwp.lanzoum.com\/ibyp62uvgp7c",
+        "logo": "https:\/\/assets.woozooo.com\/assets\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "一款转移系统文件夹的小工具，无论你的系统资料文件夹是否存放文件，都无不影响使用，只需要一键即可将文件夹转移到非 C 盘位置。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 278,
+        "name": "FREESOUND飞声无版权音乐库 - 免费可商用音乐 - 免费BGM剪辑配乐下载",
+        "url": "https:\/\/www.freesound.cn\/",
+        "logo": "https:\/\/www.freesound.cn\/favicon.ico",
+        "catelog": "音乐资源",
+        "desc": "FREESOUND飞声无版权音乐库，收录海量免费可商用正版音乐资源，提供免费BGM视频剪辑配乐下载",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 279,
+        "name": "无损控 - 无损音乐下载FLAC,WAV,APE,MP3格式高品质歌曲免费下载网站",
+        "url": "https:\/\/wusunk.com\/",
+        "logo": "https:\/\/wusunk.com\/wp-content\/uploads\/2023\/03\/2023032913484162.jpg",
+        "catelog": "音乐资源",
+        "desc": "分享最新歌曲无损音乐下载,最热门抖音歌曲排行榜大全下载,歌手所有专辑以及经典老歌大全下载,4K高清MV,车载DJ舞曲大全等一切与音乐相关的资源免费下载，在本站可以找到很多的高品质无损音乐",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 280,
+        "name": "无损音乐吧dtshot",
+        "url": "https:\/\/www.dtshot.com\/",
+        "logo": "https:\/\/www.dtshot.com\/favicon.ico",
+        "catelog": "音乐资源",
+        "desc": "DTSHOT 每日推荐无损音乐，涵盖多种主流格式",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 281,
+        "name": "无版权音乐，免费商用 - 音乐资源库",
+        "url": "https:\/\/www.fiftysounds.com\/zh\/",
+        "logo": "https:\/\/www.fiftysounds.com\/zh\/..\/images\/gallery\/misc\/favicon-fiftysounds.ico",
+        "catelog": "音乐资源",
+        "desc": "无版权音乐，免费商用。您可以轻松地利用您的视频在YouTube以及您最喜欢的社交媒体上盈利。享受数百个音效，样本和独家音轨。 我们创造了一系列主题，涵盖广泛的音乐风格。 获得完美的音轨如今更为容易!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 282,
+        "name": "Python, Matplotlib, Tkinter 最佳教程网站 - D栈  - Delft Stack",
+        "url": "https:\/\/www.delftstack.com\/zh\/",
+        "logo": "https:\/\/www.delftstack.com\/assets\/img\/favicon.png",
+        "catelog": "教程",
+        "desc": "免费但优质的技术网站，涵盖诸如Python，Javascript，C &#43;&#43;，GIT等语言。 DelfStack是一个学习不同编程语言的网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 283,
+        "name": "IT  码 农",
+        "url": "https:\/\/tanqingbo.cn\/",
+        "logo": "https:\/\/tanqingbo.cn\/img\/logo.jpg",
+        "catelog": "教程",
+        "desc": "一个专注于程序员成长的网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 284,
+        "name": "菜鸟教程",
+        "url": "https:\/\/www.runoob.com\/",
+        "logo": "https:\/\/static.jyshare.com\/images\/icon\/mobile-icon.png",
+        "catelog": "教程",
+        "desc": "菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 285,
+        "name": "绕过PowerShell 执行策略的15种方法",
+        "url": "https:\/\/bbs.kanxue.com\/thread-218986.htm",
+        "logo": "https:\/\/bbs.kanxue.com\/view\/img\/favicon.ico",
+        "catelog": "教程",
+        "desc": "在Windows上，PowerShell的默认配置是不允许执行脚本文件的。这对于一些渗透测试人员，系统管理员，程序员等来说，是一个必须面对的障碍。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 286,
+        "name": "小白怎么选择台式机硬件",
+        "url": "https:\/\/jingyan.baidu.com\/article\/a3aad71af1bf97f0fa00960e.html",
+        "logo": "https:\/\/jingyan.baidu.com\/article\/a3aad71af1bf97f0fa00960e.html\/\/exp-new.bdstatic.com\/static\/exp-pc\/common-jquery\/widget\/img-baidu-com\/baidu_icon_85beaf5.svg",
+        "catelog": "教程",
+        "desc": "电脑现是生活中必不可少的工具之一，相比较之下同价位的台式机性能一般会优于笔记本，许多人想买台式电脑但又无从下手，买配件不会安装，自己又没有那么多时间和精力去学习装机，各种型号甚至各种品牌都会让人眼花缭乱。台式机主机主要由CPU、主板、内存、显卡、硬盘、电源、机箱等主要部分组成，能够顺利使用的话还需要一台显示器以及一套鼠标键盘。那么如何装配一台适合并且属于自己的台式机呢？",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 287,
+        "name": "什么样的笔记本电脑好用",
+        "url": "https:\/\/jingyan.baidu.com\/article\/9113f81b1076f66a3314c726.html",
+        "logo": "https:\/\/jingyan.baidu.com\/article\/9113f81b1076f66a3314c726.html\/\/exp-new.bdstatic.com\/static\/exp-pc\/common-jquery\/widget\/img-baidu-com\/baidu_icon_85beaf5.svg",
+        "catelog": "教程",
+        "desc": "有的伙伴在买电脑的时候会问：到底什么样的笔记本电脑好用？在那纠结，各种型号款式应有尽有，看的人眼花缭乱。本篇就说一下该怎么选择适合自己的笔记本。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 288,
+        "name": "让windows 11的开始菜单不在卡？",
+        "url": "https:\/\/jingyan.baidu.com\/article\/75ab0bcbbf373497864db2c9.html",
+        "logo": "https:\/\/jingyan.baidu.com\/article\/75ab0bcbbf373497864db2c9.html\/\/exp-new.bdstatic.com\/static\/exp-pc\/common-jquery\/widget\/img-baidu-com\/baidu_icon_85beaf5.svg",
+        "catelog": "教程",
+        "desc": "无论是资源管理器还是开始菜单，Win11 总是感觉有那么一点卡顿。很多人认为这是由于 Win11 的底层代码优化不佳所致，其实真正导致 Win11 卡顿的是因为它在打开这些位置时，会自动检索一遍 Office.com 里的内容。而这种联网式操作原本就会导致反应速度减慢，更何况国内访问 Office.com 一直都不是很通畅。不过呢这个是可以通过修改组策略就可以改善，具体怎么做呢，来看看吧！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 289,
+        "name": "wikiHow——互联网上最值得信赖的指南网站",
+        "url": "https:\/\/zh.wikihow.com\/",
+        "logo": "https:\/\/zh.wikihow.com\/%E9%A6%96%E9%A1%B5\/favicon_round.ico",
+        "catelog": "教程",
+        "desc": "wikiHow——互联网上最值得信赖的指南网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 290,
+        "name": "html5 原生页面添加时间戳解决缓存问题 及 清除缓存的几种方式",
+        "url": "https:\/\/blog.csdn.net\/y814696634\/article\/details\/108713655",
+        "logo": "https:\/\/g.csdnimg.cn\/static\/logo\/favicon32.ico",
+        "catelog": "教程",
+        "desc": "html5 原生页面添加时间戳解决缓存问题 及 清除缓存的几种方式",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 291,
+        "name": "小林 x 图解计算机基础",
+        "url": "https:\/\/xiaolincoding.com\/",
+        "logo": "https:\/\/cdn.xiaolincoding.com\/icon.webp",
+        "catelog": "教程",
+        "desc": "图解计算机网络、操作系统、计算机组成、MySQL、Redis，让天下没有难懂的八股文！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 292,
+        "name": "阿西河前端教程丨一个助你成为全栈开发的网站",
+        "url": "http:\/\/www.axihe.com\/",
+        "logo": "https:\/\/a.axihe.com\/assets-area\/mobile-icon.png?t=201911160050",
+        "catelog": "教程",
+        "desc": "阿西河前端教程提供了 JS教程 和CSS,HTML5,JavaScript,Vue,React,Linux,Docker等最新技术教程,本站的目的是帮助大家成为JS为核心的全栈开发工程师",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 293,
+        "name": "nil's blog",
+        "url": "https:\/\/dodoo.co\/",
+        "logo": "https:\/\/dodoo.co\/favicon.ico",
+        "catelog": "教程",
+        "desc": "编程和开发技术博客，记录分享个人技术成长！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 294,
+        "name": "Epic安装问题解决方法大全，解决安装向导提前终止\/自我更新失败等问题",
+        "url": "https:\/\/www.bilibili.com\/video\/BV1hF411q7wS\/?share_source=copy_web",
+        "logo": "https:\/\/www.bilibili.com\/video\/BV1hF411q7wS\/\/i1.hdslb.com\/bfs\/archive\/62843143a559e9a96e5f7b116bc4fe6c2c90b75d.jpg@100w_100h_1c.png@57w_57h_1c.png",
+        "catelog": "教程",
+        "desc": "Epic安装问题解决方法大全，解决安装向导提前终止\/自我更新失败等问题",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 295,
+        "name": "李钟意讲前端",
+        "url": "https:\/\/docs.ffffee.com\/",
+        "logo": "https:\/\/docs.ffffee.com\/favicon-16x16.ico",
+        "catelog": "教程",
+        "desc": "一个前端技术爱好者，在抖音直播分享技术",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 296,
+        "name": "每次开机都会显示“由于启动计算机时出现了页面文件配置问题，Windows在你的计算机上创建了一个临时页面文件。所有磁盘驱动器的总页面文件大小可能稍大于你所指定的大小。”（解决方案）",
+        "url": "https:\/\/zhuanlan.zhihu.com\/p\/690024949",
+        "logo": "https:\/\/zhuanlan.zhihu.com\/favicon.ico",
+        "catelog": "教程",
+        "desc": "每次开机都会显示“由于启动计算机时出现了页面文件配置问题，Windows在你的计算机上创建了一个临时页面文件。所有磁盘驱动器的总页面文件大小可能稍大于你所指定的大小。”（解决方案）",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 297,
+        "name": "图片收藏",
+        "url": "https:\/\/tupian.sioe.cn\/",
+        "logo": "https:\/\/tupian.sioe.cn\/favicon.ico",
+        "catelog": "图片素材",
+        "desc": "一张图片，或会让你感动、悲伤、欢喜……一眸间，七情之中，或言难诉。图片收藏－集世间万千影像之点滴。一张图，一个故事，一种心情",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 298,
+        "name": "Unsplash",
+        "url": "https:\/\/unsplash.com\/",
+        "logo": "",
+        "catelog": "图片素材",
+        "desc": "The internet’s source for visuals. Powered by creators everywhere.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 299,
+        "name": "插画",
+        "url": "https:\/\/storyset.com\/",
+        "logo": "https:\/\/storyset.com\/favicon-16x16.png",
+        "catelog": "图片素材",
+        "desc": "Awesome free customizable illustrations for your next project",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 300,
+        "name": "100font.com - 免费商用字体大全 - 免费字体下载网站",
+        "url": "https:\/\/www.100font.com\/",
+        "logo": "https:\/\/www.100font.com\/view\/img\/favicon.ico",
+        "catelog": "图片素材",
+        "desc": "100font.com是一个专业免费商用字体下载网站。专注于收集整理商用免费字体、免费无版权可商用字体。免费字体下载、免费放心商用",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 301,
+        "name": "爱给网_音效配乐_3D模型_视频素材_免费下载",
+        "url": "https:\/\/www.aigei.com\/",
+        "logo": "https:\/\/cdn-sqn.aigei.com\/assets\/site\/img\/logo\/aigei_114-114.png",
+        "catelog": "图片素材",
+        "desc": "中国最大的数字娱乐免费素材下载网站,免费提供免费的音效配乐|3D模型|视频|游戏素材资源下载",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 302,
+        "name": "致美化 - 视觉美化研究平台",
+        "url": "https:\/\/zhutix.com\/",
+        "logo": "https:\/\/zhutix.com\/favicon.ico",
+        "catelog": "图片素材",
+        "desc": "致美化是国内专注于视觉美化的研究及交流平台，聚集了超过50万的活跃用户，你可以在此个性化你的设备，探索及下载丰富多彩的电脑主题、壁纸、图标、皮肤等酷炫的美化素材及教程",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 303,
+        "name": "Bootstrap模板_响应式网站模板 - Bootstrap模板库",
+        "url": "https:\/\/www.bootstrapmb.com\/",
+        "logo": "https:\/\/www.bootstrapmb.com\/favicon.ico",
+        "catelog": "图片素材",
+        "desc": "Bootstrap模板库—汇聚国内外顶尖Bootstrap模板设计作品和Bootstrap插件，并提供网站模板在线预览及源码下载。全球顶尖网页前端设计作品，高效套用模板，尽在bootstrapmb.com",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 304,
+        "name": "QQ",
+        "url": "https:\/\/im.qq.com\/i",
+        "logo": "https:\/\/qzonestyle.gtimg.cn\/qzone\/qzact\/act\/external\/tiqq\/logo.png",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 305,
+        "name": "微信",
+        "url": "https:\/\/weixin.qq.com\/",
+        "logo": "https:\/\/res.wx.qq.com\/a\/wx_fed\/assets\/res\/NTI4MWU5.ico",
+        "catelog": "腾讯系应用",
+        "desc": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 306,
+        "name": "TIM",
+        "url": "https:\/\/office.qq.com\/",
+        "logo": "https:\/\/office.qq.com\/.\/img\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "专注团队沟通协作 在线文档、日程等办公功能",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 307,
+        "name": "QQ空间-分享生活，留住感动",
+        "url": "https:\/\/qzone.qq.com\/",
+        "logo": "https:\/\/qzonestyle.gtimg.cn\/aoi\/img\/logo\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "QQ空间(Qzone)是拥有数亿用户的社交网络，是QQ用户的网上家园，是腾讯集团的核心平台之一。您可以玩游戏、玩装扮、上传照片、写说说、写日志，黄钻贵族还可以免费换装并拥有多种特权。QQ空间同时致力于建设腾讯开放平台，和第三方开发商、创业者一起为亿万中国网民提供卓越的、个性化的社交服务。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 308,
+        "name": "WeGame - 一起更好玩 WeGame More",
+        "url": "https:\/\/www.wegame.com.cn\/",
+        "logo": "https:\/\/www.wegame.com.cn\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "WeGame是中国最大的PC游戏平台。我们致力于给玩家带来更多高品质游戏和更好游玩体验，为开发者和运营商提供全生命周期的游戏发行和运营服务。一起玩，才更好玩",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 309,
+        "name": "动漫 - 腾讯动漫官方网站 - 首页",
+        "url": "https:\/\/ac.qq.com\/",
+        "logo": "https:\/\/ac.qq.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "中国最大最权威的正版动漫网站，连载众多原创国漫，原创动画，正版日漫等海内外最热正版动漫内容，为上千万动漫爱好者提供漫画、动画、资讯、论坛一站式全方位动漫服务，为原创动漫作者提供最优质的创作成长环境，为中国动漫产业打造梦想舞台。热门动画|漫画：尸兄、中国惊奇先生、火影忍者、海贼王、大王饶命、三体等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 310,
+        "name": "QQ音乐下载页 - QQ音乐,音乐你的生活",
+        "url": "https:\/\/y.qq.com\/",
+        "logo": "https:\/\/y.qq.com\/\/y.qq.com\/favicon.ico?max_age=2592000",
+        "catelog": "腾讯系应用",
+        "desc": "QQ音乐最新版官方下载。最全的高品质正版音乐曲库，任你免费试听下载。最新最热的排行榜、歌单、电台、MV天天推荐，智能音乐搜索、猜你喜欢帮你轻松发现音乐，歌词翻译、免费空间背景音乐，尽在QQ音乐",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 311,
+        "name": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看",
+        "url": "https:\/\/v.qq.com\/",
+        "logo": "https:\/\/v.qq.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯视频致力于打造中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、多平台无缝应用体验以及快捷分享的产品特性，主要满足用户在线观看视频的需求",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 312,
+        "name": "腾讯体育",
+        "url": "https:\/\/sports.qq.com\/",
+        "logo": "https:\/\/sports.qq.com\/\/mat1.gtimg.com\/sports\/kbsweb\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯体育是全国亿万体育迷喜爱的社区平台，我们提供顶级赛事直播和丰富高燃的精彩视频，还有专业实时的赛场数据、及时权威的热点资讯、懂球有梗的聊球社区。等你一起为热爱加冕！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 313,
+        "name": "腾讯网",
+        "url": "https:\/\/www.qq.com\/",
+        "logo": "https:\/\/mat1.gtimg.com\/qqcdn\/qqindex2021\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯网从2003年创立至今，已经成为集新闻信息，区域垂直生活服务、社会化媒体资讯和产品为一体的互联网媒体平台。腾讯网下设新闻、科技、财经、娱乐、体育、汽车、时尚等多个频道，充分满足用户对不同类型资讯的需求。同时专注不同领域内容，打造精品栏目，并顺应技术发展趋势，推出网络直播等创新形式，改变了用户获取资讯的方式和习惯",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 314,
+        "name": "应用宝",
+        "url": "https:\/\/sj.qq.com\/",
+        "logo": "https:\/\/sj.qq.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "应用宝是腾讯公司推出的移动应用管理平台，提供安全、便捷的应用下载和管理服务。它拥有丰富的应用资源库，支持多平台下载，并提供应用管理、卸载、更新、备份等功能。应用宝注重安全可靠，对应用进行严格审核，并提供个性化推荐。特色功能包括一站式管理、跨平台支持、社交分享、礼包中心等。自推出以来，应用宝已成为国内领先的第三方安卓应用下载平台，不断探索AI技术和商业模式创新。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 315,
+        "name": "QQ浏览器",
+        "url": "https:\/\/browser.qq.com\/",
+        "logo": "https:\/\/browser.qq.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "QQ浏览器是腾讯公司开发的一款极速浏览器，支持电脑、安卓、苹果等多种终端；支持flash、支持Chromium和IE双内核引擎，上网速度快、兼容性好；支持网页自动分组和手动管理；视频小窗播放、一键隐藏窗口；同时分屏浏览多个网页；云游戏在线玩、电脑玩手游；截图工具支持截长图；多种免费在线工具和插件市场、不同风格皮肤个性定制；QQ浏览器，办公娱乐快人一步。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 316,
+        "name": "腾讯地图",
+        "url": "https:\/\/map.qq.com\/",
+        "logo": "https:\/\/map.qq.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "提供全国400多个城市的地图浏览、地址查询、兴趣点搜索、公交换乘、驾车导航、公交线路及站点查询等多项服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 317,
+        "name": "QQ邮箱",
+        "url": "https:\/\/wx.mail.qq.com\/",
+        "logo": "https:\/\/mail.qq.com\/zh_CN\/htmledition\/images\/favicon\/qqmail_favicon_96h.png",
+        "catelog": "腾讯系应用",
+        "desc": "QQ邮箱，为亿万用户提供高效稳定便捷的电子邮件服务。 你可以在电脑网页、iOS\/iPad客户端、及Android客户端上使用它，通过邮件发送3G的超大附件，体验文件中转站、日历、记事本、漂流瓶等特色功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 318,
+        "name": "腾讯自选股",
+        "url": "https:\/\/gu.qq.com\/",
+        "logo": "https:\/\/st.gtimg.com\/quotes_center\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯自选股是由腾讯官方出品的一款轻便、简洁、专业的股票分析和交易软件。联合第三方券商，为用户提供行情、资讯、交易、社区、基金等一站式投资服务，是专业伴你成长的智能投资助手。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 319,
+        "name": "天天P图",
+        "url": "https:\/\/tu.qq.com\/",
+        "logo": "https:\/\/tu.qq.com\/home-4.0-res\/favicon.png",
+        "catelog": "腾讯系应用",
+        "desc": "爱美更爱玩·全能好用的美图神器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 320,
+        "name": "一站式调研服务平台 - 腾讯问卷",
+        "url": "https:\/\/wj.qq.com\/",
+        "logo": "https:\/\/wj.qq.com\/safari-pinned-tab.svg",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯问卷提供了从问卷设计、数据收集到统计分析的一站式专业调查研究能力，平台还有超百万的在线回答小组成员，可以提供高效、精准的问卷有偿投放服务，已经被广泛应用在调查研究、表单、投票、考试等工作和学习场景，满足政府、企业、学校、团队组织等各类用户数据收集和统计分析的使用需要。腾讯问卷对通用的基础功能是永久免费的，也可以根据自身使用需求选择有更多个性化高级功能和服务的付费高级版、尊享版、旗舰版。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 321,
+        "name": "腾讯兔小巢-免费便捷的用户意见反馈服务平台",
+        "url": "https:\/\/txc.qq.com\/",
+        "logo": "https:\/\/txc.qq.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "兔小巢是腾讯推出的一款轻量、免费的用户意见反馈服务平台，旨在方便地嵌入APP\/微信公众号\/QQ公众号，为中小企业或团队快速搭建用户反馈通道，帮助产品提升服务水平和效率",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 322,
+        "name": "腾讯开放平台beta|开放成就梦想",
+        "url": "https:\/\/open.tencent.com\/",
+        "logo": "https:\/\/open.tencent.com\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯开放平台，致力于打造最高效、可靠的企业服务平台。依托腾讯20年技术沉淀，整合腾讯内部核心资源，在研发、设计、推广、营收转化、产品体验上全方位赋能合作企业，助力企业加速实现科技转型，快速成长",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 323,
+        "name": "腾讯云 产业智变·云启未来 - 腾讯",
+        "url": "https:\/\/cloud.tencent.com\/",
+        "logo": "https:\/\/cloudcache.tencent-cloud.com\/qcloud\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯云(tencent cloud)为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 324,
+        "name": "腾讯优图",
+        "url": "https:\/\/open.youtu.qq.com\/",
+        "logo": "https:\/\/open.youtu.qq.com\/.\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯旗下顶级的机器学习研发团队，专注于图像处理，模式识别，深度学习。在人脸检测、五官定位、人脸识别、图像理解等领域都积累了完整解决方案和领先的技术水平",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 325,
+        "name": "腾讯会议",
+        "url": "https:\/\/meeting.tencent.com\/",
+        "logo": "https:\/\/cdn.meeting.tencent.com\/assets\/next-website\/logo128.png",
+        "catelog": "腾讯系应用",
+        "desc": "基于腾讯20多年音视频通讯经验，腾讯会议提供一站式音视频会议解决方案，让您能随时随地体验高清流畅的会议以及会议协作",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 326,
+        "name": "腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档",
+        "url": "https:\/\/docs.qq.com\/",
+        "logo": "https:\/\/docs.idqqimg.com\/tim\/docs\/desktop\/favicon.ico",
+        "catelog": "腾讯系应用",
+        "desc": "腾讯文档是一款可多人协作的在线文档，可同时编辑Word、Excel和PPT文档，云端实时保存。可针对QQ、微信好友设置文档访问、编辑权限，支持多种版本Word、Excel和PPT文档模板",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 327,
+        "name": "AI工具集官网",
+        "url": "https:\/\/ai-bot.cn\/",
+        "logo": "https:\/\/ai-bot.cn\/wp-content\/uploads\/2023\/04\/ai-bot-baidu-logo.png",
+        "catelog": "AI 工具",
+        "desc": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 328,
+        "name": "AI导航",
+        "url": "https:\/\/www.ai-dh.com\/",
+        "logo": "https:\/\/www.ai-dh.com\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "AIDH选及整理最优秀的AI绘画,AI聊天,AI提示词,AI办公,AIGC,文生图等网站,让AI融入每个人的工作与生活,收录网站包括AI生成图片、AI生成视频、AI生成文案、文生图、AI绘画、AI办公、AI聊天等等。拥有智能推荐、强大的站内搜索、账号收藏云同步、自定义站点、只为前沿生产力而生。用AI就上AIDH！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 329,
+        "name": "AI平台 | AI工具集｜AI资讯站",
+        "url": "https:\/\/www.aipintai.com\/",
+        "logo": "https:\/\/www.aipintai.com\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "AI应用工具平台,收录了国内外数百个AI优秀工具，为AI创作者提供绘画创作、智能对话、翻译辅助、3D设计、视频生成、语言合成等各类精选AI工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 330,
+        "name": "豆包 AI",
+        "url": "https:\/\/www.doubao.com\/",
+        "logo": "https:\/\/lf-flow-web-cdn.doubao.com\/obj\/flow-doubao\/doubao\/web\/logo-icon.png",
+        "catelog": "AI 工具",
+        "desc": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 331,
+        "name": "秘塔AI搜索",
+        "url": "https:\/\/metaso.cn\/",
+        "logo": "https:\/\/metaso.cn\/apple-touch-icon.png",
+        "catelog": "AI 工具",
+        "desc": "没有广告，直达结果",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 332,
+        "name": "百度AI搜索",
+        "url": "https:\/\/chat.baidu.com\/",
+        "logo": "https:\/\/www.baidu.com\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "百度AI搜索，一站式解决复杂问题，激发PC端超级生产力！独有「灵感探索」功能深入剖析问题核心，智能文字创作、图片创作、AI阅读、智能体海量应用启迪无限创意，开启高效智能学习办公新篇章！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 333,
+        "name": "腾讯元宝AI",
+        "url": "https:\/\/yuanbao.tencent.com\/chat\/",
+        "logo": "https:\/\/cdn-bot.hunyuan.tencent.com\/logo-v2.png",
+        "catelog": "AI 工具",
+        "desc": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 334,
+        "name": "AIGC工具导航 | 生成式人工智能工具导航平台官网",
+        "url": "https:\/\/www.aigc.cn\/",
+        "logo": "https:\/\/www.aigc.cn\/wp-content\/uploads\/2023\/04\/AIGClogoXIAO-2.png",
+        "catelog": "AI 工具",
+        "desc": "AIGC工具导航站（www.aigc.cn）简称：AIGC导航，一个全网分类最全，收录最全的生成式人工智能工具导航平台，分类包括AI写作、AI绘画、AI视频、AI办公、AI数字人、AI设计、AI语音、AI音乐、AI论文、AI简历、AI智能体、文本转语音等AI工具。AIGC导航提供一站式AI工具导航服务，帮助用户快速找到能够提升工作效率和创作能力的生产力工具。找AI工具，就上AIGC工具导航！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 335,
+        "name": "AI工具箱 | AI工具资源一站式聚合网站",
+        "url": "https:\/\/ai-kit.cn\/",
+        "logo": "https:\/\/ai-kit.cn\/wp-content\/uploads\/2024\/05\/cropped-logo-14-1-180x180.png",
+        "catelog": "AI 工具",
+        "desc": "AI工具箱，全方位AI资源聚合平台，精选全球优质免费AI应用，涵盖AI写作、AI绘画、AI办公、AI营销、AI视频、AI音频等多元领域。致力于让AI技术触手可及，助力用户高效工作，加速技术创新与产业应用落地，推动智能生活与工作方式革新",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 336,
+        "name": "人工智能工具导航 | AITOP100大赛平台-3000+AI工具&#x2F;赛事资讯",
+        "url": "https:\/\/www.aitop100.cn\/",
+        "logo": "https:\/\/www.aitop100.cn\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "AITOP100大赛平台专注人工智能工具导航与AI赛事资讯，整合收录3000+AI开发工具、算法模型及全球500+场AI大赛资源。提供智能分类检索、赛事报名、工具评测一站式服务，每日更新最新人工智能解决方案，助力开发者高效获取解决方案",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 337,
+        "name": "AI工具箱",
+        "url": "https:\/\/www.ailookme.com\/",
+        "logo": "https:\/\/www.ailookme.com\/wp-content\/uploads\/2023\/04\/1234-1.png",
+        "catelog": "AI 工具",
+        "desc": "AI工具汇聚，全方位满足你的各种需求",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 338,
+        "name": "ToolAI 全球最完整最全面的AI人工智能工具集合",
+        "url": "https:\/\/www.toolai.io\/zh",
+        "logo": "https:\/\/www.toolai.io\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "让您领先他人，收集了全球最完整的数千个AI网站、工具、app，帮助您快速高效的完成工作",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 339,
+        "name": "AI工具网 | AI工具导航和推荐 - 人工智能工具集合 - 快速找到最佳AI工具",
+        "url": "https:\/\/www.ai138.com\/",
+        "logo": "https:\/\/cdn.ai138.com\/wp-content\/uploads\/2024\/07\/1722234402-1722234402-A111.png",
+        "catelog": "AI 工具",
+        "desc": "AI工具网是专业的AI工具导航平台，汇集超过800种国内外AI人工智能工具，专为AI创作者和开发者设计，涵盖智能对话、AI绘画、创意写作、多语言翻译、3D设计、视频编辑和语音合成等高效工具。AI工具导航为您推荐最优秀的人工智能工具，助您提升工作效率和创造力！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 340,
+        "name": "AI导航站_AI工具导航_AI工具_AI网址导航_AI应用导航_AI软件导航_AI论文_AI写作_AI工具集导航_AI人工智能网站",
+        "url": "https:\/\/ai-nav.net\/",
+        "logo": "https:\/\/ai-nav.net\/wp-content\/uploads\/2024\/06\/ai-nav-favicon.png",
+        "catelog": "AI 工具",
+        "desc": "找AI工具，就到AI导航站！AI导航站是一个免费的AI工具集合网站，为用户收集分享大量免费AI工具，包括AI写作工具、AI办公工具、AI论文生成、AI图生视频、AI文生视频、AI图像生成和背景移除、AI视频制作、AI辅助编程、AI音乐生成、AI音频转录、AI绘画设计、AI学习工具、AI Agent、AIGC、Sora、AI对话等免费工具，一起加入人工智能浪潮，助力生产效率提升!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 341,
+        "name": "Toolify-最好的AI网站和AI工具",
+        "url": "https:\/\/www.toolify.ai\/zh\/",
+        "logo": "https:\/\/www.toolify.ai\/zh\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "Toolify 是最大的人工智能工具目录和 GPTs 商店应用程序。超过 25800+ 个人工智能网站和人工智能工具。人工智能工具列表和 GPT 商店应用程序列表由 ChatGPT 自动更新。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 342,
+        "name": "人工智能 - Ai工具集 - 全球精选人工智能ai工具集合网站",
+        "url": "https:\/\/www.ai-321.com\/",
+        "logo": "https:\/\/www.ai-321.com\/wp-content\/uploads\/2025\/01\/1737819247-ai-321.jpg",
+        "catelog": "AI 工具",
+        "desc": "Ai工具集 - 专注人工智能 - ai智能体 - ai人工智能软件工具推荐！是免费的办公效率ai工具集网站。为全球办公人提供最新、最全面的AI人工智能软件App官网下载、资源分享和使用指南等！助您更好地应用AI人工智能技术。是实现高效办公轻松生活的实用网址导航网站！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 343,
+        "name": "AI 工具百宝箱｜ExplainThis",
+        "url": "https:\/\/www.explainthis.io\/zh-hans\/ai-toolkit",
+        "logo": "https:\/\/www.explainthis.io\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "最实用、最热门的 AI 工具，帮助你在工作与学习上更轻松有效率",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 344,
+        "name": "AIbase基地 - 让更多人看到未来 通往AGI之路",
+        "url": "https:\/\/www.aibase.com\/zh",
+        "logo": "https:\/\/www.aibase.com\/favicon-32x32.png",
+        "catelog": "AI 工具",
+        "desc": "AIBase致力于让更多人了解并参与未来人工智能发展的平台。我们提供包括最新的AI新闻资讯、全面的AI赚钱指南、详尽的AI教程、多样化的AI产品库以及强大的AI应用开发平台等。无论你是AI领域的新手还是专家，这里都有你需要的资源和工具，助你在通往人工智能通用智能（AGI）的道路上不断前行！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 345,
+        "name": "AI工具导航 | AI工具大全，国内外AI工具一站式导航网站-tools-ai",
+        "url": "https:\/\/www.tools-ai.cn\/",
+        "logo": "https:\/\/www.tools-ai.cn\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "AI工具导航专注于人工智能的工具导航,收录了国内外5000+个AI工具！为用户提供丰富的AI资源。帮助您加入人工智能浪潮，自动化高效完成任务！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 346,
+        "name": "纳米AI搜索",
+        "url": "https:\/\/www.n.cn\/",
+        "logo": "https:\/\/www.n.cn\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "纳米AI搜索开创全新问答方式，没有套路，直接给答案，让搜索变得简单直观！拍照问、语音搜、听答案，让搜索随心所欲，智慧触手可得。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 347,
+        "name": "纳米AI",
+        "url": "https:\/\/bot.n.cn\/",
+        "logo": "https:\/\/p1.ssl.qhimg.com\/t11098f6bcdb3c1c166a74ad70c.png",
+        "catelog": "AI 工具",
+        "desc": "纳米AI",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 348,
+        "name": "知乎直答",
+        "url": "https:\/\/zhida.zhihu.com\/",
+        "logo": "https:\/\/pic1.zhimg.com\/v2-7e3856b1a6d415224ca95814132a3612.png",
+        "catelog": "AI 工具",
+        "desc": "知乎直答（zhida.ai）是知乎推出的一款使用 AI 大模型等先进技术的产品，以知乎社区的优质内容为核心，多种数据源为辅助，为人们提供一种全新的获取可靠信息的途径。知乎直答是多智能体系统，能够满足用户多维度的需求；同时对生成结果进行溯源，以确保内容的可信、可控以及对知识产权和版权的尊重。知乎直答致力于为用户提供卓越的使用体验，用技术拉近创作者和用户之间的距离。有问题，就会有答案。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 349,
+        "name": "海螺视频：每个想法都是一部大片",
+        "url": "https:\/\/hailuoai.com\/",
+        "logo": "https:\/\/cdn.hailuoai.com\/hailuo-video-web\/public_assets\/favicon.png",
+        "catelog": "AI 工具",
+        "desc": "海螺视频工具 - 创新的AI视频生成器和提示词工具，可以将您的想法转化为精美的AI视频。只需一段文字，即可借助尖端的AI技术，在短时间内创作出引人入胜的视觉作品。现在就用海螺视频释放您的创造力吧。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 350,
+        "name": "即梦AI - 即刻造梦",
+        "url": "https:\/\/jimeng.jianying.com\/",
+        "logo": "https:\/\/lf3-lv-buz.vlabstatic.com\/obj\/image-lvweb-buz\/common\/images\/dreamina-v1.ico",
+        "catelog": "AI 工具",
+        "desc": "即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 351,
+        "name": "可灵 AI - 新一代 AI 创意生产力平台",
+        "url": "https:\/\/app.klingai.com\/cn\/",
+        "logo": "https:\/\/p2-kling.kechuangai.com\/kcdn\/cdn-kcdn112452\/kling-web-aio-prod_aio\/logo-58x58.png",
+        "catelog": "AI 工具",
+        "desc": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 352,
+        "name": "扣子-AI 智能体开发平台",
+        "url": "https:\/\/www.coze.cn\/",
+        "logo": "https:\/\/lf-coze-web-cdn.coze.cn\/obj\/coze-web-cn\/obric\/coze\/favicon.1970.png",
+        "catelog": "AI 工具",
+        "desc": "扣子是新一代 AI 大模型智能体开发平台。整合了插件、长短期记忆、工作流、卡片等丰富能力，扣子能帮你低门槛、快速搭建个性化或具备商业价值的智能体，并发布到豆包、飞书等各个平台。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 353,
+        "name": "闪剪智播 - AI数字人直播软件 | 智能虚拟人直播工具",
+        "url": "https:\/\/obs.shanjian.tv\/",
+        "logo": "https:\/\/obs.shanjian.tv\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "闪剪智播是一站式多场景的数字人直播工具，100+数字人直播主播任你选择，使用热门直播模板3分钟快速搭建专属数字人直播间，支持团队协作管理矩阵开播，抖音、快手、淘宝、视频号、TikTok、亚马逊等10多个平台同步直播",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 354,
+        "name": "有道翻译AI写作 - 论文、邮件、文案一键生成",
+        "url": "https:\/\/fanyi.youdao.com\/aiwrite",
+        "logo": "https:\/\/ydlunacommon-cdn.nosdn.127.net\/31cf4b56e6c0b3af668aa079de1a898c.png",
+        "catelog": "AI 工具",
+        "desc": "论文、邮件、文案、公文通知等内容一键生成；润色、扩写、去重等功能助力内容质量提升；英文内容智能纠错，助力高效创作",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 355,
+        "name": "讯飞写作-智能AI写作助手-在线AI写作软件",
+        "url": "https:\/\/huixie.iflyrec.com\/",
+        "logo": "https:\/\/huixie.iflyrec.com\/.\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "content=\"讯飞写作是基于科大讯飞星火大模型的一款AI智能写作助手，提供会议纪要、公文写作、工作总结、心得体会、新闻稿、面试自我介绍、朋友圈文案、改写润色、论文摘要等AI智能写作功能\"",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 356,
+        "name": "讯飞绘文_一站式AIGC内容运营平台",
+        "url": "https:\/\/turbodesk.xfyun.cn\/home",
+        "logo": "https:\/\/turbodesk.xfyun.cn\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "讯飞绘文，集AI写作，选题，配图，排版，润色，发布等功能为一体的智能创作平台。通用稿件30分钟生成，深度稿件效率翻番。应用于企业公众号，头条，新闻、等场景。释放创意，让内容创作更轻松！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 357,
+        "name": "iSlide",
+        "url": "https:\/\/www.islide.cc\/",
+        "logo": "https:\/\/www.islide.cc\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "iSlide 让 PPT 设计简单起来 AI 深度赋能 ｜ 含 80+ 设计辅助功能 超 1400W 专业 PPT 模板\/素材  免费下载 Windows 版",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 358,
+        "name": "美图设计室-AI智能一键生成海报-免费平面设计图片编辑扩图抠图软件-免费模板图文素材",
+        "url": "https:\/\/www.designkit.com\/",
+        "logo": "https:\/\/www.designkit.com\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "content=\"美图设计室是美图秀秀旗下的智能设计在线协作平台，是一款平面设计工具、在线平面设计软件及AI设计工具,提供海量海报模板,跨境电商模板,跨境电商banner,跨境电商主图,邀请函,公告通知,喜报,logo等免费设计素材和模板，可在线智能生成海报,一键换色,一键换装,一键去水印,AI扩图,ai海报生成,ai文案,美图ai ppt,AI商品图,画质修复,抠图拼图，3秒完成专业设计！\"",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 359,
+        "name": "ProcessOn思维导图流程图-在线画思维导图流程图_在线作图实时协作",
+        "url": "https:\/\/www.processon.com\/",
+        "logo": "https:\/\/www.processon.com\/public_login\/favicon.983368c6.ico",
+        "catelog": "AI 工具",
+        "desc": "ProcessOn是一款专业在线作图工具和知识分享社区，支持AI一键生成思维导图和流程图。可绘制甘特图、ER图、UML、网络拓扑图、电路图、平面图、鱼骨图、组织结构图、时间轴等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 360,
+        "name": "绘制精美的流程图、思维导图、信息图等 - 亿图软件官网",
+        "url": "https:\/\/www.edrawsoft.cn\/",
+        "logo": "https:\/\/images.edrawsoft.com\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "A股上市公司万兴科技旗下亿图软件可让您轻松绘制流程图，思维导图，信息图，组织架构图，网络拓扑图，户型图，电路图等210种绘图类型。上万模板免费下载，一定程度可替代Visio。广泛应用于办公教育领域。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 361,
+        "name": "WPS AI - PPT一键生成 | AI写作文档 | AI表格处理",
+        "url": "https:\/\/ai.wps.cn\/",
+        "logo": "https:\/\/personal-act.wpscdn.cn\/operations-fe\/wps-ai\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "WPS AI 是金山办公旗下具备大语言模型能力的人工智能应用，提供智能文档写作、长文阅读处理与人机交互等能力，与 WPS办公结合有自动生成 PPT、表格分析处理、文章改写续写、翻译等功能，助力智能办公，提升用户体验。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 362,
+        "name": "ChatExcel AI Excel处理和数据分析",
+        "url": "https:\/\/chatexcel.com\/",
+        "logo": "https:\/\/chatexcel.com\/logo.svg",
+        "catelog": "AI 工具",
+        "desc": "ChatExcel AI Excel处理和数据分析   用户只需像和好友聊天一样操作，Chatexcel会自动通过 AI完成图表处理和分析，彻底改变了与表格数据的交互方式。将用户从繁琐的公式与运算中解放出来，无需编写复杂的公式和代码，让用户专注于文件数据和分析本身",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 363,
+        "name": "【360智图】AI图片创作平台_智能生成背景_一键生成_免费模板图文素材_体验智能化内容生成",
+        "url": "https:\/\/pic.360.com\/home",
+        "logo": "https:\/\/p3.ssl.qhimg.com\/dmt\/64_64_\/t01982b0cd588b0611a.png",
+        "catelog": "AI 工具",
+        "desc": "content=\"360智图是一个专业的图片版权查询平台，基于360搜索算法和图像AI识别能力，为广大运营、市场、广告、设计师等需要用到配图或者进行设计的用户服务。版权图片数量多，且质量优。平台具有图片版权一键查询、版权图片搜索、相似版权图片推荐、免费版权图供给等服务。\"",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 364,
+        "name": "美图云修-专业级AI人像精修",
+        "url": "https:\/\/yunxiu.meitu.com\/",
+        "logo": "https:\/\/yunxiu.meitu.com\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "美图云修是美图公司推出的专业级AI人像精修软件，应用全球领先的AI影像技术，为商业摄影后期提供全方位智能修图服务，打造真实、自然、干净、通透的人像精修效果，又好又快地完成照片批量处理工作，助力企业降本、提效、增收。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 365,
+        "name": "通义万相_AI创意作画_AI绘画_人工智能-阿里云",
+        "url": "https:\/\/tongyi.aliyun.com\/wanxiang\/",
+        "logo": "https:\/\/alidocs.oss-accelerate.aliyuncs.com\/res\/oJGq76v5aMRynAKe\/img\/1b1b81ce-1625-4851-b015-09eb7b99872f.svg",
+        "catelog": "AI 工具",
+        "desc": "通义万相是阿里云通义旗下的AI创意作画平台，可提供AI艺术创作，可支持文生图、图生图、涂鸦作画、虚拟模特、个人写真等多场景的图片创作能力",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 366,
+        "name": "  网易天音 - 一站式AI音乐创作工具 - 官网",
+        "url": "https:\/\/tianyin.music.163.com\/",
+        "logo": "https:\/\/s7.music.126.net\/6369f9ec78c25c1818ccfc08\/img\/favicon_021f7155.ico",
+        "catelog": "AI 工具",
+        "desc": "content=\"网易天音AI创作平台，词曲编唱样样精通，海量风格全部免费使用，还不快来点亮你的音乐天赋！\"",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 5,
+        "name": "苦瓜书盘",
+        "url": "https:\/\/www.kgbook.com\/",
+        "logo": "https:\/\/www.kgbook.com\/favicon.ico",
+        "catelog": "图书阅读",
+        "desc": "苦瓜书盘是供网友交流适合电纸书阅读的6寸pdf及mobi格式电子书制作技术的网站，提供6寸pdf、mobi等格式电子书上传及下载。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 367,
+        "name": "下载丢失DLL文件",
+        "url": "https:\/\/cn.dll-files.com\/",
+        "logo": "https:\/\/cn.dll-files.com\/assets\/img\/favicons\/favicon-16x16.png",
+        "catelog": "工具、软件",
+        "desc": "在这里，您将找到计算机上可能丢失或损坏的最常见文件。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 368,
+        "name": "爱奇艺",
+        "url": "https:\/\/www.iqiyi.com\/",
+        "logo": "https:\/\/www.iqiyi.com\/logo.png",
+        "catelog": "视频直播",
+        "desc": "爱奇艺-在线视频网站-海量正版高清视频在线观看",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 369,
+        "name": "优酷",
+        "url": "https:\/\/www.youku.com\/",
+        "logo": "https:\/\/img.alicdn.com\/imgextra\/i2\/O1CN01BeAcgL1ywY0G5nSn8_!!6000000006643-2-tps-195-195.png",
+        "catelog": "视频直播",
+        "desc": "视频服务平台,提供视频播放,视频发布,视频搜索,视频分享",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 370,
+        "name": "斗鱼 - 每个人的直播平台",
+        "url": "https:\/\/www.douyu.com\/",
+        "logo": "https:\/\/www.douyu.com\/favicon.ico",
+        "catelog": "视频直播",
+        "desc": "斗鱼 - 每个人的直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播，内容丰富，推送及时，带给你不一样的视听体验，一切尽在斗鱼 - 每个人的直播平台。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 371,
+        "name": "虎牙直播-技术驱动娱乐-弹幕式互动直播平台",
+        "url": "https:\/\/www.huya.com\/",
+        "logo": "https:\/\/www.huya.com\/favicon.ico",
+        "catelog": "视频直播",
+        "desc": "content=\"虎牙直播是以游戏直播为主的弹幕式互动直播平台，累计注册用户2亿，提供热门游戏直播、电竞赛事直播与游戏赛事直播，手游直播等。包含英雄联盟lol，王者荣耀，绝地求生，和平精英等游戏直播，lol、dota2、dnf等热门游戏直播以及单机游戏、手游等游戏直播。\"",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 372,
+        "name": "芒果TV-天生青春",
+        "url": "https:\/\/www.mgtv.com\/",
+        "logo": "https:\/\/static.hitv.com\/pc\/icons\/icon_512x512.1b7ca7.png",
+        "catelog": "视频直播",
+        "desc": "content=\"芒果TV-大家都在看的在线视频网站-热门综艺最新电影电视剧在线观看\"",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 373,
+        "name": "千千音乐",
+        "url": "https:\/\/music.91q.com\/",
+        "logo": "https:\/\/music.91q.com\/favicon.ico",
+        "catelog": "音乐游戏",
+        "desc": "千千音乐致力于提供更专业、更懂你的「场景音乐」，打造一款个性化、智能化的音乐伴侣产品，让你感受音乐本身的魅力。这里有来自不同国家的数百名音乐设计师，为你提供更好的音乐服务",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 374,
+        "name": "酷狗音乐 - 就是歌多！小说相声也很多！",
+        "url": "https:\/\/www.kugou.com\/",
+        "logo": "https:\/\/www.kugou.com\/root\/favicon.ico",
+        "catelog": "音乐游戏",
+        "desc": "酷狗音乐在线正版音乐网站，为您提供酷狗音乐播放器下载 、在线音乐试听下载，提供听书、长音频、频道、听小说和MV播放服务。酷狗音乐，就是歌多！小说相声也很多！场景音乐也很多！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 375,
+        "name": "酷我音乐-无损音质正版在线试听网站",
+        "url": "https:\/\/www.kuwo.cn\/",
+        "logo": "https:\/\/www.kuwo.cn\/favicon.ico?v=1",
+        "catelog": "音乐游戏",
+        "desc": "酷我音乐-无损音质正版在线试听网站，酷我音乐为您提供高品质音乐，无损音乐下载，拥有各类音乐榜单，快捷的新歌速递，完善的主题电台，个性化的歌曲推荐，高品质音乐在线听，好音质，用酷我。陪着我，不要停",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 376,
+        "name": "网易云音乐",
+        "url": "https:\/\/music.163.com\/",
+        "logo": "https:\/\/p3.music.126.net\/tBTNafgjNnTL1KlZMt7lVA==\/18885211718935735.jpg",
+        "catelog": "音乐游戏",
+        "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 377,
+        "name": "欢迎来到 Steam",
+        "url": "https:\/\/store.steampowered.com\/",
+        "logo": "https:\/\/store.steampowered.com\/favicon.ico",
+        "catelog": "音乐游戏",
+        "desc": "欢迎来到 Steam",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 378,
+        "name": "网易游戏官网_游戏热爱者",
+        "url": "https:\/\/game.163.com\/",
+        "logo": "https:\/\/game.163.com\/favicon.ico",
+        "catelog": "音乐游戏",
+        "desc": "我和你一样，我们都是游戏热爱者。网易在线游戏自主研发运营多款在线游戏，包括《大话西游Ⅱ》、《梦幻西游2》、《新大话西游3 》、《武魂》、《天下3》、《大唐无双2》、《倩女幽魂2》、《新飞飞》等。网易游戏 在中国MMORPG游戏市场保持领先地位。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 379,
+        "name": "WeGame - 一起更好玩 WeGame More",
+        "url": "https:\/\/www.wegame.com.cn\/",
+        "logo": "https:\/\/www.wegame.com.cn\/favicon.ico",
+        "catelog": "音乐游戏",
+        "desc": "WeGame是中国最大的PC游戏平台。我们致力于给玩家带来更多高品质游戏和更好游玩体验，为开发者和运营商提供全生命周期的游戏发行和运营服务。一起玩，才更好玩。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 380,
+        "name": "小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario",
+        "url": "https:\/\/www.yikm.net\/",
+        "logo": "https:\/\/img.1990i.com\/f.png",
+        "catelog": "音乐游戏",
+        "desc": "魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 381,
+        "name": "Epic游戏商城 | 下载畅玩 PC 平台游戏、模组、DLC 和更多 – Epic Games",
+        "url": "https:\/\/store.epicgames.com\/zh-CN\/",
+        "logo": "https:\/\/static-assets-prod.epicgames.com\/epic-store\/static\/favicon.ico",
+        "catelog": "音乐游戏",
+        "desc": "欢迎来到Epic游戏商城！下载畅玩各类 PC 平台游戏。模组、DLC 和免费游戏等你来享！总有一款游戏适合你。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 382,
+        "name": "谷歌",
+        "url": "https:\/\/www.google.cn\/intl\/zh-CN\/chrome\/",
+        "logo": "https:\/\/www.google.cn\/chrome\/static\/images\/favicons\/favicon-32x32.png",
+        "catelog": "浏览器",
+        "desc": "Chrome 是 Google 的官方网络浏览器，速度飞快，安全可靠，并且支持自定义。欢迎立即下载，随心定制。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 383,
+        "name": "360安全浏览器-全面保护上网安全，4亿用户共同选择",
+        "url": "https:\/\/browser.360.cn\/",
+        "logo": "https:\/\/browser.360.cn\/favicon.ico",
+        "catelog": "浏览器",
+        "desc": "360安全浏览器(360SE)，安全、放心的浏览器，网购首选！360安全浏览器采用先进的恶意网址拦截技术，可自动拦截挂马、欺诈、网银仿冒等恶意网址。360安全浏览器强大、好用、设计人性化、安全快速！安全上网不中招，就用360安全浏览器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 384,
+        "name": "Firefox 火狐浏览器 - 全新、安全、快速 | 官方最新下载",
+        "url": "https:\/\/www.firefox.com.cn\/",
+        "logo": "https:\/\/www.firefox.com.cn\/media\/img\/favicons\/firefox\/browser\/apple-touch-icon.79c2abeb4e35.png",
+        "catelog": "浏览器",
+        "desc": "下载由致力于互联网健康与隐私保护的非营利组织 Mozilla 全力开发的浏览器 — Firefox。Windows、Mac、Linux、Android、与 iOS 版皆可免费下载。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 385,
+        "name": "Microsoft Edge",
+        "url": "https:\/\/www.microsoft.com\/zh-cn\/edge\/?form=MA13FJ",
+        "logo": "https:\/\/edgestatic.azureedge.net\/welcome\/static\/favicon.png",
+        "catelog": "浏览器",
+        "desc": "Microsoft Edge 是 AI 驱动的浏览器。更智能的浏览方式。详细了解可帮助您实现更多目标的内置 Edge 特性和功能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 386,
+        "name": "搜狗高速浏览器-带您开启迅捷之旅",
+        "url": "https:\/\/sogou.browser.qq.com\/",
+        "logo": "https:\/\/sogou.browser.qq.com\/favicon.ico",
+        "catelog": "浏览器",
+        "desc": "高速上网，就用搜狗高速浏览器！搜狗高速浏览器独创预取引擎技术，引领新的上网速度革命，给您带来秒开网页的超快体验。简洁时尚的界面，为您献上一场美妙的视觉盛宴。9级加速体系、上万套主题皮肤、数千款实用工具、跨平台功能为您打造高速，个性化，功能强劲的双核浏览器。在安全方面，搜狗携手腾讯电脑管家，时刻为您上网保驾护航。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 387,
+        "name": "Opera Web Browser | Faster, Safer, Smarter | Opera",
+        "url": "https:\/\/www.opera.com\/",
+        "logo": "https:\/\/cdn-production-opera-website.operacdn.com\/staticfiles\/assets\/images\/favicon\/favicon.90b13d0c7b36.ico",
+        "catelog": "浏览器",
+        "desc": "Faster, safer and smarter than default browsers. Fully-featured for privacy, security, and so much more. Get the faster, better Opera browser for free.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 389,
+        "name": "欢迎访问网易开源镜像站",
+        "url": "https:\/\/mirrors.163.com\/",
+        "logo": "https:\/\/mirrors.163.com\/.media\/favicon.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "欢迎访问网易开源镜像站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 390,
+        "name": "阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区",
+        "url": "https:\/\/developer.aliyun.com\/mirror\/",
+        "logo": "https:\/\/img.alicdn.com\/tfs\/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "阿里巴巴开源镜像站，免费提供Linux镜像下载服务，拥有Ubuntu、CentOS、Deepin、MongoDB、Apache、Maven、Composer等多种开源软件镜像源，此外还提供域名解析DNS、网络授时NTP等服务，致力于为互联网用户提供全面，高效和稳定的基础服务。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 391,
+        "name": "搜狐",
+        "url": "http:\/\/mirrors.sohu.com\/",
+        "logo": "http:\/\/mirrors.sohu.com\/favicon.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "搜狐开源镜像站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 392,
+        "name": "腾讯软件源",
+        "url": "https:\/\/mirrors.cloud.tencent.com\/",
+        "logo": "https:\/\/mirrors.cloud.tencent.com\/favicon.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "腾讯软件源",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 393,
+        "name": "清华大学开源软件镜像站 | Tsinghua Open Source Mirror",
+        "url": "https:\/\/mirrors.tuna.tsinghua.edu.cn\/",
+        "logo": "https:\/\/mirrors.tuna.tsinghua.edu.cn\/static\/img\/favicon.png",
+        "catelog": "开源软件镜像站",
+        "desc": "清华大学开源软件镜像站，致力于为国内和校内用户提供高质量的开源软件镜像、Linux 镜像源服务，帮助用户更方便地获取开源软件。本镜像站由清华大学 TUNA 协会负责运行维护。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 394,
+        "name": "华为开源镜像站_软件开发服务_华为云",
+        "url": "https:\/\/mirrors.huaweicloud.com\/",
+        "logo": "https:\/\/devcloud-res.hc-cdn.com\/MirrorPortal-CDN\/2025.4.0\/hws\/favicon.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "华为云DevCloud团队提供的全类型镜像站服务，提供主流开发语言组件、操作系统、常用工具和库等镜像，极速下载，全站CDN，官方合作。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 395,
+        "name": "USTC Open Source Software Mirror",
+        "url": "https:\/\/mirrors.ustc.edu.cn\/",
+        "logo": "https:\/\/mirrors.ustc.edu.cn\/static\/img\/favicon.png",
+        "catelog": "开源软件镜像站",
+        "desc": "USTC Open Source Software Mirror",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 396,
+        "name": "北京外国语大学开源软件镜像站 | BFSU Open Source Mirror",
+        "url": "https:\/\/mirrors.bfsu.edu.cn\/",
+        "logo": "https:\/\/mirrors.bfsu.edu.cn\/static\/img\/favicon.png",
+        "catelog": "开源软件镜像站",
+        "desc": "北京外国语大学开源软件镜像站，致力于为国内和校内用户提供高质量的开源软件镜像、Linux 镜像源服务，帮助用户更方便地获取开源软件。本镜像站由清华大学 TUNA 协会负责运行维护。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 397,
+        "name": "开源社开源镜像站点",
+        "url": "https:\/\/mirror.azure.cn\/",
+        "logo": "https:\/\/mirror.azure.cn\/favicon.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "开源社开源镜像站点",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 398,
+        "name": "Capital Online Mirror Site",
+        "url": "https:\/\/mirrors.yun-idc.com\/",
+        "logo": "https:\/\/mirrors.yun-idc.com\/favicon.ico",
+        "catelog": "开源软件镜像站",
+        "desc": "Capital Online Mirror Site",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 399,
+        "name": "校园网联合镜像站",
+        "url": "https:\/\/mirrors.cernet.edu.cn\/",
+        "logo": "https:\/\/mirrors.cernet.edu.cn\/mirrorz.785245b4.svg",
+        "catelog": "开源软件镜像站",
+        "desc": "校园网联合镜像站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 400,
+        "name": "GIthub",
+        "url": "https:\/\/github.com\/",
+        "logo": "https:\/\/github.githubassets.com\/favicons\/favicon.svg",
+        "catelog": "代码托管",
+        "desc": "Join the world most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 401,
+        "name": "Gitee - 基于 Git 的代码托管和研发协作平台",
+        "url": "https:\/\/gitee.com\/",
+        "logo": "https:\/\/gitee.com\/favicon.ico",
+        "catelog": "代码托管",
+        "desc": "面向企业提供一站式研发管理解决方案，包括代码管理、项目管理、文档协作、测试管理、CICD、效能度量等多个模块，支持SaaS、私有化等多种部署方式，帮助企业有序规划和管理研发过程，提升研发效率和质量。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 402,
+        "name": "Bitbucket | Git solution for teams using Jira",
+        "url": "https:\/\/bitbucket.org\/",
+        "logo": "https:\/\/wac-cdn.atlassian.com\/assets\/img\/favicons\/bitbucket\/safari-pinned-tab.svg",
+        "catelog": "代码托管",
+        "desc": "Bitbucket Cloud is a Git-based code and CI\/CD tool optimized for teams using Jira.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 403,
+        "name": "DevOps_DevOps 解决方案_一站式 DevOps_开发者工具 | 腾讯云 CODING DevOps",
+        "url": "https:\/\/coding.net\/",
+        "logo": "https:\/\/help-assets.codehub.cn\/enterprise\/guanwang\/favicon.ico",
+        "catelog": "代码托管",
+        "desc": "CODING DevOps 一站式研发管理平台，学习腾讯云团队如何采用 DevOps 文化，了解 DevOps 的做法和 DevOps 好处，使研发团队在云端高效协同，实践敏捷开发与 DevOps，提升软件交付质量与速度。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 404,
+        "name": "云效代码管理 Codeup_代码托管_企业级代码管理平台-阿里云",
+        "url": "https:\/\/www.aliyun.com\/product\/yunxiao\/codeup",
+        "logo": "https:\/\/img.alicdn.com\/tfs\/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+        "catelog": "代码托管",
+        "desc": "云效代码管理 Codeup，10万企业都在用的代码管理平台，提供代码托管、代码评审、代码扫描、质量检测、持续集成等功能，全方位保护企业代码资产，帮助企业实现安全、稳定、高效的研发管理。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 405,
+        "name": "代码托管 CodeArts Repo_代码管理_华为云",
+        "url": "https:\/\/www.huaweicloud.com\/intl\/zh-cn\/product\/codehub.html",
+        "logo": "https:\/\/res-static.hc-cdn.cn\/cloudbu-site\/intl\/en-us\/seo\/og.jpeg",
+        "catelog": "代码托管",
+        "desc": "CodeArts Repo（原CodeHub）是华为全栈自研的代码托管服务，基于Git提供分布式代码管理和协同开发能力，包括成员管理、权限控制、代码托管、代码检查、代码审核、代码追溯、持续集成等功能，助力不同规模企业的研发质量和效率提升",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 406,
+        "name": "项目 · 探索 ·  GitCode",
+        "url": "https:\/\/gitcode.net\/",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/GitCode.png",
+        "catelog": "代码托管",
+        "desc": "GitCode——开源代码托管平台，独立第三方开源社区，Git\/Github\/Gitlab",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 407,
+        "name": "资源网盘-密码：3fab",
+        "url": "https:\/\/lxldwp.lanzouv.com\/b0r9qew1a",
+        "logo": "https:\/\/assets.woozooo.com\/assets\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "站长蓝秦云网盘资源 - 持续更新",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 408,
+        "name": "React 官方中文文档",
+        "url": "https:\/\/zh-hans.react.dev\/",
+        "logo": "https:\/\/zh-hans.react.dev\/safari-pinned-tab.svg",
+        "catelog": "框架 \/ 库",
+        "desc": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 409,
+        "name": "Vue.js - 渐进式 JavaScript 框架 | Vue.js",
+        "url": "https:\/\/cn.vuejs.org\/",
+        "logo": "https:\/\/vuejs.org\/logo.svg",
+        "catelog": "框架 \/ 库",
+        "desc": "Vue.js - 渐进式的 JavaScript 框架",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 410,
+        "name": "Home • Angular",
+        "url": "https:\/\/angular.cn\/",
+        "logo": "https:\/\/angular.cn\/assets\/icons\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "The web development framework for building modern apps.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 411,
+        "name": "Svelte • Web development for the rest of us",
+        "url": "https:\/\/svelte.dev\/",
+        "logo": "https:\/\/svelte.dev\/favicon.png",
+        "catelog": "框架 \/ 库",
+        "desc": "Web development for the rest of us",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 412,
+        "name": "Alpine.js 中文文档 | Alpine.js 中文网",
+        "url": "https:\/\/www.alpinejs.cn\/",
+        "logo": "https:\/\/www.alpinejs.cn\/img\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Alpine.js 通过很低的成本提供了与 Vue 或 React 这类大型框架相近的响应式和声明式特性。Alpine.js 的语法几乎完全借用自 Vue。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 413,
+        "name": "Preact",
+        "url": "https:\/\/preactjs.com\/",
+        "logo": "https:\/\/preactjs.com\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Fast 3kB alternative to React with the same modern API.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 414,
+        "name": "Preact",
+        "url": "https:\/\/preactjs.com\/",
+        "logo": "https:\/\/preactjs.com\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Fast 3kB alternative to React with the same modern API.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 415,
+        "name": "Stimulus: A modest JavaScript framework for the HTML you already have.",
+        "url": "https:\/\/stimulus.hotwired.dev\/",
+        "logo": "https:\/\/stimulus.hotwired.dev\/assets\/favicon-196x196.png",
+        "catelog": "框架 \/ 库",
+        "desc": "Stimulus is a JavaScript framework with modest ambitions. It doesn’t seek to take over your entire front-end—in fact, it’s not concerned with rendering HTML at all. Instead, it’s designed to augment your HTML with just enough behavior to make it shine.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 416,
+        "name": "Ember.js - A framework for ambitious web developers",
+        "url": "https:\/\/emberjs.com\/",
+        "logo": "https:\/\/emberjs.com\/favicons\/icon.svg",
+        "catelog": "框架 \/ 库",
+        "desc": "Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly APIs help you get your job done—fast.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 417,
+        "name": "Bootstrap · The most popular HTML, CSS, and JS library in the world.",
+        "url": "https:\/\/getbootstrap.com\/",
+        "logo": "https:\/\/getbootstrap.com\/docs\/5.3\/assets\/img\/favicons\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 418,
+        "name": "Bootstrap中文网",
+        "url": "https:\/\/www.bootcss.com\/",
+        "logo": "https:\/\/www.bootcss.com\/assets\/favicons\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS\/HTML框架。目前，Bootstrap最新版本为5.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 419,
+        "name": "一个 Vue 3 UI 框架 | Element Plus",
+        "url": "https:\/\/element-plus.org\/zh-CN\/",
+        "logo": "https:\/\/element-plus.org\/images\/element-plus-logo-small.svg",
+        "catelog": "框架 \/ 库",
+        "desc": "A Vue 3 based component library for designers and developers",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 420,
+        "name": "Layui - 极简模块化前端 UI 组件库(官方文档)",
+        "url": "https:\/\/layui.dev\/",
+        "logo": "https:\/\/layui.dev\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "一套开源免费的 Web UI 组件库。采用自身极简的轻量级模块化规范，并遵循原生 HTML\/CSS\/JS 的开发模式，极易上手，开箱即用。非常适合网页界面的快速构建。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 421,
+        "name": "jQuery",
+        "url": "https:\/\/jquery.com\/",
+        "logo": "https:\/\/jquery.com\/wp-content\/themes\/jquery.com\/i\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "jQuery: The Write Less, Do More, JavaScript Library",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 422,
+        "name": "Backbone.js",
+        "url": "https:\/\/backbonejs.org\/",
+        "logo": "https:\/\/backbonejs.org\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Backbone.js",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 423,
+        "name": "Next.js - React 应用开发框架 | Next.js中文网",
+        "url": "https:\/\/www.nextjs.cn\/",
+        "logo": "https:\/\/www.nextjs.cn\/static\/favicon\/favicon.ico",
+        "catelog": "框架 \/ 库",
+        "desc": "Next.js 支持规模化的生产级 React 应用程序。大量世界领先的公司都在使用 Next.js 来构建静态和动态网站及 web 应用。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 424,
+        "name": "mdui - Material Design 3 开源前端组件库，基于 Web Components",
+        "url": "https:\/\/www.mdui.org\/zh-cn\/",
+        "logo": "https:\/\/cdn.w3cbus.com\/mdui\/icon.svg",
+        "catelog": "框架 \/ 库",
+        "desc": "mdui 是基于 Material Design 3 的开源前端组件库，使用 Web Components 技术，且支持动态配色、暗色模式，轻量高效。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 425,
+        "name": "瑞昱 Realtek",
+        "url": "https:\/\/www.realtek.com\/?lang=zh-CN",
+        "logo": "https:\/\/www.realtek.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "瑞昱 Realtek",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 426,
+        "name": "VirtualBox",
+        "url": "https:\/\/www.virtualbox.org\/",
+        "logo": "https:\/\/www.virtualbox.org\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Powerful open source virtualization",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 427,
+        "name": "OSCHINA - 中文开源技术交流社区",
+        "url": "https:\/\/www.oschina.net\/",
+        "logo": "https:\/\/static.oschina.net\/new-osc\/img\/favicon.ico",
+        "catelog": "技术站",
+        "desc": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 428,
+        "name": "博客园 - 开发者的网上家园",
+        "url": "https:\/\/www.cnblogs.com\/",
+        "logo": "https:\/\/assets.cnblogs.com\/favicon_v3_2.ico",
+        "catelog": "技术站",
+        "desc": "博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 429,
+        "name": "SegmentFault 思否",
+        "url": "https:\/\/segmentfault.com\/",
+        "logo": "https:\/\/static.segmentfault.com\/main_site_next\/prod\/favicon.ico",
+        "catelog": "技术站",
+        "desc": "SegmentFault 思否是中国专业的开发者技术社区。我们以技术问答、技术博客、技术课程、技术资讯为核心的产品形态，为开发者提供纯粹、高质的技术交流平台。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 430,
+        "name": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+        "url": "https:\/\/www.runoob.com\/",
+        "logo": "https:\/\/static.jyshare.com\/images\/favicon.ico",
+        "catelog": "技术站",
+        "desc": "菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 431,
+        "name": "技术导航网 - 学习技术从这里开始！",
+        "url": "https:\/\/www.jishu5.com\/",
+        "logo": "https:\/\/www.jishu5.com\/favicon.ico",
+        "catelog": "技术站",
+        "desc": "技术导航是专注于网络技术相关行业网址导航，提供最新前沿it技术资源分享相关行业网站网址，一站式网络技术学习起点站，用心打造最实用的技术网站导航!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 432,
+        "name": "主页 | 技术加油站",
+        "url": "https:\/\/zh-shan.github.io\/",
+        "logo": "https:\/\/zh-shan.github.io\/images\/favicon.svg",
+        "catelog": "技术站",
+        "desc": "多年来一直奋斗在一线开发，此网站用于记录、总结和分享",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 433,
+        "name": "TeHub - 专业的技术知识社区 | T站",
+        "url": "https:\/\/tehub.com\/",
+        "logo": "https:\/\/tehub.com\/favicon.ico",
+        "catelog": "技术站",
+        "desc": "Tech Exchange Hub. TeHub 是一个优质的中文创作平台，包含科学、技术与工程等专业性知识内容，我们鼓励创作分享有深度、有思想的、纯粹的创作内容。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 434,
+        "name": "中国高等教育学生信息网（学信网）",
+        "url": "https:\/\/www.chsi.com.cn\/",
+        "logo": "https:\/\/www.chsi.com.cn\/favicon.ico",
+        "catelog": "政府、事业网站",
+        "desc": "教育部学历查询网站、教育部高校招生阳光工程指定网站、全国硕士研究生招生报名和调剂指定网站。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 435,
+        "name": "中华人民共和国教育部政府门户网站",
+        "url": "http:\/\/www.moe.gov.cn\/",
+        "logo": "http:\/\/www.moe.gov.cn\/.\/favorite.ico",
+        "catelog": "政府、事业网站",
+        "desc": "教育部政府门户网站由教育部办公厅主办，是教育部机关实施信息公开、新闻宣传、在线互动的线上窗口，提供标准版、手机版、客户端等访问形式。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 436,
+        "name": "中华人民共和国工业和信息化部",
+        "url": "https:\/\/wap.miit.gov.cn\/",
+        "logo": "https:\/\/wap.miit.gov.cn\/favicon.ico",
+        "catelog": "政府、事业网站",
+        "desc": "中华人民共和国工业和信息化部门户网站首页",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 437,
+        "name": "中国政府网_中央人民政府门户网站",
+        "url": "https:\/\/www.gov.cn\/",
+        "logo": "https:\/\/www.gov.cn\/.\/images\/trs_favicon.ico",
+        "catelog": "政府、事业网站",
+        "desc": "中国政府网_中央人民政府门户网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 438,
+        "name": "全国党政机关事业单位互联网网站标识管理服务平台",
+        "url": "https:\/\/biaozhi.conac.cn\/",
+        "logo": "https:\/\/biaozhi.conac.cn\/favicon.ico",
+        "catelog": "政府、事业网站",
+        "desc": "标识管理,党政机关,事业单位,开办审核,网站复核,编办,机构编制委员会办公室",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 439,
+        "name": "中国教育考试网",
+        "url": "https:\/\/www.neea.edu.cn\/",
+        "logo": "https:\/\/www.neea.edu.cn\/favicon.ico",
+        "catelog": "政府、事业网站",
+        "desc": "中国教育考试网",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 440,
+        "name": "中华人民共和国文化和旅游部",
+        "url": "https:\/\/www.mct.gov.cn\/",
+        "logo": "https:\/\/www.mct.gov.cn\/favicon.ico",
+        "catelog": "政府、事业网站",
+        "desc": "中华人民共和国文化和旅游部",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 441,
+        "name": "字节跳动静态资源公共库",
+        "url": "https:\/\/cdn.bytedance.com\/",
+        "logo": "https:\/\/cdn.bytedance.com\/src\/res\/favicon.png",
+        "catelog": "静态资源公共库",
+        "desc": "字节跳动静态资源库支持多协议、资源动态拼接、快速检索及资源的动态更新,安全、稳定、实时。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 442,
+        "name": "cdnjs - The #1 free and open source CDN built to make life easier for developers",
+        "url": "https:\/\/cdnjs.com\/",
+        "logo": "https:\/\/cdnjs.com\/favicon.png",
+        "catelog": "静态资源公共库",
+        "desc": "cdnjs - The #1 free and open source CDN built to make life easier for developers",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 443,
+        "name": "BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务 铂特优选",
+        "url": "https:\/\/www.bootcdn.cn\/",
+        "logo": "https:\/\/www.bootcdn.cn\/assets\/ico\/favicon.ico?1742690081543",
+        "catelog": "静态资源公共库",
+        "desc": "Bootstrap 中文网开源项目免费 CDN 加速服务 - 我们致力于为 Bootstrap、jQuery、Angular、Vue.js 一样优秀的开源项目提供稳定、快速、免费的 CDN 加速服务。BootCDN 是运营时间最长、用户量最大、最早同时支持 HTTPS（SSL）和 HTTP\/2.0 协议的中立免费 CDN 。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 444,
+        "name": "阿里巴巴矢量图标库",
+        "url": "https:\/\/www.iconfont.cn\/",
+        "logo": "https:\/\/img.alicdn.com\/imgextra\/i4\/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg",
+        "catelog": "静态资源公共库",
+        "desc": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 445,
+        "name": "Staticfile CDN",
+        "url": "https:\/\/staticfile.org\/",
+        "logo": "https:\/\/www.staticfile.net\/images\/favicon.ico",
+        "catelog": "静态资源公共库",
+        "desc": "我们的目标是提供这样一个仓库，让它尽可能面收录尤秀的开源库，并免费为之提供CDN 加速服务，时之有更好的访速度和稳定的环境。同时，我们也提供开源库源接入的入口，让所有人都可以提交开源库，包括JavaScript、Css、图片和swt等静态文件。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 446,
+        "name": "Microsoft Ajax Content Delivery Network Assets | Microsoft Learn",
+        "url": "https:\/\/learn.microsoft.com\/en-us\/aspnet\/ajax\/cdn\/overview",
+        "logo": "https:\/\/1-hub.cn\/libs\/images\/icon\/Microsoft_23401.png",
+        "catelog": "静态资源公共库",
+        "desc": "The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 447,
+        "name": "Web缓存网 - 一个免费、快速、可靠的网站静态加速服务",
+        "url": "https:\/\/www.webcache.cn\/",
+        "logo": "https:\/\/www.webcache.cn\/favicon.ico",
+        "catelog": "静态资源公共库",
+        "desc": "使用国内主流CDN分发网络，缓存常用或指定Web项目的静态资源，来加速您的网站的访问。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 448,
+        "name": "零零壹云计算-上云零零壹-国内领先云计算服务商,香港云服务器,云虚拟主机,美国服务器,高防服务器",
+        "url": "https:\/\/www.001yun.net\/aff\/GTOUXUIO",
+        "logo": "https:\/\/www.001yun.net\/themes\/web\/new\/assets\/img\/favicon.ico",
+        "catelog": "服务器",
+        "desc": "零零壹云计算提供专业的云服务器,云虚拟主机,香港VPS,独立服务器,IDC租用托管,面向全球客户提供基于云计算的IT解决方案与客户服务,是国内专业的云服务器,云虚拟主机,香港VPS,独立服务器,IDC租用托管,零零一云计算",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 449,
+        "name": "硅云 - 领先的出海IaaS云计算基础设施服务提供商",
+        "url": "https:\/\/www.vpsor.cn\/",
+        "logo": "https:\/\/cdn.vpsor.cn\/favicon.ico",
+        "catelog": "服务器",
+        "desc": "硅云，全球领先的出海IaaS云计算基础设施服务提供商，为数百万中小微企业和开发者降低全球化上云成本，提供香港云服务器、云虚拟主机、域名注册、免备案海外服务器、外贸网站服务器、VPS空间租用等产品和服务。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 450,
+        "name": "阿里云-计算，为了无法计算的价值",
+        "url": "https:\/\/www.aliyun.com\/",
+        "logo": "https:\/\/img.alicdn.com\/tfs\/TB1ugg7M9zqK1RjSZPxXXc4tVXa-32-32.png_.webp",
+        "catelog": "服务器",
+        "desc": "阿里云——阿里巴巴集团旗下公司，是全球领先的云计算及人工智能科技公司之一。提供免费试用、云服务器、云数据库、云安全、云企业应用等云计算服务，以及大数据、人工智能服务、精准定制基于场景的行业解决方案。免费备案，7x24小时售后支持，助企业无忧上云。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 451,
+        "name": "腾讯云 产业智变·云启未来 - 腾讯",
+        "url": "https:\/\/cloud.tencent.com\/",
+        "logo": "https:\/\/cloudcache.tencent-cloud.com\/qcloud\/favicon.ico",
+        "catelog": "服务器",
+        "desc": "腾讯云(tencent cloud)为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 452,
+        "name": "雨云 - 新一代云服务提供商",
+        "url": "https:\/\/www.rainyun.com\/",
+        "logo": "https:\/\/www.rainyun.com\/img\/icons\/safari-pinned-tab.svg",
+        "catelog": "服务器",
+        "desc": "欢迎来到以用户体验为优先的雨云，我们提供稳定高速的国际虚拟主机，云服务器产品，强大的功能，高效率的客户支持，简洁易用的面板，值得您的信赖",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 453,
+        "name": "蓝队云 - 专业的云服务器、服务器租用托管、云安全服务、域名注册提供商",
+        "url": "https:\/\/www.landui.com\/",
+        "logo": "https:\/\/www.landui.com\/ico.png",
+        "catelog": "服务器",
+        "desc": "蓝队云-企业级云服务器提供商,为用户提供云服务器、云安全服务、服务器租用等全方位云服务与各行业解决方案,帮助企业及个人极速备案，轻松上云，安全无忧。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 454,
+        "name": "共建智能世界云底座-华为云",
+        "url": "https:\/\/www.huaweicloud.com\/",
+        "logo": "https:\/\/www.huaweicloud.com\/favicon.ico",
+        "catelog": "服务器",
+        "desc": "华为云提供稳定可靠、安全可信、可持续发展的云服务，致力于让云无处不在，让智能无所不及，共建智能世界云底座。助力企业降本增效，全球300万客户的共同选择。7x24小时专业服务支持，5天内无理由退订，免费快速备案。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 455,
+        "name": "京东云",
+        "url": "https:\/\/www.jdcloud.com\/",
+        "logo": "https:\/\/img1.jcloudcs.com\/portal\/favicon.ico",
+        "catelog": "服务器",
+        "desc": "京东云是京东科技集团旗下领先的云计算品牌，依托于京东科技集团在人工智能、大数据、云计算、物联网领域的前沿科技能力，提供包含公有云、专有云、混合云在内的多云、安全、可信赖的基础云服",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 456,
+        "name": "中兴智能路由器",
+        "url": "http:\/\/zte.home\/",
+        "logo": "",
+        "catelog": "路由器管理地址",
+        "desc": "中兴智能路由器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 457,
+        "name": "TP-LINK设备管理指引",
+        "url": "http:\/\/tplogin.cn\/",
+        "logo": "http:\/\/tplogin.cn\/favicon.ico",
+        "catelog": "路由器管理地址",
+        "desc": "TP-LINK设备管理指引",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 458,
+        "name": "水星",
+        "url": "https:\/\/melogin.cn\/",
+        "logo": "https:\/\/melogin.cn\/favicon.ico",
+        "catelog": "路由器管理地址",
+        "desc": "水星",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 459,
+        "name": "迅捷（Fast）",
+        "url": "https:\/\/falogin.cn\/",
+        "logo": "https:\/\/falogin.cn\/favicon.ico",
+        "catelog": "路由器管理地址",
+        "desc": "迅捷（Fast）",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 460,
+        "name": "腾达",
+        "url": "https:\/\/tendawifi.com\/",
+        "logo": "",
+        "catelog": "路由器管理地址",
+        "desc": "腾达",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 461,
+        "name": "小米",
+        "url": "https:\/\/miwifi.com\/",
+        "logo": "",
+        "catelog": "路由器管理地址",
+        "desc": "小米",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 462,
+        "name": "华硕",
+        "url": "http:\/\/router.asus.com\/",
+        "logo": "",
+        "catelog": "路由器管理地址",
+        "desc": "华硕",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 463,
+        "name": "192.168.0.1",
+        "url": "http:\/\/192.168.0.1\/",
+        "logo": "",
+        "catelog": "路由器管理地址",
+        "desc": "192.168.0.1",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 464,
+        "name": "192.168.1.1",
+        "url": "http:\/\/192.168.1.1\/",
+        "logo": "",
+        "catelog": "路由器管理地址",
+        "desc": "192.168.1.1",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 465,
+        "name": "SMS-Activate是在线接受短信的虚拟号码服务 ",
+        "url": "https:\/\/sms-activate.world\/cn",
+        "logo": "https:\/\/sms-activate.world\/favicon.ico",
+        "catelog": "接码平台",
+        "desc": "使用SMS-Activate的虚拟号码来在线接受短信。可以在600个多服务注册的一次性号码。短信即刻送到给你，低价",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 466,
+        "name": "Luban Sms - 鲁班短信接码平台 - 短信群发平台",
+        "url": "https:\/\/lubansms.com\/",
+        "logo": "https:\/\/lubansms.com\/img\/apple-touch-icon.png",
+        "catelog": "接码平台",
+        "desc": "Luban Sms 短信接码平台提供购买一个虚拟号码来接收在线短信、短信群发。使用虚拟号码可以大量注册Telegram, WhatsApp, Amazon, Facebook, Twitter等账户。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 467,
+        "name": "短信接收_免费短信接收_在线短信接收_临时手机号码",
+        "url": "https:\/\/www.freereceivesms.com\/",
+        "logo": "https:\/\/www.freereceivesms.com\/images\/logo.png",
+        "catelog": "接码平台",
+        "desc": "短信接收(freereceivesms.com)可以在线接收短信，接收短信验证码，显示迅速，比国外类似短信验证码接收更快捷。短信接收(freereceivesms.com)是免费的在线接收手机短信的平台，接短信、接验证码就来短信接收(freereceivesms.com)。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 468,
+        "name": "临时电话号码 - 免费获取一次性电话号码 | 在线接收短信",
+        "url": "https:\/\/zh.receive-sms.cc\/",
+        "logo": "https:\/\/assets.receive-sms.cc\/images\/favicon.ico",
+        "catelog": "接码平台",
+        "desc": "立即体验免费在线接收短信服务，获取临时电话号码进行短信验证。保护您的隐私，适用于各种验证需求。简单、快速、安全。无需注册，就可以免费获取美国，加拿大，英国，法国，俄罗斯，乌克兰等电话号码！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 469,
+        "name": "短信在线SMSOnline - 完全免费的虚拟电话号码平台",
+        "url": "https:\/\/www.smsonline.cloud\/zh",
+        "logo": "https:\/\/www.smsonline.cloud\/favicon.ico",
+        "catelog": "接码平台",
+        "desc": "使用虚拟电话号码绕过OTP SMS验证。完全免费且无需注册！中国、中国台湾、香港、新加坡、日本、韩国、俄罗斯、美国的电话号码始终在线。支持哔哩哔哩、微博、米哈游、库洛游戏、百度账号、快手、网易等300+服务。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 470,
+        "name": "超级云短信接码平台 | 免费的在线验证码接收平台 | Receive SMS",
+        "url": "https:\/\/www.supercloudsms.com\/zh\/",
+        "logo": "https:\/\/www.supercloudsms.com\/static\/img\/favicon.ico",
+        "catelog": "接码平台",
+        "desc": "本平台可以在线接收短信,接收短信验证码,chatgpt注册,openai验证码接收,+86接码,+86 接码平台,比国外类似短信验证码接收更快捷。超级云短信-真正免费的在线云短信接码平台，+86接码平台，中国接码平台，美国接码平台，台湾接码平台，国外接码平台，支持chatgpt注册，openai验证码接收，支持中国、欧美、台湾等128个国家手机号 | Receive SMS。在线短信接码平台,免费验证码接收平台,虚拟手机号接收短信app,哪个短信接码平台比较好,代收手机短信验证码,云短信，云短信验证码，云短信 中国, 云短信接收，云短信美国，云短信接码，接码平台，接码平台2021，云短信2021，接码软件，接码平台推荐，接码号，接码短信平台，接码邮箱，云短信平台，云短信发送，云短信香港，云短信中国号码，Cloud SMS,SMS,Online message,短信验证接收，在线短信接收,sms_receive,短信接收,超级云短信,短信验证码接收,接码,接码平台,在线接码，虚拟手机号码 接收短信,国外短信接收平台,手机短信验证码,手机验证码平台,接码平台,短信验证码,验证码平台,云验证码平台,短信验证码是多少,手机短信验证码接收系统,验证码短信平台,虚拟手机号验证码平台,手机收不到验证码,手机验证码接收软件,免费的临时手机号软件,手机获取验证码收费吗,虚拟手机验证码生成器,免费的临时手机号软件,网站验证码短信平台,接收手机验证码平台,发短信最便宜,手机收验证码服务,网站注册手机验证码，接码，接码平台，在线接码 ",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 471,
+        "name": "Online SMS verification service | Receive SMS online",
+        "url": "https:\/\/5sim.net\/",
+        "logo": "https:\/\/5sim.net\/favicon.ico",
+        "catelog": "接码平台",
+        "desc": "Buy virtual number for SMS verification from 0.014$. Receive SMS online and bypass OTP in Amazon, Discord, Naver, Instagram, WhatsApp, Google!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 472,
+        "name": "IOIOX 文档中心",
+        "url": "https:\/\/docs.ioiox.com\/",
+        "logo": "https:\/\/docs.ioiox.com\/favicon.ico",
+        "catelog": "文档",
+        "desc": "收集、整理、记录各种技术文档，方便查阅。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 473,
+        "name": "MDN Web Docs",
+        "url": "https:\/\/developer.mozilla.org\/zh-CN\/",
+        "logo": "https:\/\/developer.mozilla.org\/favicon-48x48.bc390275e955dacb2e65.png",
+        "catelog": "文档",
+        "desc": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 474,
+        "name": "Java SE 文档 — API 和文档 | Oracle 中国",
+        "url": "https:\/\/www.oracle.com\/cn\/java\/technologies\/java-se-api-doc.html",
+        "logo": "https:\/\/www.oracle.com\/asset\/web\/favicons\/favicon-180.png",
+        "catelog": "文档",
+        "desc": "Java SE 文档概览",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 475,
+        "name": "W3Cschool词典库",
+        "url": "https:\/\/www.w3cschool.cn\/dict\/",
+        "logo": "https:\/\/www.w3cschool.cn\/favicon.ico",
+        "catelog": "文档",
+        "desc": "W3Cschool词典大全，汇集海量技术词典、编程词典等知识帮助开发者更快更精准获取需要的内容",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 476,
+        "name": "Overview (Java SE 21 & JDK 21)",
+        "url": "https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/index.html",
+        "logo": "https:\/\/docs.oracle.com\/favicon.ico",
+        "catelog": "文档",
+        "desc": "module index",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 477,
+        "name": "API Reference Document",
+        "url": "https:\/\/www.apiref.com\/",
+        "logo": "https:\/\/www.apiref.com\/common\/static\/img\/favicon.ico",
+        "catelog": "文档",
+        "desc": "API Reference Document",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 478,
+        "name": "在线API文档 ",
+        "url": "https:\/\/tool.oschina.net\/apidocs\/",
+        "logo": "https:\/\/tool.oschina.net\/img\/favicon.ico",
+        "catelog": "文档",
+        "desc": "OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 479,
+        "name": "Kafka 中文文档 - ApacheCN",
+        "url": "https:\/\/kafka1x.apachecn.org\/",
+        "logo": "https:\/\/kafka1x.apachecn.org\/.\/images\/apache_feather.gif",
+        "catelog": "文档",
+        "desc": "Apache Kafka: A Distributed Streaming Platform.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 480,
+        "name": "跨境导航-集合跨境电商卖家出海一切资源网站 - 234跨境导航",
+        "url": "https:\/\/www.234.cn\/",
+        "logo": "https:\/\/www.234.cn\/favicon.ico",
+        "catelog": "跨境电商",
+        "desc": "234跨境导航(234.cn)是一家综合跨境电商平台，我们的使命是让跨境卖家出海变得更加便捷，以卖家的需求为中心，提供实用的跨境资源对接、活动、资讯、选品、工具、电商平台、跨境支付、收款平台、物流及运营经验，集合跨境电商出海所需的一切资源门户网站。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 481,
+        "name": "跨境知道卖家导航-集合跨境卖家出海所需的一切资源门户网站_跨境知道",
+        "url": "https:\/\/tools.ikjzd.com\/",
+        "logo": "https:\/\/tools.ikjzd.com\/Images\/favicon.ico",
+        "catelog": "跨境电商",
+        "desc": "跨境知道服务于10w+跨境电商卖家，为2w+服务商赋能，帮助行业从业者构建跨境电商市场生态服务导航，为中国产品出海提供一站式生态服务。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 482,
+        "name": "出海一条龙 | 打造一站式出海资源",
+        "url": "https:\/\/chytl.top\/",
+        "logo": "https:\/\/chytl.top\/wp-content\/uploads\/2023\/06\/正方形logo.png",
+        "catelog": "跨境电商",
+        "desc": "出海，拥有出海一条龙就够了！出海一条龙跨境导航网提供电商出海以及海外社交媒体出海两大板块的一站式资源导航，通过网站，您可以轻松掌握跨境电商、海外社交媒体出海资源、物流方案、海外收款、货源获取、海外货盘信息、出海工具、网络工具以及其他相关资源。 ",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 483,
+        "name": "M123跨境工具导航 - 跨境电商品牌出海工具网址目录",
+        "url": "https:\/\/www.m123.com\/",
+        "logo": "https:\/\/www.m123.com\/favicon.ico?v=1.1",
+        "catelog": "跨境电商",
+        "desc": "M123跨境工具导航是一家专业的全球跨境导航网站，旨在为出海品牌、跨境电商从业者、独立站店主和电商运营人员提供全面、专业的网址导航和产品目录服务。我们提供亚马逊、eBay、wish、速卖通、独立站等跨境卖家常用网址目录和卖家导航，以及自主创新的跨境电商在线工具和AI工具，让用户轻松找到最佳产品并提高跨境电商业务工作效率。作为品牌出海的导航网站，我们致力于为跨境业务赋能。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 484,
+        "name": "出海365导航-品牌出海网址导航大全-雨果跨境",
+        "url": "https:\/\/www.cifnews.com\/links\/global365",
+        "logo": "https:\/\/img.cifnews.com\/dev\/20230327\/209046cf3b4944bd83f4b19e87becfa9.png",
+        "catelog": "跨境电商",
+        "desc": "出海365导航为跨境卖家汇聚品牌出海运营常用网址，包括品牌出海跨境电商平台入驻、金融服支付、物流、营销推广、软件工具、货源网站等一站式解决方案。出海365一站式汇聚品牌出海卖家运营必备导航网址。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 485,
+        "name": "跨境资源网-跨境资源_跨境电商服务平台_跨境电商出海_跨境电商运营境电商服务",
+        "url": "https:\/\/www.kjdaohang.cn\/",
+        "logo": "https:\/\/www.kjdaohang.cn\/favicon.ico",
+        "catelog": "跨境电商",
+        "desc": "跨境导航是一家致力于服务中国跨境电商从业者的综合平台，以让跨境电商出海更便捷为使命，始终围绕卖家需求，为卖家提供实时的跨境资讯，实用的跨境干货、工具、数据和服务，打造一站式跨境流量入口。！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 486,
+        "name": "出海网-企业跨境出海综合服务平台",
+        "url": "https:\/\/www.chwang.com\/",
+        "logo": "https:\/\/www.chwang.com\/favicon.ico",
+        "catelog": "跨境电商",
+        "desc": "出海网是领先的企业跨境出海综合服务平台，旗下涵盖CHWE全球跨境电商展、海潮品牌出海及海贝分销三大主营产品。其中CHWE作为中国跨境电商贸易第一展，展会规模最大，单一场次超10万平，累计链接2万多源头工厂。出海网还提供出海快讯、新手指南、出海报告、全球开店、海外本土服务及出海社群等六大内容级服务。出海网让中国企业出海更容易！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 487,
+        "name": "迅雷-构建全球最大的去中心化存储与传输网络",
+        "url": "https:\/\/www.xunlei.com\/",
+        "logo": "https:\/\/www.xunlei.com\/favicon-32x32.png",
+        "catelog": "工具、软件",
+        "desc": "迅雷是一家全球领先的去中心化服务商，以技术构建商业，以服务创造共识，累计用户超4亿。面向个人和企业推出迅雷下载、迅雷云盘、迅雷影音、迅雷直播、迅雷会员、云计算、区块链等产品。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 488,
+        "name": "易破解 - 给你所需要的内容",
+        "url": "https:\/\/www.ypojie.com\/",
+        "logo": "https:\/\/www.ypojie.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "亿破姐『易破解』网站专注无流氓绿色软件分享、游戏下载、电脑技术、经验教程为一体的站点、安全、纯净、放心、十年磨一剑，不忘初心只为给你最需要的内容。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 489,
+        "name": "ToDesk远程桌面软件-免费安全流畅的远程连接电脑手机",
+        "url": "https:\/\/www.todesk.com\/",
+        "logo": "https:\/\/www.todesk.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "ToDesk远程控制软件是一款稳定流畅的远程控制电脑手机连接软件,可远程桌面办公,远程协助运维.采用端对端加密,让每一次远程访问都安全可靠。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 490,
+        "name": "Snipaste 截图工具",
+        "url": "https:\/\/zh.snipaste.com\/download.html",
+        "logo": "https:\/\/zh.snipaste.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "Snipaste 截图工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 491,
+        "name": "ShareX 截图工具",
+        "url": "https:\/\/getsharex.com\/downloads",
+        "logo": "https:\/\/getsharex.com\/img\/ShareX_Card_Large.png",
+        "catelog": "工具、软件",
+        "desc": "ShareX 截图工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 492,
+        "name": "IrfanView 图片查看器",
+        "url": "https:\/\/www.irfanview.com\/",
+        "logo": "https:\/\/www.irfanview.com\/images\/favicon.png",
+        "catelog": "工具、软件",
+        "desc": "IrfanView 图片查看器",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 493,
+        "name": "ScreenToGif - 屏幕录制工具",
+        "url": "https:\/\/www.screentogif.com\/downloads",
+        "logo": "https:\/\/www.screentogif.com\/logos\/favicon-16x16.png",
+        "catelog": "工具、软件",
+        "desc": "ScreenToGif - 屏幕录制工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 494,
+        "name": "正版软件商城丨APSGO软购商城",
+        "url": "https:\/\/apsgo.com\/",
+        "logo": "https:\/\/i-cdn.apsgo.com\/assets\/icons\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "软购商城是一家专注正版软件销售的网上商城，立志为用户提供更便捷的购软平台及支付方式，并且提供更专业的技术服务。用户的肯定与满意，是我们不断奋斗追求的目标。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 495,
+        "name": "黑域基地 - 良心软件的栖息之地！",
+        "url": "https:\/\/www.hybase.com\/",
+        "logo": "https:\/\/www.hybase.com\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "黑域基地是一个只收录良心软件的栖息之地。提供最新纯净软件、优秀实用等精品软件，每个软件评测都极其用心，保证软件的安全与可用性！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 496,
+        "name": "正版中国",
+        "url": "https:\/\/www.getitfree.cn\/",
+        "logo": "https:\/\/www.getitfree.cn\/wp-content\/uploads\/favicon.ico",
+        "catelog": "工具、软件",
+        "desc": "正版中国（GetItFree）成立于2015年7月,以提供正版软件限时免费信息为途径,引导用户养成使用正版软件的习惯,以此促进国内版权氛围的改进。目前已经得到上百家软件开发者的支持！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 497,
+        "name": "HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载",
+        "url": "https:\/\/www.hippter.com\/",
+        "logo": "https:\/\/www.hippter.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "为PPTER推荐PPT设计相关网站，为你的PPT设计提供创意灵感、配色方案、免费图片、优质图标、工具插件等",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 498,
+        "name": "PPT超级市场官网-PPT模板免费下载、最新PPT成品搜索",
+        "url": "https:\/\/www.pptsupermarket.com\/",
+        "logo": "https:\/\/www.pptsupermarket.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "免费下载PPT模板与PPT作品，提供免费的PPT代做服务，提供一站式PPT(模板、定制、工具、教程)服务，有了它，一切制作PPT的烦恼都将成为过去！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 499,
+        "name": "AiPPT - 全智能 AI 一键生成 PPT",
+        "url": "https:\/\/www.aippt.cn\/",
+        "logo": "https:\/\/www.aippt.cn\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "AiPPT结合最新AI技术，为用户提供一键生成高质量PPT的解决方案。无论是职场展示、教育课件还是销售报告，AiPPT均能快速生成符合需求的专业PPT，简化设计流程，提升工作效率。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 500,
+        "name": "免版权素材库-幻灯片模板-吾道",
+        "url": "https:\/\/www.woodo.cn\/",
+        "logo": "https:\/\/www.woodo.cn\/public\/logo-48.png",
+        "catelog": "PPT（幻灯片）",
+        "desc": "「吾道幻灯片」是一款全新的office生产力工具，支持演示文稿、PPT模板、协同办公，可以帮助用户轻松创建具有视觉吸引力的幻灯片，作为一款办公软件，吾道具备了简洁，易用，功能强大的特点，通过云端技术实现在线编辑设计，让分享过程更加方便、高效。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 501,
+        "name": "51PPT模板网 - 幻灯片演示模板及素材免费下载",
+        "url": "https:\/\/www.51pptmoban.com\/",
+        "logo": "https:\/\/www.51pptmoban.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "51PPT模板网提供幻灯片演示模板及素材免费下载，包括原创PPT模板，PPTer分享的优质模板，PPT背景图片，PPT图表，PPT素材，PPT特效动画等各类PPT模板免费下载，以及部分免费PPT教程。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 502,
+        "name": "PPT模板_PPT模版免费下载_免费PPT模板下载 -【第一PPT】",
+        "url": "https:\/\/www.1ppt.com\/",
+        "logo": "https:\/\/www.1ppt.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "第一PPT模板网提供各类PPT模板免费下载，PPT背景图，PPT素材，PPT背景，免费PPT模板下载，PPT图表，精美PPT下载，PPT课件下载，PPT背景图片免费下载；",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 503,
+        "name": "PPT之家 - 免费PPT模板下载和免费PPT素材下载",
+        "url": "https:\/\/www.52ppt.com\/",
+        "logo": "https:\/\/www.52ppt.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "PPT之家提供各类PPT模板下载:PPT,PPT素材,PPT下载,答辩ppt模板,动态ppt模板,个人简历PPT模板,中国风ppt模板,毕业论文ppt模板,商务ppt模板,动画ppt模板,商业ppt模板,创意设计ppt模板,开题报告ppt模板,企业ppt模板等。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 504,
+        "name": "PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】",
+        "url": "https:\/\/www.ypppt.com\/",
+        "logo": "https:\/\/www.ypppt.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "优品PPT模板网是一家专注于分享高质量的免费PPT模板下载网站，包括图表、背景图片、素材、教程等各类PPT模板相关资源。致力于打造国内最大最权威的PPT下载一站式服务平台。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 505,
+        "name": "PPTer吧-免费PPT模板下载-PPT爱好者之家",
+        "url": "https:\/\/ppter8.com\/",
+        "logo": "https:\/\/ppter8.com\/favicon.ico",
+        "catelog": "PPT（幻灯片）",
+        "desc": "“PPTer吧”提供免费PPT模板、PPT课件及国外PPT模版，相关PPT素材全部免费（PNG免抠图、PPT背景图片、PPT专用的背景音乐、3D模型、图标）这里的PPT模板免费下载，我们致力成为受PPTer喜爱的PPT模板网站。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 506,
+        "name": "优设导航官网 - 设计导航 - 国内专业设计师网站导航",
+        "url": "https:\/\/hao.uisdc.com\/",
+        "logo": "https:\/\/www.uisdc.com\/favicon.ico",
+        "catelog": "设计",
+        "desc": "设计导航2013年上线至今，是优设网旗下最专业好用的设计师导航网站！设计导航为设计师提供AI创作、UI设计、设计教程、素材下载、高清图库、App设计、网页设计等设计网站导航指引。设计导航每周更新，设计风向标就看优设网！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 507,
+        "name": "免费logo在线制作,logo设计,logo在线生成,字体logo设计,U钙网",
+        "url": "https:\/\/www.uugai.com\/",
+        "logo": "https:\/\/www.uugai.com\/favicon.ico",
+        "catelog": "设计",
+        "desc": "智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 508,
+        "name": "Seeseed-无穷尽设计可能",
+        "url": "https:\/\/www.seeseed.com\/",
+        "logo": "https:\/\/www.seeseed.com\/apple-webapp-icon.png",
+        "catelog": "设计",
+        "desc": "Seeseed-无穷尽设计可能，为设计师提供国内外最全的设计灵感、设计素材、设计工具、设计教程。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 509,
+        "name": "码力全开资源站 - 汇集产品、设计、独立开发者的高质量资源站",
+        "url": "https:\/\/design.maliquankai.com\/",
+        "logo": "https:\/\/maliquankai.oss-cn-shenzhen.aliyuncs.com\/favicon.ico",
+        "catelog": "设计",
+        "desc": "码力全开资源站是最有用的产品\/设计师\/独立开发者的资源库。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 510,
+        "name": "特殊符号大全 - 专注漂亮好看个性的网名昵称符号设计与生成器分享！",
+        "url": "https:\/\/www.tsfhdq.cn\/",
+        "logo": "https:\/\/www.tsfhdq.cn\/favicon.ico",
+        "catelog": "设计",
+        "desc": "(www.tsfhdq.cn)提供特殊符号,符号大全,网名符号,昵称符号,ღ᭄ꦿ࿐加字填字等等在线符号生成器工具，是您获取特殊符号的好帮手!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 511,
+        "name": "Wallpapers - Microsoft Design",
+        "url": "https:\/\/microsoft.design\/wallpapers\/",
+        "logo": "https:\/\/microsoft.design\/wp-content\/themes\/wp-base-theme\/dist\/assets\/images\/favicon-light.ico",
+        "catelog": "设计",
+        "desc": "Enjoy this small collection of Microsoft wallpapers we curated for you.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 512,
+        "name": "免费logo设计在线制作-公司logo在线设计一键生成器-万动力",
+        "url": "https:\/\/www.wandongli.com\/",
+        "logo": "https:\/\/static.wandongli.com\/static\/favicon.ico",
+        "catelog": "设计",
+        "desc": "万动力,为企业,公司,个人,店铺,品牌VI,网站提供商标自动在线logo生成,文字图标图片设计,标志艺术字体设计,字母头像制作,姓名字logo设计,创意loog制作,英文logo,无水印透明logo,可自己下载源文件.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 513,
+        "name": "万彩办公大师官网-免费的办公工具百宝箱OfficeBox,绿色无广告无捆绑",
+        "url": "https:\/\/www.wofficebox.com\/",
+        "logo": "http:\/\/www.wofficebox.com\/favicon.ico",
+        "catelog": "办公",
+        "desc": "万彩办公大师,绿色免费的办公小工具合集,包括PDF工具集;文档\/音视频\/图片转换工具集;OCR识别工具集;录屏工具集;图片处理工具集;文件处理工具集.绿色安全无广告无捆绑.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 514,
+        "name": "Free online file converter",
+        "url": "https:\/\/www.online-convert.com\/",
+        "logo": "https:\/\/www.online-convert.com\/assets\/favicon\/safari-pinned-tab.svg",
+        "catelog": "办公",
+        "desc": "Convert files like images, video, documents, audio and more to other formats with this free and fast online converter.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 515,
+        "name": "WPS学堂",
+        "url": "https:\/\/www.wps.cn\/learning\/",
+        "logo": "https:\/\/s1.vip.wpscdn.cn\/web-libs\/image\/favicon\/learning.png",
+        "catelog": "办公",
+        "desc": "WPS学堂是WPS官方技巧教程学习平台,包含WPS教程,Office教程,Word文字处理教程技巧,Excel表格函数功能图表, PPT演示幻灯片制作操作技巧, word转pdf, word\/ ppt排版, 页眉页脚, 目录, 打印, 数据透视, 段落设置, 表格图表, 学习wpsoffice软件, 就来wps自习室！",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 516,
+        "name": "微云文档",
+        "url": "https:\/\/doc.weiyun.com\/",
+        "logo": "https:\/\/img.weiyun.com\/vipstyle\/nr\/box\/img\/favicon.ico?max_age=31536000",
+        "catelog": "办公",
+        "desc": "微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间同步文件、推送照片和传输数据。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 517,
+        "name": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+        "url": "https:\/\/www.remove.bg\/zh",
+        "logo": "https:\/\/www.remove.bg\/favicon-32x32.png",
+        "catelog": "办公",
+        "desc": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 518,
+        "name": "AirPortal 空投快传",
+        "url": "https:\/\/www.airportal.cn\/",
+        "logo": "https:\/\/assets.retiehe.com\/ap-icon-192-3.png",
+        "catelog": "办公",
+        "desc": "AirPortal（空投快传）是一个可以跨设备传输文件的网站。只要您的设备联网，您就可以通过它在任意系统、任意设备间传输文件。无需登录或注册，只需打开空投快传、直接上传文件、记住所给的取件码或直接扫描二维码即可在另一台设备上下载文件。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 519,
+        "name": "Cool Backgrounds",
+        "url": "https:\/\/coolbackgrounds.io\/",
+        "logo": "https:\/\/coolbackgrounds.io\/apple-icon.png?1a5de122fb53a863",
+        "catelog": "办公",
+        "desc": "Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites, or as desktop and phone wallpapers.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 520,
+        "name": "PS教程网 - 专业的PS教程自学网 - 思缘教程网",
+        "url": "http:\/\/www.missyuan.net\/",
+        "logo": "http:\/\/www.missyuan.net\/favicon.ico",
+        "catelog": "办公",
+        "desc": "专业的Photoshop教程网,PS教程网,设计教程网和设计作品欣赏,素材栏目包含PS笔刷,滤镜,动作,形状,插件等PS素材,打造国内最优秀的免费PS素材和PS教程网站",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 521,
+        "name": "办公资源网_精品PPT模板下载网站_海量办公素材资源可供下载_动起办公",
+        "url": "https:\/\/www.bangongziyuan.com\/",
+        "logo": "https:\/\/www.bangongziyuan.com\/web\/foreground\/images\/favicon.ico",
+        "catelog": "办公",
+        "desc": "办公资源网是一家专注海量办公资源下载的网站,提供各种精美创意ppt模板、excel模板、word模板、音效资源及大量办公素材,包括个人简历word模板,工作总结ppt,教育培训课件等大量办公模板,来办公资源网,办公不求人。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 522,
+        "name": "办公人导航-实用的办公生活导航网站！",
+        "url": "https:\/\/www.bgrdh.com\/",
+        "logo": "https:\/\/www.bgrdh.com\/wp-content\/uploads\/2022\/11\/20221119185003612150.png",
+        "catelog": "办公",
+        "desc": "办公人导航是一个实用的办公生活导航网站,致力于分享优质的网站网址及软件资源等内容,帮助大家节省时间,提高办公生活效率!",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 523,
+        "name": "Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片",
+        "url": "https:\/\/bigjpg.com\/",
+        "logo": "https:\/\/bigjpg.com\/static\/css\/touch-icon-ipad-retina.png",
+        "catelog": "办公",
+        "desc": "Bigjpg - 使用人工智能深度卷积神经网络（CNN）智能无损免费放大图片，可放大4K级超高清分辨率（4000x4000）图片，最大32倍放大,效果秒杀PhotoZoom放大。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 524,
+        "name": "在线转换器 - 转换文件成为视频, 音乐, 图像, PDF - Office-Converter.com",
+        "url": "https:\/\/cn.office-converter.com\/",
+        "logo": "https:\/\/www.office-converter.com\/Online-Converter\/Online-Converter-192.png",
+        "catelog": "办公",
+        "desc": "免费在线转换器, 文件转换器 . 将PDF, 图像, 视频, 文档, 音频, 电子书及压缩等文件格式转换为其他格式。现支持超过20200多种不同格式转换。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 525,
+        "name": "PPT模板 - PPT模板免费下载 - 免费PPT模板下载 - 微软officePLUS",
+        "url": "https:\/\/www.officeplus.cn\/",
+        "logo": "https:\/\/www.officeplus.cn\/favicon.svg",
+        "catelog": "PPT（幻灯片）",
+        "desc": "微软officePLUS是微软官方在线ppt模板、插件网站，提供各类PPT模板、PPT模板免费下载、PPT素材、求职简历PPT、教学课件PPT、营销策划PPT、PPT模板页、PPT关系图、PPT图表",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 526,
+        "name": "FinalShell SSH工具",
+        "url": "https:\/\/www.hostbuf.com\/",
+        "logo": "https:\/\/www.hostbuf.com\/profileimages\/VokRaU.jpg",
+        "catelog": "工具、软件",
+        "desc": "\t FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,还是功能强大的开发,运维工具,充分满足开发,运维需求.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 527,
+        "name": "Trae - AI 原生 IDE",
+        "url": "https:\/\/www.trae.com.cn\/",
+        "logo": "https:\/\/lf-cdn.trae.com.cn\/obj\/trae-com-cn\/trae_website_prod_cn\/favicon.ico",
+        "catelog": "AI 工具",
+        "desc": "\t Trae AI IDE | 国内首款AI原生集成开发环境，深度集成Doubao-1.5-pro与DeepSeek模型，支持中文自然语言一键生成完整代码框架，实时预览前端效果并智能修复BUG。首创Builder模式实现需求到代码的自动化开发，兼容Windows\/macOS系统，官网下载即用。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 528,
+        "name": "Cursor - The AI Code Editor",
+        "url": "https:\/\/www.cursor.com\/cn\/downloads",
+        "logo": "https:\/\/www.cursor.com\/favicon-48x48.png",
+        "catelog": "AI 工具",
+        "desc": "\t Cursor - The AI Code Editor",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 529,
+        "name": "APKLinker",
+        "url": "https:\/\/www.apklinker.com\/",
+        "logo": "https:\/\/www.apklinker.com\/favicon-32x32.png",
+        "catelog": "工具、软件",
+        "desc": "Get APK of popular android apps. Either it is alpha, beta or final release, download now from APKLinker. Don't wait for staged roll-out.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 530,
+        "name": "三更灯火网-网络热门资源分享聚集地",
+        "url": "https:\/\/www.sgdhuo.com\/",
+        "logo": "https:\/\/www.sgdhuo.com\/wp-content\/uploads\/2019\/08\/favicon.ico",
+        "catelog": "资源导航",
+        "desc": "三更灯火网是一个网络热门资源分享聚集地,为网友分享超多的学习教程和资源,包括各种精品软件,视频教程,编程教程,设计资源,素材共享,学习网,源码分享,视频剪辑,音频剪辑等互联网热门资源。",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 531,
+        "name": "网站在线人数实时统计工具",
+        "url": "https:\/\/whos.amung.us\/",
+        "logo": "https:\/\/assets.amung.us\/img\/waudude-512.png",
+        "catelog": "工具、软件",
+        "desc": "whos.amung.us – 实时统计网站在线人数免费工具",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 532,
+        "name": "Font Awesome",
+        "url": "https:\/\/fontawesome.com\/",
+        "logo": "https:\/\/fontawesome.com\/images\/favicon\/icon.svg",
+        "catelog": "开发相关",
+        "desc": "The internet's icon library + toolkit. Used by millions of designers, devs, & content creators. Open-source. Always free. Always awesome.",
+        "sort": 0,
+        "hide": false
+    },
+    {
+        "id": 533,
+        "name": "pycharm",
+        "url": "https:\/\/www.jetbrains.com\/pycharm\/download\/other.html",
+        "logo": "https:\/\/www.jetbrains.com\/icon.svg?r=1234",
+        "catelog": "开发相关",
+        "desc": "Get past releases and previous versions of PyCharm.",
+        "sort": 0,
+        "hide": false
+    }
+]
