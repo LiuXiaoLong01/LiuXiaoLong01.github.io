@@ -394,7 +394,7 @@
         <div class="welcome-banner text-center animate-fadein">
             <p id="timeDateWeek"></p>
             <p id="uptime"></p>
-            <p id="hitokoto_text">:D 获取中...</p>
+            <p id="hitokototext">:D 获取中...</p>
         </div>
 
         <div class="row">
@@ -449,7 +449,7 @@
                         </div>
                         <div class="tab-pane fade" id="tools" role="tabpanel">
                             <div class="list-group">
-                                <a href="https://1-hub.cn/ip-address" target="_blank"
+                                <a href="queryIP.html" target="_blank"
                                     class="list-group-item list-group-item-action"><i class="fas fa-map-marker-alt"></i>
                                     IP地址查询工具</a>
                                 <a href="https://www.itdog.cn" target="_blank"
@@ -529,44 +529,52 @@
     <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.bundle.min.js"
         type="application/javascript"></script>
     <script>
-        // 获取一言数据的函数
+        // 使用XMLHttpRequest获取一言
         function fetchHitokoto() {
-            fetch('https://international.v1.hitokoto.cn/')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('网络响应不正常');
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', 'https://international.v1.hitokoto.cn/', true);
+            
+            xhr.onload = function() {
+                if (xhr.status >= 200 && xhr.status < 300) {
+                    try {
+                        var data = JSON.parse(xhr.responseText);
+                        
+                        // 构建显示文本
+                        var displayText = data.hitokoto;
+                        
+                        // 添加作者（如果存在）
+                        if (data.fromwho) {
+                            displayText += ' —— ' + data.fromwho;
+                        }
+                        
+                        // 添加出处
+                        if (data.from) {
+                            displayText += ' 【' + data.from + '】';
+                        }
+                        
+                        // 更新DOM
+                        document.getElementById('hitokototext').textContent = displayText;
+                    } catch (e) {
+                        console.error('解析JSON时出错:', e);
+                        document.getElementById('hitokototext').textContent = '数据解析失败，请稍后再试';
                     }
-                    return response.json();
-                })
-                .then(data => {
-                    // 格式化显示内容
-                    let displayText = '';
-                    if (data.hitokoto) {
-                        displayText += data.hitokoto;
-                    }
-
-                    if (data.from_who) {
-                        displayText += ' —— ' + data.from_who;
-                    } else {
-                        displayText += ' —— 匿名';
-                    }
-
-                    if (data.from) {
-                        displayText += ' 【' + data.from + '】';
-                    }
-
-                    // 更新DOM
-                    document.getElementById('hitokoto_text').textContent = displayText;
-                })
-                .catch(error => {
-                    console.error('获取一言时出错:', error);
-                    document.getElementById('hitokoto_text').textContent = '获取一言失败，请稍后再试';
-                });
+                } else {
+                    console.error('请求失败，状态码:', xhr.status);
+                    document.getElementById('hitokototext').textContent = '获取一言失败，请稍后再试';
+                }
+            };
+            
+            xhr.onerror = function() {
+                console.error('网络请求出错');
+                document.getElementById('hitokototext').textContent = '网络请求失败，请检查网络连接';
+            };
+            
+            xhr.send();
         }
-
+        
         // 初始加载
         fetchHitokoto();
-
+        
         // 设置定时器，每10秒更新一次
         setInterval(fetchHitokoto, 10000);
     </script>
