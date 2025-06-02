@@ -2,406 +2,426 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <link rel="dns-prefetch" href="https://github.githubassets.com">
-    <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
-    <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-    <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-    <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
-    <link rel="preconnect" href="https://avatars.githubusercontent.com">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OneHub's Blog</title>
+    
+    <!-- Bootstrap CSS -->
     <link href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+    
+    <!-- Bootstrap Icons -->
     <link href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-icons/1.8.1/font/bootstrap-icons.css" type="text/css" rel="stylesheet" />
+    
+    <!-- Highlight.js CSS -->
+    <link href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/highlight.js/11.4.0/styles/github-dark.min.css" type="text/css" rel="stylesheet" />
+    
     <style>
-        body {
-            padding-top: 56px;
-            background-color: #f8f9fa;
-        }
-        .header-bg {
-            background-color: #343a40;
-            color: white;
-            padding: 2rem 0;
-            margin-bottom: 2rem;
-        }
-        .card {
-            transition: transform 0.3s;
+        .blog-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
             height: 100%;
         }
-        .card:hover {
+        
+        .blog-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 20px rgba(0,0,0,0.1);
         }
-        .card-img-top {
+        
+        .blog-card img {
             height: 180px;
             object-fit: cover;
         }
-        .card-body {
-            display: flex;
-            flex-direction: column;
+        
+        .blog-content {
+            max-height: 70vh;
+            overflow-y: auto;
         }
-        .card-text {
-            flex-grow: 1;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
+        
+        .blog-content pre {
+            border-radius: 5px;
+            margin-bottom: 15px;
         }
-        .github-corner:hover .octo-arm {
-            animation: octocat-wave 560ms ease-in-out;
+        
+        .blog-content code {
+            font-family: Consolas, Monaco, 'Andale Mono', monospace;
         }
-        @keyframes octocat-wave {
-            0%, 100% { transform: rotate(0); }
-            20%, 60% { transform: rotate(-25deg); }
-            40%, 80% { transform: rotate(10deg); }
+        
+        .blog-content img {
+            max-width: 100%;
+            height: auto;
+            margin: 15px 0;
+            border-radius: 5px;
         }
+        
+        .search-container {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background-color: #f8f9fa;
+            padding: 15px 0;
+            margin-bottom: 20px;
+        }
+        
         .loading-spinner {
-            display: none;
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+        }
+        
+        .lazy-load {
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .lazy-loaded {
+            opacity: 1;
+        }
+        
+        .modal-header, .modal-footer {
+            border: none;
+        }
+        
+        .modal-content {
+            border-radius: 10px;
+            border: none;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .modal-body {
             padding: 20px;
         }
-        .lazy-load {
-            background-color: #f0f0f0;
-            min-height: 180px;
-        }
-        .search-container {
-            margin-bottom: 20px;
+        
+        .no-results {
+            text-align: center;
+            padding: 50px 0;
+            color: #6c757d;
         }
     </style>
 </head>
 <body>
-    <!-- GitHub Corner -->
-    <a href="https://github.com/liuxiaolong01/" class="github-corner position-absolute top-0 end-0" aria-label="View source on GitHub">
-        <svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
-            <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
-            <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
-            <path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path>
-        </svg>
-    </a>
-
-    <!-- Header -->
-    <header class="header-bg">
-        <div class="container text-center">
-            <h1>OneHub's Blog</h1>
-            <p class="lead">探索技术、分享知识、记录成长</p>
-        </div>
-    </header>
-
-    <!-- Main Content -->
-    <div class="container">
-        <!-- Search Bar -->
-        <div class="row search-container">
-            <div class="col-md-8 mx-auto">
-                <div class="input-group">
-                    <input type="text" id="searchInput" class="form-control" placeholder="搜索文章..." aria-label="Search">
-                    <button class="btn btn-outline-secondary" type="button" id="searchButton">
-                        <i class="bi bi-search"></i>
-                    </button>
-                </div>
+    <div class="container py-4">
+        <header class="pb-3 mb-4 border-bottom">
+            <div class="d-flex align-items-center text-dark text-decoration-none">
+                <i class="bi bi-journal-text fs-4 me-2"></i>
+                <span class="fs-4">OneHub's Blog</span>
+            </div>
+        </header>
+        
+        <div class="search-container">
+            <div class="input-group">
+                <span class="input-group-text"><i class="bi bi-search"></i></span>
+                <input type="text" id="searchInput" class="form-control" placeholder="搜索博客文章...">
+                <button class="btn btn-outline-secondary" type="button" id="clearSearch">清除</button>
             </div>
         </div>
-
-        <!-- Blog List -->
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4" id="blogContainer">
-            <!-- Blogs will be loaded here -->
-        </div>
-
-        <!-- Loading Spinner -->
-        <div class="loading-spinner" id="loadingSpinner">
+        
+        <div id="loadingSpinner" class="loading-spinner">
             <div class="spinner-border text-primary" role="status">
-                <span class="visually-hidden">Loading...</span>
+                <span class="visually-hidden">加载中...</span>
             </div>
-            <p class="mt-2">加载中...</p>
         </div>
+        
+        <div id="noResults" class="no-results d-none">
+            <i class="bi bi-emoji-frown fs-1"></i>
+            <p class="mt-3">没有找到匹配的博客文章</p>
+        </div>
+        
+        <div id="blogContainer" class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            <!-- 博客卡片将在这里动态加载 -->
+        </div>
+        
+        <footer class="pt-4 my-5 text-muted border-top">
+            <p>博客内容托管于 <a href="https://github.com/" target="_blank">GitHub</a></p>
+            <p>&copy; 2019 - 2025 liuxiaolong01.github.io | 基于Bootstrap构建</p>
+        </footer>
     </div>
-
-    <!-- Blog Modal -->
+    
+    <!-- 博客内容模态框 -->
     <div class="modal fade" id="blogModal" tabindex="-1" aria-labelledby="blogModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-dialog modal-xl">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="blogModalLabel"></h5>
+                    <h5 class="modal-title" id="blogModalLabel">博客标题</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body" id="blogModalContent">
-                    <!-- Blog content will be loaded here -->
+                <div class="modal-body">
+                    <div id="blogContent" class="blog-content">
+                        <!-- 博客内容将在这里动态加载 -->
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
-                    <a href="#" id="viewOnGithub" class="btn btn-primary" target="_blank">
-                        <i class="bi bi-github"></i> 在GitHub查看
-                    </a>
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- Footer -->
-    <footer class="bg-dark text-white py-4 mt-5">
-        <div class="container text-center">
-            <p>博客内容托管于 <a href="https://github.com/" target="_blank" class="text-light">GitHub</a></p>
-            <p>&copy; 2019 - 2025 liuxiaolong01.github.io | 基于Bootstrap构建</p>
-        </div>
-    </footer>
-
-    <!-- Scripts -->
-    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js"></script>
+    
+    <!-- Bootstrap JS Bundle with Popper -->
     <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.bundle.min.js" type="application/javascript"></script>
+    
+    <!-- jQuery -->
+    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js"></script>
+    
+    <!-- Marked.js -->
     <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/marked/4.0.2/marked.js" type="application/javascript"></script>
-
+    
+    <!-- Highlight.js -->
+    <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/highlight.js/11.4.0/highlight.min.js" type="application/javascript"></script>
+    
     <script>
-        $(document).ready(function() {
-            const blogContainer = $('#blogContainer');
-            const loadingSpinner = $('#loadingSpinner');
-            const blogModal = new bootstrap.Modal(document.getElementById('blogModal'));
-            const blogModalLabel = $('#blogModalLabel');
-            const blogModalContent = $('#blogModalContent');
-            const viewOnGithub = $('#viewOnGithub');
-            const searchInput = $('#searchInput');
-            const searchButton = $('#searchButton');
-            
-            let allBlogs = [];
-            let isLoading = false;
-            let page = 1;
-            const perPage = 9;
-            
-            // Load blogs from GitHub API
-            function loadBlogs() {
-                if (isLoading) return;
-                
-                isLoading = true;
-                loadingSpinner.show();
-                
-                $.ajax({
-                    url: 'https://api.github.com/repos/liuxiaolong01/liuxiaolong01.github.io/contents/blog',
-                    method: 'GET',
-                    success: function(data) {
-                        const mdFiles = data.filter(file => 
-                            file.name.endsWith('.md') || file.name.endsWith('.markdown')
-                        );
-                        
-                        allBlogs = mdFiles;
-                        displayBlogs(mdFiles.slice(0, perPage));
-                        
-                        // Set up infinite scroll
-                        $(window).on('scroll', handleScroll);
-                    },
-                    error: function(error) {
-                        console.error('Error loading blogs:', error);
-                        blogContainer.html('<div class="col-12 text-center text-danger">加载博客失败，请稍后再试。</div>');
-                    },
-                    complete: function() {
-                        isLoading = false;
-                        loadingSpinner.hide();
+        // 配置变量
+        const config = {
+            githubApi: {
+                username: 'liuxiaolong01',
+                repo: 'liuxiaolong01.github.io',
+                directory: 'blog',
+                token: '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'
+            },
+            coverImageApi: 'https://api.imlcd.cn/bg/gq.php'
+        };
+        
+        // 存储博客数据
+        let blogPosts = [];
+        
+        // 初始化marked.js
+        marked.setOptions({
+            highlight: function(code, lang) {
+                return hljs.highlightAuto(code, [lang]).value;
+            },
+            breaks: true,
+            gfm: true
+        });
+        
+        // 获取GitHub仓库中的文件
+        async function fetchBlogFiles() {
+            try {
+                const apiUrl = `https://api.github.com/repos/${config.githubApi.username}/${config.githubApi.repo}/contents/${config.githubApi.directory}`;
+                const response = await fetch(apiUrl, {
+                    headers: {
+                        'Authorization': `token ${config.githubApi.token}`
                     }
                 });
-            }
-            
-            // Display blogs in cards
-            function displayBlogs(blogs) {
-                if (blogs.length === 0) {
-                    blogContainer.html('<div class="col-12 text-center">没有找到博客文章。</div>');
-                    return;
+                
+                if (!response.ok) {
+                    throw new Error(`GitHub API请求失败: ${response.status} ${response.statusText}`);
                 }
                 
-                blogs.forEach(blog => {
-                    const card = createBlogCard(blog);
-                    blogContainer.append(card);
+                const files = await response.json();
+                const mdFiles = files.filter(file => file.name.endsWith('.md'));
+                
+                // 获取每个文件的详细内容
+                for (const file of mdFiles) {
+                    const contentResponse = await fetch(file.download_url);
+                    if (!contentResponse.ok) {
+                        throw new Error(`获取文件内容失败: ${file.name}`);
+                    }
+                    
+                    const content = await contentResponse.text();
+                    // 从文件内容中提取标题
+                    let title = file.name.replace('.md', '');
+                    
+                    // 尝试从Markdown内容中提取标题
+                    const titleMatch = content.match(/^# (.+)$/m);
+                    if (titleMatch && titleMatch[1]) {
+                        title = titleMatch[1];
+                    }
+                    
+                    blogPosts.push({
+                        id: file.sha,
+                        title: title,
+                        content: content,
+                        path: file.path,
+                        url: file.html_url
+                    });
+                }
+                
+                // 按文件名排序，最新的在前面
+                blogPosts.sort((a, b) => {
+                    const aName = a.path.replace('.md', '');
+                    const bName = b.path.replace('.md', '');
+                    return bName.localeCompare(aName);
                 });
                 
-                // Initialize lazy loading for images
-                initLazyLoading();
-            }
-            
-            // Create blog card HTML
-            function createBlogCard(blog) {
-                const randomCover = `https://api.imlcd.cn/bg/gq.php?random=${Math.random()}`;
-                const blogName = blog.name.replace(/\.md$|\.markdown$/i, '');
-                const blogUrl = blog.html_url;
-                const downloadUrl = blog.download_url;
-                
-                return `
-                    <div class="col">
-                        <div class="card h-100" data-url="${downloadUrl}" data-name="${blogName}" data-github-url="${blogUrl}">
-                            <div class="lazy-load" data-src="${randomCover}"></div>
-                            <div class="card-body">
-                                <h5 class="card-title">${blogName}</h5>
-                                <p class="card-text text-muted">${formatDate(blog.name)}</p>
-                                <p class="card-text" id="excerpt-${blog.sha}">加载中...</p>
-                            </div>
-                            <div class="card-footer bg-transparent">
-                                <button class="btn btn-outline-primary btn-sm read-more" data-bs-toggle="modal" data-bs-target="#blogModal">
-                                    阅读更多
-                                </button>
-                            </div>
-                        </div>
+                return blogPosts;
+            } catch (error) {
+                console.error('获取博客文件失败:', error);
+                document.getElementById('loadingSpinner').innerHTML = `
+                    <div class="alert alert-danger" role="alert">
+                        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+                        加载博客失败: ${error.message}
                     </div>
                 `;
+                return [];
             }
+        }
+        
+        // 创建博客卡片
+        function createBlogCard(blog) {
+            const randomSeed = Math.random().toString(36).substring(2, 10);
+            const coverUrl = `${config.coverImageApi}?${randomSeed}`;
             
-            // Format date from filename (if possible)
-            function formatDate(filename) {
-                // Try to extract date from filename like "2023-01-01-title.md"
-                const dateMatch = filename.match(/(\d{4})-(\d{2})-(\d{2})/);
-                if (dateMatch) {
-                    return `${dateMatch[1]}年${dateMatch[2]}月${dateMatch[3]}日`;
-                }
-                return "未知日期";
-            }
+            const card = document.createElement('div');
+            card.className = 'col';
+            card.innerHTML = `
+                <div class="card blog-card h-100" data-id="${blog.id}">
+                    <img src="${coverUrl}" class="card-img-top lazy-load" alt="${blog.title}" loading="lazy">
+                    <div class="card-body">
+                        <h5 class="card-title">${blog.title}</h5>
+                    </div>
+                </div>
+            `;
             
-            // Handle scroll for infinite loading
-            function handleScroll() {
-                if (isLoading) return;
-                
-                const scrollTop = $(window).scrollTop();
-                const windowHeight = $(window).height();
-                const documentHeight = $(document).height();
-                
-                if (scrollTop + windowHeight >= documentHeight - 200) {
-                    loadMoreBlogs();
-                }
-            }
+            // 添加点击事件
+            card.querySelector('.blog-card').addEventListener('click', () => {
+                showBlogContent(blog);
+            });
             
-            // Load more blogs
-            function loadMoreBlogs() {
-                if (isLoading || (page * perPage) >= allBlogs.length) return;
-                
-                isLoading = true;
-                loadingSpinner.show();
-                
-                const start = page * perPage;
-                const end = start + perPage;
-                const nextBlogs = allBlogs.slice(start, end);
-                
-                setTimeout(() => {
-                    displayBlogs(nextBlogs);
-                    page++;
-                    isLoading = false;
-                    loadingSpinner.hide();
-                }, 500); // Small delay for better UX
-            }
+            return card;
+        }
+        
+        // 显示博客内容
+        function showBlogContent(blog) {
+            const modalTitle = document.getElementById('blogModalLabel');
+            const blogContent = document.getElementById('blogContent');
             
-            // Initialize lazy loading for images
-            function initLazyLoading() {
-                const lazyLoads = document.querySelectorAll('.lazy-load');
-                
-                const lazyLoadObserver = new IntersectionObserver((entries, observer) => {
-                    entries.forEach(entry => {
-                        if (entry.isIntersecting) {
-                            const lazyImage = entry.target;
-                            const src = lazyImage.getAttribute('data-src');
-                            
-                            if (src) {
-                                // Create img element to replace the placeholder
-                                const img = document.createElement('img');
-                                img.src = src;
-                                img.className = 'card-img-top';
-                                img.alt = '封面图';
-                                img.onload = () => {
-                                    lazyImage.replaceWith(img);
-                                };
-                            }
-                            
-                            observer.unobserve(lazyImage);
-                        }
-                    });
-                });
-                
-                lazyLoads.forEach(lazyLoad => {
-                    lazyLoadObserver.observe(lazyLoad);
-                });
-            }
+            modalTitle.textContent = blog.title;
             
-            // Load blog content for modal
-            function loadBlogContent(url, title, githubUrl) {
-                blogModalLabel.text(title);
-                blogModalContent.html('<div class="text-center"><div class="spinner-border text-primary" role="status"><span class="visually-hidden">Loading...</span></div></div>');
-                viewOnGithub.attr('href', githubUrl);
+            // 将Markdown转换为HTML
+            const htmlContent = marked.parse(blog.content);
+            blogContent.innerHTML = htmlContent;
+            
+            // 应用代码高亮
+            document.querySelectorAll('#blogContent pre code').forEach((block) => {
+                hljs.highlightElement(block);
+            });
+            
+            // 显示模态框
+            const blogModal = new bootstrap.Modal(document.getElementById('blogModal'));
+            blogModal.show();
+        }
+        
+        // 搜索功能
+        function setupSearch() {
+            const searchInput = document.getElementById('searchInput');
+            const clearButton = document.getElementById('clearSearch');
+            const noResults = document.getElementById('noResults');
+            const blogContainer = document.getElementById('blogContainer');
+            
+            searchInput.addEventListener('input', () => {
+                const searchTerm = searchInput.value.toLowerCase().trim();
+                const cards = blogContainer.querySelectorAll('.col');
+                let hasResults = false;
                 
-                $.ajax({
-                    url: url,
-                    method: 'GET',
-                    success: function(content) {
-                        const htmlContent = marked.parse(content);
-                        blogModalContent.html(htmlContent);
-                    },
-                    error: function() {
-                        blogModalContent.html('<div class="alert alert-danger">加载内容失败，请稍后再试。</div>');
+                cards.forEach(card => {
+                    const title = card.querySelector('.card-title').textContent.toLowerCase();
+                    if (title.includes(searchTerm) || searchTerm === '') {
+                        card.style.display = '';
+                        hasResults = true;
+                    } else {
+                        card.style.display = 'none';
                     }
                 });
-            }
-            
-            // Search blogs
-            function searchBlogs(query) {
-                if (!query) {
-                    blogContainer.empty();
-                    displayBlogs(allBlogs.slice(0, perPage));
-                    page = 1;
-                    return;
+                
+                if (hasResults || searchTerm === '') {
+                    noResults.classList.add('d-none');
+                } else {
+                    noResults.classList.remove('d-none');
                 }
-                
-                const filteredBlogs = allBlogs.filter(blog => 
-                    blog.name.toLowerCase().includes(query.toLowerCase())
-                );
-                
-                blogContainer.empty();
-                displayBlogs(filteredBlogs);
-            }
+            });
             
-            // Load excerpts for blogs
-            function loadExcerpts() {
-                $('.card').each(function() {
-                    const card = $(this);
-                    const url = card.data('url');
-                    const excerptId = `excerpt-${card.find('.card-text').attr('id')}`;
-                    
-                    $.ajax({
-                        url: url,
-                        method: 'GET',
-                        success: function(content) {
-                            // Extract first paragraph as excerpt
-                            const firstParagraph = content.split('\n\n').find(p => p.trim().length > 0) || content.substring(0, 150);
-                            const plainText = firstParagraph
-                                .replace(/^#+\s+/gm, '') // Remove headings
-                                .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove markdown links
-                                .replace(/[`*_~]/g, '') // Remove markdown formatting
-                                .substring(0, 150) + '...';
-                            
-                            $(`#${excerptId}`).text(plainText);
-                        },
-                        error: function() {
-                            $(`#${excerptId}`).text('无法加载摘要...');
+            clearButton.addEventListener('click', () => {
+                searchInput.value = '';
+                searchInput.dispatchEvent(new Event('input'));
+            });
+        }
+        
+        // 懒加载图片
+        function setupLazyLoading() {
+            if ('IntersectionObserver' in window) {
+                const lazyImages = document.querySelectorAll('.lazy-load');
+                
+                const imageObserver = new IntersectionObserver((entries, observer) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            const img = entry.target;
+                            img.src = img.dataset.src || img.src;
+                            img.addEventListener('load', () => {
+                                img.classList.add('lazy-loaded');
+                            });
+                            observer.unobserve(img);
                         }
                     });
                 });
+                
+                lazyImages.forEach(img => {
+                    imageObserver.observe(img);
+                });
+            } else {
+                // 回退方案
+                const lazyImages = document.querySelectorAll('.lazy-load');
+                lazyImages.forEach(img => {
+                    img.src = img.dataset.src || img.src;
+                    img.classList.add('lazy-loaded');
+                });
+            }
+        }
+        
+        // 流式加载博客卡片
+        function setupInfiniteScroll() {
+            const blogContainer = document.getElementById('blogContainer');
+            let visibleCount = 0;
+            const batchSize = 6;
+            
+            function loadMoreBlogs() {
+                const newCards = [];
+                const endIndex = Math.min(visibleCount + batchSize, blogPosts.length);
+                
+                for (let i = visibleCount; i < endIndex; i++) {
+                    newCards.push(createBlogCard(blogPosts[i]));
+                }
+                
+                if (newCards.length > 0) {
+                    newCards.forEach(card => blogContainer.appendChild(card));
+                    visibleCount += newCards.length;
+                    setupLazyLoading();
+                }
+                
+                if (visibleCount >= blogPosts.length) {
+                    const loadingSpinner = document.getElementById('loadingSpinner');
+                    loadingSpinner.style.display = 'none';
+                }
             }
             
-            // Event listeners
-            blogContainer.on('click', '.read-more', function() {
-                const card = $(this).closest('.card');
-                const url = card.data('url');
-                const title = card.data('name');
-                const githubUrl = card.data('github-url');
-                
-                loadBlogContent(url, title, githubUrl);
-            });
+            // 初始加载
+            loadMoreBlogs();
             
-            searchButton.on('click', function() {
-                searchBlogs(searchInput.val().trim());
-            });
-            
-            searchInput.on('keyup', function(e) {
-                if (e.key === 'Enter') {
-                    searchBlogs(searchInput.val().trim());
+            // 监听滚动事件
+            window.addEventListener('scroll', () => {
+                if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 500) {
+                    loadMoreBlogs();
                 }
             });
+        }
+        
+        // 初始化应用
+        async function initApp() {
+            // 获取博客文件
+            blogPosts = await fetchBlogFiles();
             
-            // Initial load
-            loadBlogs();
-            
-            // Load excerpts after a short delay
-            setTimeout(loadExcerpts, 1000);
-        });
+            if (blogPosts.length > 0) {
+                // 设置搜索功能
+                setupSearch();
+                
+                // 设置流式加载
+                setupInfiniteScroll();
+                
+                // 设置懒加载
+                setupLazyLoading();
+            }
+        }
+        
+        // 启动应用
+        document.addEventListener('DOMContentLoaded', initApp);
     </script>
 </body>
 </html>
