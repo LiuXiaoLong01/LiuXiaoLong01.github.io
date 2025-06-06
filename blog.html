@@ -9,126 +9,86 @@
     <!-- Bootstrap Icons -->
     <link href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-icons/1.8.1/font/bootstrap-icons.css" type="text/css" rel="stylesheet" />
     <!-- Highlight.js CSS -->
-    <link href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/highlight.js/11.4.0/styles/github-dark.min.css" type="text/css" rel="stylesheet" />
+    <link href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/highlight.js/11.4.0/styles/github.min.css" type="text/css" rel="stylesheet" />
     <style>
-        body {
-            padding-top: 56px;
-            background-color: #f8f9fa;
-        }
-        .card {
+        /* 自定义样式 */
+        .blog-card {
+            cursor: pointer;
             transition: transform 0.3s;
             height: 100%;
         }
-        .card:hover {
+        .blog-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0,0,0,.1);
         }
         .card-img-top {
             height: 180px;
             object-fit: cover;
         }
-        .modal-content {
-            border-radius: 0.5rem;
-        }
-        .modal-body {
-            padding: 2rem;
-        }
         .modal-body img {
             max-width: 100%;
             height: auto;
-            display: block;
-            margin: 1rem auto;
-            border-radius: 0.25rem;
         }
-        .modal-body pre {
-            border-radius: 0.25rem;
-            padding: 1rem;
-            background-color: #1e1e1e;
+        pre {
+            padding: 15px !important;
+            border-radius: 5px;
         }
-        .modal-body code {
-            font-family: 'Courier New', Courier, monospace;
-        }
-        .modal-body blockquote {
-            border-left: 4px solid #ddd;
-            padding-left: 1rem;
-            color: #777;
-            margin: 1rem 0;
-        }
-        .search-container {
-            margin-bottom: 2rem;
-        }
-        .lazy-load {
-            background-color: #f0f0f0;
-            background-image: linear-gradient(90deg, #f0f0f0 0%, #e0e0e0 50%, #f0f0f0 100%);
-            background-size: 200% 100%;
-            animation: shimmer 1.5s infinite;
-        }
-        @keyframes shimmer {
-            0% {
-                background-position: 200% 0;
-            }
-            100% {
-                background-position: -200% 0;
-            }
+        code {
+            padding: 2px 4px;
+            border-radius: 3px;
         }
         .loading-spinner {
             display: none;
             text-align: center;
             padding: 20px;
         }
-        .spinner-border {
-            width: 3rem;
-            height: 3rem;
+        .loading-spinner i {
+            font-size: 2rem;
+            color: #0d6efd;
+        }
+        .search-box {
+            max-width: 300px;
+        }
+        .lazy-load {
+            background-color: #f8f9fa;
+            min-height: 180px;
         }
     </style>
 </head>
 <body>
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <!-- 导航栏 -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <a class="navbar-brand" href="#">OneHub's Blog</a>
-        </div>
-    </nav>
-
-    <!-- Main Content -->
-    <div class="container mt-5">
-        <!-- Search Bar -->
-        <div class="row search-container">
-            <div class="col-md-8 mx-auto">
-                <div class="input-group mb-3">
-                    <input type="text" id="searchInput" class="form-control" placeholder="搜索文章..." aria-label="搜索文章">
-                    <button class="btn btn-outline-secondary" type="button" id="searchButton">
-                        <i class="bi bi-search"></i> 搜索
-                    </button>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0"></ul>
+                <div class="d-flex">
+                    <input class="form-control me-2 search-box" type="search" placeholder="搜索文章..." id="searchInput">
                 </div>
             </div>
         </div>
+    </nav>
 
-        <!-- Blog List -->
-        <div class="row" id="blogList">
-            <!-- Blog cards will be loaded here -->
-        </div>
-
-        <!-- Loading Spinner -->
+    <!-- 博客列表容器 -->
+    <div class="container my-5">
+        <div class="row g-4" id="blogContainer"></div>
         <div class="loading-spinner" id="loadingSpinner">
-            <div class="spinner-border text-primary" role="status">
-                <span class="visually-hidden">Loading...</span>
-            </div>
-            <p class="mt-2">正在加载更多内容...</p>
+            <i class="bi bi-arrow-repeat"></i>
+            <p>加载中...</p>
         </div>
     </div>
 
-    <!-- Blog Modal -->
-    <div class="modal fade" id="blogModal" tabindex="-1" aria-hidden="true">
+    <!-- 模态框 -->
+    <div class="modal fade" id="blogModal" tabindex="-1" aria-hidden="true" data-bs-backdrop="static">
         <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title" id="blogModalTitle"></h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body" id="blogModalBody">
-                    <!-- Blog content will be loaded here -->
-                </div>
+                <div class="modal-body" id="blogModalContent"></div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
                 </div>
@@ -136,15 +96,15 @@
         </div>
     </div>
 
-    <!-- Footer -->
-    <footer class="bg-dark text-white py-4 mt-5">
+    <!-- 页脚 -->
+    <footer class="bg-light py-4 mt-5">
         <div class="container text-center">
-            <p>博客内容托管于 <a href="https://github.com/liuxiaolong01/liuxiaolong01.github.io" target="_blank" class="text-light">GitHub</a></p>
+            <p>博客内容托管于 <a href="https://github.com/" target="_blank">GitHub</a></p>
             <p>&copy; 2019 - 2025 liuxiaolong01.github.io | 基于Bootstrap构建</p>
         </div>
     </footer>
 
-    <!-- JavaScript Libraries -->
+    <!-- JavaScript 库 -->
     <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.bundle.min.js" type="application/javascript"></script>
     <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/marked/4.0.2/marked.js" type="application/javascript"></script>
@@ -152,179 +112,162 @@
 
     <script>
         // 配置变量
-        const githubApi = {
-            username: 'liuxiaolong01',
-            repo: 'liuxiaolong01.github.io',
-            branch: 'gh-pages',
-            folder: 'blog'
-        };
-        const coverImageApi = 'https://api.imlcd.cn/bg/gq.php';
-
+        const GITHUB_API = 'https://api.github.com/repos/liuxiaolong01/liuxiaolong01.github.io/contents/blog?ref=gh-pages';
+        const COVER_IMAGE_API = 'https://api.imlcd.cn/bg/gq.php';
+        
         // 初始化变量
         let allBlogs = [];
-        let displayedBlogs = [];
         let isLoading = false;
         let page = 1;
-        const perPage = 10;
-
-        // 文档加载完成后执行
+        const perPage = 6;
+        
+        // 页面加载完成后执行
         $(document).ready(function() {
-            // 获取博客列表
-            fetchBlogList();
-
-            // 搜索功能
-            $('#searchButton').click(searchBlogs);
-            $('#searchInput').keypress(function(e) {
-                if (e.which === 13) {
-                    searchBlogs();
-                }
-            });
-
-            // 滚动加载更多
+            // 加载博客列表
+            loadBlogs();
+            
+            // 设置滚动加载
             $(window).scroll(function() {
                 if ($(window).scrollTop() + $(window).height() > $(document).height() - 200) {
-                    loadMoreBlogs();
+                    if (!isLoading && allBlogs.length > 0) {
+                        loadMoreBlogs();
+                    }
+                }
+            });
+            
+            // 搜索功能
+            $('#searchInput').on('keyup', function(e) {
+                if (e.key === 'Enter') {
+                    const searchTerm = $(this).val().toLowerCase();
+                    filterBlogs(searchTerm);
                 }
             });
         });
-
-        // 获取博客列表
-        function fetchBlogList() {
+        
+        // 加载博客列表
+        function loadBlogs() {
             isLoading = true;
             $('#loadingSpinner').show();
-
-            const apiUrl = `https://api.github.com/repos/${githubApi.username}/${githubApi.repo}/contents/${githubApi.folder}?ref=${githubApi.branch}`;
-
+            
             $.ajax({
-                url: apiUrl,
+                url: GITHUB_API,
                 method: 'GET',
                 dataType: 'json',
                 success: function(data) {
                     if (Array.isArray(data)) {
                         // 过滤出.md文件
                         allBlogs = data.filter(item => item.name.endsWith('.md'));
-                        displayedBlogs = [...allBlogs];
-                        renderBlogList();
+                        renderBlogs();
                     } else {
-                        $('#blogList').html('<div class="col-12 text-center"><p>无法获取博客列表</p></div>');
+                        console.error('Invalid data format received from GitHub API');
                     }
-                    isLoading = false;
-                    $('#loadingSpinner').hide();
                 },
-                error: function() {
-                    $('#blogList').html('<div class="col-12 text-center"><p>无法获取博客列表，请稍后再试</p></div>');
+                error: function(xhr, status, error) {
+                    console.error('Error fetching blogs:', error);
+                    $('#loadingSpinner').html('<p class="text-danger">加载失败，请刷新重试</p>');
+                },
+                complete: function() {
                     isLoading = false;
                     $('#loadingSpinner').hide();
                 }
             });
         }
-
+        
         // 渲染博客列表
-        function renderBlogList() {
-            const startIndex = (page - 1) * perPage;
-            const endIndex = Math.min(startIndex + perPage, displayedBlogs.length);
-            const blogsToShow = displayedBlogs.slice(0, endIndex);
-
-            let html = '';
+        function renderBlogs(filteredBlogs = null) {
+            const blogsToRender = filteredBlogs || allBlogs.slice(0, page * perPage);
+            const $blogContainer = $('#blogContainer');
             
-            blogsToShow.forEach((blog, index) => {
-                const blogName = blog.name.replace('.md', '');
-                const coverImage = `${coverImageApi}?random=${index}`;
-                
-                html += `
-                    <div class="col-md-4 mb-4">
-                        <div class="card h-100" data-blog-index="${index}">
-                            <img src="${coverImage}" class="card-img-top lazy-load" alt="${blogName}" loading="lazy" onload="this.classList.remove('lazy-load')">
+            if (filteredBlogs) {
+                $blogContainer.empty();
+                page = 1;
+            }
+            
+            blogsToRender.forEach((blog, index) => {
+                const blogCard = `
+                    <div class="col-md-4 col-sm-6">
+                        <div class="card blog-card mb-4" data-index="${index}">
+                            <img src="${COVER_IMAGE_API}?random=${index}" class="card-img-top lazy-load" alt="封面图" loading="lazy">
                             <div class="card-body">
-                                <h5 class="card-title">${blogName}</h5>
-                            </div>
-                            <div class="card-footer bg-transparent border-top-0">
-                                <button class="btn btn-primary w-100 read-more" data-blog-path="${blog.path}">阅读更多</button>
+                                <h5 class="card-title">${blog.name.replace('.md', '')}</h5>
                             </div>
                         </div>
                     </div>
                 `;
-            });
-
-            $('#blogList').html(html);
-
-            // 绑定点击事件
-            $('.read-more').click(function() {
-                const blogPath = $(this).data('blog-path');
-                loadBlogContent(blogPath);
-            });
-        }
-
-        // 加载更多博客
-        function loadMoreBlogs() {
-            if (isLoading || page * perPage >= displayedBlogs.length) return;
-            
-            page++;
-            renderBlogList();
-        }
-
-        // 搜索博客
-        function searchBlogs() {
-            const searchTerm = $('#searchInput').val().toLowerCase();
-            
-            if (searchTerm.trim() === '') {
-                displayedBlogs = [...allBlogs];
-            } else {
-                displayedBlogs = allBlogs.filter(blog => 
-                    blog.name.toLowerCase().replace('.md', '').includes(searchTerm)
-                );
-            }
-            
-            page = 1;
-            renderBlogList();
-        }
-
-        // Base64解码函数，处理UTF-8字符
-        function decodeBase64UTF8(base64) {
-            const binaryString = atob(base64);
-            const bytes = new Uint8Array(binaryString.length);
-            for (let i = 0; i < binaryString.length; i++) {
-                bytes[i] = binaryString.charCodeAt(i);
-            }
-            return new TextDecoder('utf-8').decode(bytes);
-        }
-
-        // 加载博客内容
-        function loadBlogContent(blogPath) {
-            const apiUrl = `https://api.github.com/repos/${githubApi.username}/${githubApi.repo}/contents/${blogPath}?ref=${githubApi.branch}`;
-            
-            $.ajax({
-                url: apiUrl,
-                method: 'GET',
-                dataType: 'json',
-                success: function(data) {
-                    if (data.content) {
-                        // 修复乱码问题：使用更可靠的Base64解码方式
-                        const markdownContent = decodeBase64UTF8(data.content);
-                        // 转换为HTML
-                        const htmlContent = marked.parse(markdownContent);
-                        
-                        // 设置模态框内容
-                        const blogName = data.name.replace('.md', '');
-                        $('#blogModalTitle').text(blogName);
-                        $('#blogModalBody').html(htmlContent);
-                        
-                        // 高亮代码块
-                        $('#blogModalBody pre code').each(function(i, block) {
-                            hljs.highlightElement(block);
-                        });
-                        
-                        // 显示模态框
-                        const blogModal = new bootstrap.Modal(document.getElementById('blogModal'));
-                        blogModal.show();
-                    } else {
-                        alert('无法加载博客内容');
-                    }
-                },
-                error: function() {
-                    alert('无法加载博客内容，请稍后再试');
+                
+                if (filteredBlogs || index >= (page - 1) * perPage) {
+                    $blogContainer.append(blogCard);
                 }
             });
+            
+            // 延迟加载图片
+            $('img.lazy-load').each(function() {
+                const $img = $(this);
+                const src = $img.attr('src');
+                $img.removeClass('lazy-load');
+                $img.attr('src', src);
+            });
+            
+            // 绑定点击事件
+            $('.blog-card').off('click').on('click', function() {
+                const index = $(this).data('index');
+                const blog = filteredBlogs ? filteredBlogs[index] : allBlogs[index];
+                showBlogContent(blog);
+            });
+        }
+        
+        // 加载更多博客
+        function loadMoreBlogs() {
+            if (page * perPage >= allBlogs.length) return;
+            
+            isLoading = true;
+            page++;
+            renderBlogs();
+            isLoading = false;
+        }
+        
+        // 显示博客内容
+        function showBlogContent(blog) {
+            $('#blogModalTitle').text(blog.name.replace('.md', ''));
+            $('#blogModalContent').html('<div class="text-center"><i class="bi bi-arrow-repeat"></i> 加载中...</div>');
+            
+            const modal = new bootstrap.Modal(document.getElementById('blogModal'));
+            modal.show();
+            
+            // 获取原始Markdown内容
+            $.ajax({
+                url: blog.download_url,
+                method: 'GET',
+                dataType: 'text',
+                success: function(markdown) {
+                    // 使用marked.js转换为HTML
+                    const html = marked.parse(markdown);
+                    $('#blogModalContent').html(html);
+                    
+                    // 高亮代码块
+                    $('pre code').each(function(i, block) {
+                        hljs.highlightElement(block);
+                    });
+                },
+                error: function(xhr, status, error) {
+                    console.error('Error fetching blog content:', error);
+                    $('#blogModalContent').html('<p class="text-danger">加载失败，请刷新重试</p>');
+                }
+            });
+        }
+        
+        // 过滤博客
+        function filterBlogs(searchTerm) {
+            if (!searchTerm) {
+                renderBlogs();
+                return;
+            }
+            
+            const filteredBlogs = allBlogs.filter(blog => 
+                blog.name.toLowerCase().includes(searchTerm)
+            );
+            
+            renderBlogs(filteredBlogs);
         }
     </script>
 </body>
