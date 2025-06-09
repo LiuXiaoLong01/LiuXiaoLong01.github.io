@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
-    <meta charset="UTF-8">    
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OneHub网址导航</title>
-    <link href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-icons/1.8.1/font/bootstrap-icons.css">
+    <link href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/css/bootstrap.min.css" type="text/css"
+        rel="stylesheet" />
+    <link rel="stylesheet"
+        href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-icons/1.8.1/font/bootstrap-icons.css">
     <style>
         * {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
-        
+
         body {
             background-color: #f8f9fa;
             background-image: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
@@ -24,37 +27,37 @@
             display: flex;
             flex-direction: column;
         }
-        
+
         .header {
             text-align: center;
             margin-bottom: 25px;
             padding: 0 15px;
         }
-        
+
         .header h1 {
             color: #0d6efd;
             font-weight: 700;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             margin-bottom: 5px;
             background: linear-gradient(45deg, #0d6efd, #0dcaf0);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
-        
+
         .header p {
             color: #6c757d;
             font-size: 1.1rem;
         }
-        
+
         .main-container {
             flex: 1;
             padding: 0 15px;
         }
-        
+
         .category-sidebar {
             background: #ffffff;
             border-radius: 12px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
             padding: 20px 15px;
             height: calc(100vh - 180px);
             overflow-y: auto;
@@ -62,25 +65,25 @@
             top: 20px;
             transition: all 0.3s;
         }
-        
+
         .category-sidebar::-webkit-scrollbar {
             width: 8px;
         }
-        
+
         .category-sidebar::-webkit-scrollbar-track {
             background: #f1f1f1;
             border-radius: 10px;
         }
-        
+
         .category-sidebar::-webkit-scrollbar-thumb {
             background: #c1c1c1;
             border-radius: 10px;
         }
-        
+
         .category-sidebar::-webkit-scrollbar-thumb:hover {
             background: #a8a8a8;
         }
-        
+
         .category-header {
             font-size: 1.25rem;
             font-weight: 600;
@@ -89,7 +92,7 @@
             padding-bottom: 10px;
             border-bottom: 2px solid #f0f4f8;
         }
-        
+
         .category-item {
             padding: 10px 15px;
             border-radius: 8px;
@@ -102,29 +105,32 @@
             font-weight: 500;
             border-left: 3px solid transparent;
         }
-        
-        .category-item:hover, .category-item.active {
+
+        .category-item:hover,
+        .category-item.active {
             background-color: #e9f7fe;
             color: #0d6efd;
             border-left: 3px solid #0d6efd;
         }
-        
+
         .content-section {
             background: #ffffff;
             border-radius: 12px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
             padding: 25px;
             min-height: 70vh;
         }
-        
+
         .search-container {
+            position: sticky;
+            top: 0;
             background: linear-gradient(135deg, #e3f2fd, #f0f8ff);
             border-radius: 12px;
             padding: 20px;
             margin-bottom: 25px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
         }
-        
+
         .search-input {
             border: 2px solid #cfe2ff;
             border-radius: 50px;
@@ -133,17 +139,17 @@
             box-shadow: 0 2px 6px rgba(13, 110, 253, 0.1);
             transition: all 0.3s;
         }
-        
+
         .search-input:focus {
             border-color: #86b7fe;
             box-shadow: 0 0 0 4px rgba(13, 110, 253, 0.25);
             outline: none;
         }
-        
+
         .result-container {
             margin-top: 15px;
         }
-        
+
         .result-title {
             font-size: 1.4rem;
             font-weight: 600;
@@ -152,7 +158,7 @@
             border-bottom: 2px solid #e9ecef;
             color: #212529;
         }
-        
+
         .search-info {
             background: #e9f7fe;
             padding: 15px 20px;
@@ -160,13 +166,13 @@
             margin-bottom: 25px;
             border-left: 4px solid #0d6efd;
         }
-        
+
         .site-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             gap: 20px;
         }
-        
+
         .site-card {
             display: flex;
             align-items: center;
@@ -176,17 +182,17 @@
             transition: all 0.3s;
             border: 1px solid #e9ecef;
             text-decoration: none !important;
-            box-shadow: 0 3px 8px rgba(0,0,0,0.03);
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.03);
             height: 100%;
         }
-        
+
         .site-card:hover {
             background: #f0faff;
             transform: translateY(-5px);
             box-shadow: 0 8px 20px rgba(13, 110, 253, 0.15);
             border-color: #cfe2ff;
         }
-        
+
         .site-logo {
             width: 40px;
             height: 40px;
@@ -198,7 +204,7 @@
             padding: 4px;
             border: 1px solid #e9ecef;
         }
-        
+
         .site-name {
             font-size: 1rem;
             color: #212529;
@@ -207,26 +213,26 @@
             overflow: hidden;
             text-overflow: ellipsis;
         }
-        
+
         .empty-state {
             text-align: center;
             padding: 50px 20px;
             color: #6c757d;
         }
-        
+
         .empty-icon {
             font-size: 64px;
             margin-bottom: 15px;
             color: #ced4da;
         }
-        
+
         .empty-title {
             font-size: 1.5rem;
             font-weight: 600;
             margin-bottom: 10px;
             color: #495057;
         }
-        
+
         .loading-spinner {
             display: inline-block;
             width: 50px;
@@ -236,12 +242,17 @@
             border-top: 5px solid #0d6efd;
             animation: spin 1s linear infinite;
         }
-        
+
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
         }
-        
+
         .back-to-top {
             position: fixed;
             bottom: 30px;
@@ -260,43 +271,43 @@
             opacity: 0;
             transition: all 0.3s;
         }
-        
+
         .back-to-top.show {
             opacity: 1;
         }
-        
+
         .back-to-top i {
             font-size: 24px;
         }
-        
+
         .footer {
             background: #ffffff;
             padding: 25px 0;
             margin-top: 40px;
             border-top: 1px solid #e9ecef;
-            box-shadow: 0 -5px 15px rgba(0,0,0,0.03);
+            box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.03);
         }
-        
+
         .footer-content {
             text-align: center;
             color: #6c757d;
             font-size: 0.95rem;
         }
-        
+
         .footer a {
             color: #0d6efd;
             text-decoration: none;
             font-weight: 500;
         }
-        
+
         .footer a:hover {
             text-decoration: underline;
         }
-        
+
         .copyright {
             margin-bottom: 8px;
         }
-        
+
         @media (max-width: 768px) {
             .category-sidebar {
                 height: auto;
@@ -304,63 +315,63 @@
                 position: relative;
                 top: 0;
             }
-            
+
             .search-container {
                 padding: 15px;
             }
-            
+
             .site-grid {
                 grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
             }
-            
+
             .result-title {
                 font-size: 1.25rem;
             }
         }
-        
+
         @media (min-width: 992px) {
             .main-row {
                 display: flex;
                 flex-wrap: nowrap;
             }
-            
+
             .category-col {
                 flex: 0 0 280px;
                 max-width: 280px;
                 margin-right: 20px;
             }
-            
+
             .content-col {
                 flex: 1;
             }
         }
-        
+
         .welcome-modal-content {
             border-radius: 15px;
             overflow: hidden;
             border: none;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
         }
-        
+
         .welcome-modal-header {
             background: linear-gradient(135deg, #0d6efd, #0dcaf0);
             color: white;
             border-bottom: none;
             padding: 20px;
         }
-        
+
         .welcome-modal-body {
             padding: 25px;
             font-size: 1.1rem;
             line-height: 1.8;
         }
-        
+
         .welcome-modal-footer {
             border-top: 1px solid #e9ecef;
             padding: 15px 25px;
             justify-content: center;
         }
-        
+
         .welcome-btn {
             background: linear-gradient(135deg, #0d6efd, #0dcaf0);
             border: none;
@@ -369,12 +380,12 @@
             font-weight: 500;
             transition: all 0.3s;
         }
-        
+
         .welcome-btn:hover {
             transform: translateY(-3px);
             box-shadow: 0 5px 15px rgba(13, 110, 253, 0.4);
         }
-        
+
         .loader-container {
             display: flex;
             justify-content: center;
@@ -383,13 +394,14 @@
         }
     </style>
 </head>
+
 <body onselectstart="return false">
     <!-- 页面标题 -->
     <div class="header">
         <h1>OneHub 网址导航</h1>
         <p>发现优质网站资源，提升工作效率与生活品质</p>
     </div>
-    
+
     <!-- 主内容区 -->
     <div class="container main-container">
         <div class="main-row row">
@@ -406,16 +418,16 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- 右侧内容区 -->
             <div class="content-col col-lg-9 col-md-8">
                 <div class="content-section">
                     <!-- 搜索框 -->
                     <div class="search-container">
-                        <input type="text" id="searchInput" class="form-control search-input" 
-                               placeholder="请输入关键词搜索网站，按Enter键确认...">
+                        <input type="text" id="searchInput" class="form-control search-input"
+                            placeholder="请输入关键词搜索网站，按Enter键确认...">
                     </div>
-                    
+
                     <!-- 结果展示区 -->
                     <div id="resultArea" class="result-container">
                         <div class="empty-state">
@@ -427,32 +439,32 @@
                         </div>
                     </div>
                 </div>
+                <!-- 页脚 -->
+        <footer class="footer">
+            <div class="container">
+                <div class="footer-content">
+                    <p class="copyright">Copyright &copy; 2019 - 2025 liuxiaolong01.github.io</p>
+                    <p>感谢【<a target="_blank" href="https://github.com/">GitHub</a>】提供支持!</p>
+                </div>
+            </div>
+        </footer>
             </div>
         </div>
     </div>
-    
-    <!-- 页脚 -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <p class="copyright">Copyright &copy; 2019 - 2025 liuxiaolong01.github.io</p>
-                <p>感谢【<a target="_blank" href="https://github.com/">GitHub</a>】提供支持!</p>
-            </div>
-        </div>
-    </footer>
-    
+
     <!-- 回到顶部按钮 -->
     <div class="back-to-top">
         <i class="bi bi-arrow-up"></i>
     </div>
-    
+
     <!-- 温馨提示弹窗 -->
     <div class="modal fade" id="welcomeModal" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content welcome-modal-content">
                 <div class="modal-header welcome-modal-header">
                     <h5 class="modal-title"><i class="bi bi-info-circle me-2"></i>温馨提示</h5>
-                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                        aria-label="Close"></button>
                 </div>
                 <div class="modal-body welcome-modal-body">
                     <p><i class="bi bi-1-circle-fill text-primary me-2"></i>点击左侧分类时，右侧内容区显示对应分类下的链接呦！</p>
@@ -464,51 +476,53 @@
             </div>
         </div>
     </div>
-    
+
     <!-- 引入JS文件 -->
     <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.min.js" type="application/javascript"></script>
-    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.bundle.min.js" type="application/javascript"></script>
-    
+    <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.min.js"
+        type="application/javascript"></script>
+    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.bundle.min.js"
+        type="application/javascript"></script>
+
     <script>
         // 数据源地址
         const DATA_SOURCE = "https://testingcf.jsdelivr.net/gh/liuxiaolong01/liuxiaolong01.github.io@refs/heads/gh-pages/json/data.json";
         let websiteData = [];
-        
+
         // 页面加载完成后执行
-        $(document).ready(function() {
+        $(document).ready(function () {
             // 显示欢迎弹窗（仅首次）
             if (!localStorage.getItem('visited')) {
                 $('#welcomeModal').modal('show');
                 localStorage.setItem('visited', 'true');
             }
-            
+
             // 加载数据
             loadWebsiteData();
-            
+
             // 搜索框事件
-            $('#searchInput').on('keyup', function(e) {
+            $('#searchInput').on('keyup', function (e) {
                 if (e.key === 'Enter') {
                     const query = $(this).val().trim();
                     searchWebsites(query);
                 }
             });
-            
+
             // 回到顶部按钮功能
-            $(window).scroll(function() {
+            $(window).scroll(function () {
                 if ($(this).scrollTop() > 300) {
                     $('.back-to-top').addClass('show');
                 } else {
                     $('.back-to-top').removeClass('show');
                 }
             });
-            
-            $('.back-to-top').click(function() {
-                $('html, body').animate({scrollTop: 0}, 500);
+
+            $('.back-to-top').click(function () {
+                $('html, body').animate({ scrollTop: 0 }, 500);
                 return false;
             });
         });
-        
+
         // 加载网站数据
         function loadWebsiteData() {
             // 显示加载状态
@@ -518,7 +532,7 @@
                     <p class="mt-3">正在加载数据...</p>
                 </div>
             `);
-            
+
             // 从数据源获取数据
             fetch(DATA_SOURCE)
                 .then(response => {
@@ -541,50 +555,50 @@
                     `);
                 });
         }
-        
+
         // 初始化页面
         function initPage() {
             // 获取所有分类
             const categories = [...new Set(websiteData.map(item => item.catelog))];
             categories.sort();
-            
+
             // 渲染分类列表
             const categoryList = $('#categoryList');
             categoryList.empty();
-            
+
             categories.forEach(category => {
                 const categoryItem = $('<a>', {
                     'class': 'category-item',
                     'href': '#',
                     'text': category
-                }).on('click', function(e) {
+                }).on('click', function (e) {
                     e.preventDefault();
                     showCategory(category);
                 });
-                
+
                 categoryList.append(categoryItem);
             });
-            
+
             // 默认显示第一个分类
             if (categories.length > 0) {
                 showCategory(categories[0]);
             }
         }
-        
+
         // 显示分类内容
         function showCategory(category) {
             // 更新选中状态
             $('.category-item').removeClass('active');
             $(`.category-item:contains('${category}')`).addClass('active');
-            
+
             // 获取该分类下的网站
-            const items = websiteData.filter(item => 
+            const items = websiteData.filter(item =>
                 item.catelog === category && !item.hide
             );
-            
+
             // 渲染结果
             const resultArea = $('#resultArea');
-            
+
             if (items.length > 0) {
                 const resultHtml = `
                     <h3 class="result-title">
@@ -602,7 +616,7 @@
                         `).join('')}
                     </div>
                 `;
-                
+
                 resultArea.html(resultHtml);
             } else {
                 resultArea.html(`
@@ -616,11 +630,11 @@
                 `);
             }
         }
-        
+
         // 搜索网站
         function searchWebsites(query) {
             const resultArea = $('#resultArea');
-            
+
             // 处理空搜索
             if (!query) {
                 resultArea.html(`
@@ -633,12 +647,12 @@
                 `);
                 return;
             }
-            
+
             // 执行搜索（不区分大小写）
-            const results = websiteData.filter(item => 
+            const results = websiteData.filter(item =>
                 item.name.toLowerCase().includes(query.toLowerCase()) && !item.hide
             );
-            
+
             // 渲染结果
             if (results.length > 0) {
                 const resultHtml = `
@@ -656,7 +670,7 @@
                         `).join('')}
                     </div>
                 `;
-                
+
                 resultArea.html(resultHtml);
             } else {
                 resultArea.html(`
@@ -678,4 +692,5 @@
         }
     </script>
 </body>
+
 </html>
